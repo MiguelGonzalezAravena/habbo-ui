@@ -1,0 +1,17 @@
+{
+  "name": "habbo-ui",
+  "private": true,
+  "version": "0.1.0",
+  "packageManager": "pnpm@9.15.9",
+  "scripts": {
+    "dev": "pnpm --filter @mgadev/habbo-ui build && pnpm --filter @retro-ui/playground dev",
+    "storybook": "pnpm --filter @mgadev/habbo-ui build && pnpm --filter @retro-ui/docs storybook",
+    "build": "pnpm --filter @mgadev/habbo-ui build && pnpm --filter @retro-ui/playground build",
+    "test": "pnpm --filter @mgadev/habbo-ui test",
+    "typecheck": "pnpm --filter @mgadev/habbo-ui typecheck",
+    "build-storybook": "pnpm --filter @mgadev/habbo-ui build && pnpm --filter @retro-ui/docs typecheck && pnpm --filter @retro-ui/docs build-storybook"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

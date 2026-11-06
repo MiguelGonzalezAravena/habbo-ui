@@ -1,0 +1,7 @@
+.tabs { font:11px var(--retro-font); color:#111; }
+.list { display:flex; align-items:flex-end; gap:3px; padding:0 6px; border-bottom:1px solid #000; }
+.tab { font: bold 11px var(--retro-font); padding:6px 12px 5px; border:1px solid #000; border-bottom:0; border-radius:5px 5px 0 0; background:#aaa99e; color:#222; cursor:pointer; box-shadow:inset 1px 1px #e4e4da; }
+.tab[aria-selected="true"] { background:#fff; padding-top:8px; margin-bottom:-1px; padding-bottom:6px; }
+.tab:focus-visible { outline:2px solid #306896; outline-offset:-3px; }
+.content { background:#fff; padding:10px; border:1px solid #000; border-top:0; line-height:1.5; }
+.content[hidden] { display:none; }

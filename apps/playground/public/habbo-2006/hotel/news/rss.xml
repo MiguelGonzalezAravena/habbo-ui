@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Hotel news</title>
+    <link>http://www.habbo.com/</link>
+    <description />
+    <item>
+      <title>Weird Al Yankovic in Habbo!</title>
+      <link>http://www.habbo.com/hotel/news/weird_al_interview.html</link>
+      <description>LIVE on Bobba Music, Monday October 30th...</description>
+      <pubDate>Fri, 27 Oct 2006 21:14:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/hotel/news/weird_al_interview.html</guid>
+      <dc:date>2006-10-27T21:14:00Z</dc:date>
+    </item>
+    <item>
+      <title>Bobba Music Launch Party on FRIDAY!</title>
+      <link>http://www.habbo.com/hotel/news/bobbamusiclaunch.html</link>
+      <description>Come listen to the best music in all of Habbo…</description>
+      <pubDate>Thu, 19 Oct 2006 23:20:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/hotel/news/bobbamusiclaunch.html</guid>
+      <dc:date>2006-10-19T23:20:00Z</dc:date>
+    </item>
+    <item>
+      <title>The Results are IN</title>
+      <link>http://www.habbo.com/hotel/news/hm_vote_results.html</link>
+      <description>Who is Habbo USA's Hotel Manager?</description>
+      <pubDate>Fri, 29 Sep 2006 23:03:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/hotel/news/hm_vote_results.html</guid>
+      <dc:date>2006-09-29T23:03:00Z</dc:date>
+    </item>
+    <item>
+      <title>Kedo Is Missing...</title>
+      <link>http://www.habbo.com/hotel/news/kedo_has_disappeared.html</link>
+      <description>Can you help find our Hotel Manager?</description>
+      <pubDate>Sun, 17 Sep 2006 16:14:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/hotel/news/kedo_has_disappeared.html</guid>
+      <dc:date>2006-09-17T16:14:00Z</dc:date>
+    </item>
+    <item>
+      <title>Habbo World Championship Update</title>
+      <link>http://www.habbo.com/hotel/news/habbo_cup_championship.html</link>
+      <description>The Habbo Club only rooms are going exclusive again</description>
+      <pubDate>Mon, 21 Aug 2006 15:35:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/hotel/news/habbo_cup_championship.html</guid>
+      <dc:date>2006-08-21T15:35:00Z</dc:date>
+    </item>
+    <item>
+      <title>The Sea Dragon's last hurrah</title>
+      <link>http://www.habbo.com/hotel/news/raretreasuryfound.html</link>
+      <description>It's the last weekend to get your hands on this rare...</description>
+      <pubDate>Fri, 04 Aug 2006 15:35:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/hotel/news/raretreasuryfound.html</guid>
+      <dc:date>2006-08-04T15:35:00Z</dc:date>
+    </item>
+    <item>
+      <title>New Welcome Lounges Added</title>
+      <link>http://www.habbo.com/hotel/news/welcomelounges.html</link>
+      <description>Now there's even more space for Habbos to meet and greet...</description>
+      <pubDate>Tue, 01 Aug 2006 17:31:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/hotel/news/welcomelounges.html</guid>
+      <dc:date>2006-08-01T17:31:00Z</dc:date>
+    </item>
+    <item>
+      <title>The Rare Gold Plasma Gate is here!</title>
+      <link>http://www.habbo.com/hotel/news/lasergatepromo.html</link>
+      <description>Read more to find out how to get one...</description>
+      <pubDate>Fri, 21 Jul 2006 21:49:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/hotel/news/lasergatepromo.html</guid>
+      <dc:date>2006-07-21T21:49:00Z</dc:date>
+    </item>
+    <item>
+      <title>Meet Hotel Staff!</title>
+      <link>http://www.habbo.com/hotel/news/hotelstaffnews.html</link>
+      <description>Ever wonder who's pulling the strings at Habbo USA...</description>
+      <pubDate>Fri, 07 Jul 2006 18:11:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/hotel/news/hotelstaffnews.html</guid>
+      <dc:date>2006-07-07T18:11:00Z</dc:date>
+    </item>
+    <item>
+      <title>Habbo USA Wins it All!</title>
+      <link>http://www.habbo.com/hotel/news/habbo_usa_wins_it_all.html</link>
+      <description>We've scored another goal and the trophy is ours!</description>
+      <pubDate>Fri, 07 Jul 2006 18:09:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/hotel/news/habbo_usa_wins_it_all.html</guid>
+      <dc:date>2006-07-07T18:09:00Z</dc:date>
+    </item>
+  </channel>
+</rss>
+

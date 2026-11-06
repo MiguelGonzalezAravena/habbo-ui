@@ -1,0 +1,13 @@
+import a0 from './assets/compositions/_external/images.habbohotel.com/c_images/album1151/whitenav3.gif';
+import a1 from './assets/compositions/_external/images.habbohotel.com/c_images/album1554/extra_ss_snowflake1.gif';
+import a2 from './assets/compositions/_external/images.habbohotel.com/c_images/album1554/extra_ss_snowflake2.gif';
+import a3 from './assets/compositions/_external/images.habbohotel.com/c_images/album775/Thumbs_52x41.gif';
+import a4 from './assets/compositions/_external/images.habbohotel.com/c_images/album81/x_19.gif';
+import a5 from './assets/compositions/_external/images.habbohotel.com/c_images/navi_icons/tab_icon_02_hotel.gif';
+import a6 from './assets/compositions/_external/images.habbohotel.com/c_images/navi_icons/tab_icon_03_community.gif';
+import a7 from './assets/compositions/_external/images.habbohotel.com/c_images/navi_icons/tab_icon_04_games.gif';
+import a8 from './assets/compositions/_external/images.habbohotel.com/c_images/navi_icons/tab_icon_08_hep.gif';
+import a9 from './assets/compositions/_external/images.habbohotel.com/web/web-1.0.1_b25/images/top_bar/toolbar_icon_credits.gif';
+import a10 from './assets/compositions/_external/images.habbohotel.com/web/web-1.0.1_b39/images/promo_area/feed-icon.gif';
+import a11 from './assets/compositions/images/navi/tab_icon_01_home.gif';
+export const assets:Record<string,string>={"_external/images.habbohotel.com/c_images/album1151/whitenav3.gif":a0,"_external/images.habbohotel.com/c_images/album1554/extra_ss_snowflake1.gif":a1,"_external/images.habbohotel.com/c_images/album1554/extra_ss_snowflake2.gif":a2,"_external/images.habbohotel.com/c_images/album775/Thumbs_52x41.gif":a3,"_external/images.habbohotel.com/c_images/album81/x_19.gif":a4,"_external/images.habbohotel.com/c_images/navi_icons/tab_icon_02_hotel.gif":a5,"_external/images.habbohotel.com/c_images/navi_icons/tab_icon_03_community.gif":a6,"_external/images.habbohotel.com/c_images/navi_icons/tab_icon_04_games.gif":a7,"_external/images.habbohotel.com/c_images/navi_icons/tab_icon_08_hep.gif":a8,"_external/images.habbohotel.com/web/web-1.0.1_b25/images/top_bar/toolbar_icon_credits.gif":a9,"_external/images.habbohotel.com/web/web-1.0.1_b39/images/promo_area/feed-icon.gif":a10,"images/navi/tab_icon_01_home.gif":a11};

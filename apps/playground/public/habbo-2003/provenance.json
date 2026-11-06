@@ -1,0 +1,127 @@
+{
+  "source": "https://h4bbo.net/archive/Habbo%20Archives/Shockwave/Habbo%202003%20EN.zip",
+  "archiveReferences": "20031008143415",
+  "packageNote": "Preservation package assembled in 2023; pages retain October 2003 Wayback references. Fidelity is to the supplied archived HTML and assets, not independently proven pixel equality.",
+  "htmlPages": 54,
+  "missingImageReferences": [
+    {
+      "page": "habbo/en/shop/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/community/habbohoodwatch/index.html",
+      "resource": "https://web.archive.org/web/20031003204712im_/http://eu.xmts.net/1330/29166"
+    },
+    {
+      "page": "habbo/en/community/habbohoodwatch/hhw_latest/index.html",
+      "resource": "http://web.archive.org/web/20030605122530im_/http://eu.xmts.net/1330/29166"
+    },
+    {
+      "page": "habbo/en/community/habbohoodwatch/hhw_latest/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/community/newsletter/nl_latest/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/contact/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/contact/scamreport/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/contact/password/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/contact/bugs/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/contact/feedback/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/faq/payment/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/faq/catalogueitems/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/faq/rooms/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/faq/newfeatures/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/faq/technical/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/faq/moderation/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/about/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/about/navigation/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/about/designroom/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/about/news/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/about/aboutsafety/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/about/shockwave/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/about/games/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/safety/iAC/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/safety/console/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/scam/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/scam/contact/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    },
+    {
+      "page": "habbo/en/help/scam/furni/index.html",
+      "resource": "http://www.habbohotel.com/img/hoot.gif"
+    }
+  ],
+  "changes": [
+    "UTF-8 encoding",
+    "Local resource/link paths",
+    "Archived tracking and scripts removed",
+    "External/plugin service actions show a local notice"
+  ],
+  "layout": "Original fixed-width tables, original CSS and GIF sprites; no modern layout reset applied."
+}

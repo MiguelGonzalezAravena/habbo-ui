@@ -1,0 +1,1647 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+
+
+
+
+
+<meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+<title>Habbo ~ Habbo home: A.Dumbledore</title>
+<link href="../_external/images.habbohotel.com/web/web-R13.2-b41/styles/style.css" rel="stylesheet" type="text/css"/>
+<link href="../_external/images.habbohotel.com/web/web-R13.2-b41/styles/ads.css" rel="stylesheet" type="text/css"/>
+<link href="../_external/images.habbohotel.com/web/web-R13.2-b41/styles/boxes.css" rel="stylesheet" type="text/css"/>
+<script language="JavaScript" type="text/javascript">
+	var habboReqPath = "";
+	var habboStaticFilePath = "http://images.habbohotel.com/web/web-R13.2-b41";
+	document.habboLoggedIn = false;
+	window.name = "habboMain";
+	</script>
+<script language="JavaScript" src="../_external/images.habbohotel.com/web/web-R13.2-b41/js/prototype.js" type="text/javascript"></script>
+<script language="JavaScript" src="../_external/images.habbohotel.com/web/web-R13.2-b41/js/builder.js" type="text/javascript"></script>
+<script language="JavaScript" src="../_external/images.habbohotel.com/web/web-R13.2-b41/js/habbo.js" type="text/javascript"></script>
+<script language="JavaScript" src="../_external/images.habbohotel.com/web/web-R13.2-b41/js/hobojax.js" type="text/javascript"></script>
+<link href="../_external/images.habbohotel.com/web/web-R13.2-b41/styles/myhabbo/myhabbo.css" rel="stylesheet" type="text/css"/>
+<link href="../_external/images.habbohotel.com/web/web-R13.2-b41/styles/myhabbo/skins.css" rel="stylesheet" type="text/css"/>
+<link href="../_external/images.habbohotel.com/web/web-R13.2-b41/styles/myhabbo/dialogs.css" rel="stylesheet" type="text/css"/>
+<link href="../_external/images.habbohotel.com/web/web-R13.2-b41/styles/myhabbo/buttons.css" rel="stylesheet" type="text/css"/>
+<link href="../_external/images.habbohotel.com/web/web-R13.2-b41/styles/boxes.css" rel="stylesheet" type="text/css"/>
+<link href="../_external/images.habbohotel.com/web/web-R13.2-b41/styles/myhabbo/boxes.css" rel="stylesheet" type="text/css"/>
+<link href="../_external/images.habbohotel.com/web/web-R13.2-b41/styles/profile.css" rel="stylesheet" type="text/css"/>
+<link href="../myhabbo/styles/assets_v_de1d6e7e83cf3a3a6b131ac9a16e1f55.css" rel="stylesheet" type="text/css"/>
+<script src="../_external/images.habbohotel.com/web/web-R13.2-b41/js/inheritance.js" type="text/javascript"></script>
+<script src="../_external/images.habbohotel.com/web/web-R13.2-b41/js/effects.js" type="text/javascript"></script>
+<script src="../_external/images.habbohotel.com/web/web-R13.2-b41/js/dragdrop.js" type="text/javascript"></script>
+<script src="../_external/images.habbohotel.com/web/web-R13.2-b41/js/slider.js" type="text/javascript"></script>
+<script src="../_external/images.habbohotel.com/web/web-R13.2-b41/js/myhabbo.js" type="text/javascript"></script>
+<script src="../_external/images.habbohotel.com/web/web-R13.2-b41/js/myhabbo-dialogs.js" type="text/javascript"></script>
+<script src="../_external/images.habbohotel.com/web/web-R13.2-b41/js/myhabbo-widgets.js" type="text/javascript"></script>
+<script src="../_external/images.habbohotel.com/web/web-R13.2-b41/js/swfobject.js" type="text/javascript"></script>
+<style type="text/css">
+
+    #playground, #playground-outer {
+	    width: 910px;
+	    height: 1360px;
+    }
+
+</style>
+<meta content="This is the Habbo Homepage of A.Dumbledore, you can create your own page at www.habbo.com" name="description"/>
+<script type="text/javascript">
+Event.onDOMReady(function() { initView(2767557); });
+</script>
+<!--[if IE]>
+    <link href="http://images.habbohotel.com/web/web-R13.2-b41/styles/ie-all.css" type="text/css" rel="stylesheet" />
+    <![endif]-->
+<!--[if lt IE 7]>
+    <link href="http://images.habbohotel.com/web/web-R13.2-b41/styles/ie6.css" type="text/css" rel="stylesheet" />
+    <style type="text/css">
+    body { behavior: url(/js/csshover.htc); }
+    </style>
+    <![endif]-->
+<link href="../styles/style_custom_com.css" rel="stylesheet" type="text/css"/>
+<!-- R13.2.1-b41 - 20070611163008  - com -->
+</head>
+<body id="viewmode">
+<div id="overlay"></div>
+<h1 id="main-header">Habbo</h1>
+<script>
+var AGCookie = {
+  set: function() { return (document.cookie = 'accom=1; path=/; domain=.habbo.com'); },
+  get: function() {
+	var cookie = document.cookie.match(new RegExp('(^|;)\\s*accom=([^;\\s]*)'));
+	return (cookie ? unescape(cookie[2]) : null);
+  }
+};
+if ((document.referrer && document.referrer.toLowerCase().indexOf("/partner/ag.html") != -1) || AGCookie.get() == "1") {
+  AGCookie.set();
+  document.write('<iframe src="http://www.addictinggames.com/extra_habbohotel.html" width="100%" height="50" frameborder="0" scrolling="no"></iframe>');
+}
+</script>
+<div id="wrapper">
+<div id="top_wrap">
+<div id="top">
+<div id="topdim"></div>
+<div id="top-elements">
+<table id="topbar">
+<tr>
+<td id="topbar-count">2,263 members online</td>
+<td align="center" id="topbar-menu">
+<ul>
+<li class="selected" id="myhabbo" onmouseover="switchTab('myhabbo')">
+<div><a class="topbar-menu-link" href="../tab/myhabbo.html" onclick="return false;">My Habbo</a></div>
+</li><li id="mycredits" onmouseout="fadeTab('myhabbo')" onmouseover="if (switchTab('mycredits') &amp;&amp; document.habboLoggedIn) updateCredits()">
+<div><a class="topbar-menu-link" href="../tab/credits.html" onclick="return false;">My Coins</a></div>
+</li><li id="habboclub" onmouseout="fadeTab('myhabbo')" onmouseover="if (switchTab('habboclub') &amp;&amp; document.habboLoggedIn) updateHabboClub()">
+<div><a class="topbar-menu-link" href="../tab/habboclub.html" onclick="return false;">Habbo Club</a></div>
+</li>
+</ul>
+</td>
+<td class="notloggedin" id="topbar-status">
+						Not logged in
+				</td>
+</tr>
+</table>
+<div id="habbologo"><a href="../index.html"></a></div>
+<div id="enter-hotel">
+<a href="../client.html" id="enter-hotel-link" onclick="openOrFocusHabbo(this); return false;" target="client"></a>
+</div>
+<div id="tabmenu" onmouseout="fadeTab('myhabbo')" onmouseover="lockCurrentTab();">
+<div id="tabmenu-content">
+<div class="tabmenu-inner selected" id="myhabbo-content">
+<img alt="" class="tabmenu-image" height="85" src="../_external/images.habbohotel.com/web/web-R13.2-b41/images/top_bar/myhabbo_frank.gif" width="60"/>
+<h3>Welcome! Please sign in or register</h3>
+<div class="tabmenu-inner-content">
+<p>
+<a class="colorlink orange" href="../login.html"><span>Register Now, it's free!</span></a>
+</p>
+<p>
+<a class="colorlink orange last" href="../login.html"><span>Sign In</span></a>
+</p>
+</div>
+</div>
+<div class="tabmenu-inner" id="mycredits-content">
+<h3>Please <a href="../login.html">sign in</a> to see your balance</h3>
+<div class="tabmenu-inner-content">
+<p>
+<img alt="" class="tabmenu-image coins" height="21" src="../_external/images.habbohotel.com/web/web-R13.2-b41/images/top_bar/mycredits_coins.gif" width="47"/>
+<a class="arrow" href="../tab/credits.html"><span>Buy More Coins</span></a>
+</p>
+<p>
+<a class="arrow" href="../tab/redeem.html"><span>Redeem a Coin or Furni Code</span></a>
+</p>
+</div>
+</div>
+<div class="tabmenu-inner" id="habboclub-content">
+<h3>Please <a href="../login.html">sign in</a> to see your Club status</h3>
+<div class="tabmenu-inner-content">
+<p>
+								Habbo Club gives you access to the full benefits on Habbo Hotel.
+							</p>
+<p>
+<a class="arrow" href="../tab/habboclub.html"><span>Latest News on Habbo Club</span></a>
+</p>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="tabmenu-bottom"></div>
+</div>
+</div>
+<script language="JavaScript" type="text/javascript">
+		$("tabmenu").style.left = (Position.cumulativeOffset($("myhabbo"))[0] - Position.cumulativeOffset($("top"))[0]) + "px";
+		</script>
+<div id="mainmenu">
+<ul>
+<li id="leftspacer"> </li>
+<li>
+<span class="left"></span>
+<a href="../index.html"><img alt="" src="../_external/images.habbohotel.com/web/web-R13.2-b41/images/navi/tab_icon_02_hotel.gif"/> Main</a>
+<span class="right"></span>
+</li>
+<li>
+<span class="left"></span>
+<a href="../hotel.html"><img alt="" src="../_external/images.habbohotel.com/c_images/navi_icons/tab_icon_02_hotel.gif"/> Habbo Hotel</a>
+<span class="right"></span>
+</li>
+<li>
+<span class="left"></span>
+<a href="../credits.html"><img alt="" src="../_external/images.habbohotel.com/c_images/album209/credits_icon.gif"/> Buy Coins</a>
+<span class="right"></span>
+</li>
+<li>
+<span class="left"></span>
+<a href="../community.html"><img alt="" src="../_external/images.habbohotel.com/c_images/navi_icons/tab_icon_03_community.gif"/> Community</a>
+<span class="right"></span>
+</li>
+<li>
+<span class="left"></span>
+<a href="../hotel/trax/index.html"><img alt="" src="../_external/images.habbohotel.com/c_images/album1280/trax_tab_icon.gif"/> TRAX</a>
+<span class="right"></span>
+</li>
+<li>
+<span class="left"></span>
+<a href="../games.html"><img alt="" src="../_external/images.habbohotel.com/c_images/navi_icons/tab_icon_04_games.gif"/> Games</a>
+<span class="right"></span>
+</li>
+<li>
+<span class="left"></span>
+<a href="../help.html"><img alt="" src="../_external/images.habbohotel.com/c_images/navi_icons/tab_icon_08_hep.gif"/> Help</a>
+<span class="right"></span>
+</li>
+<li>
+<span class="left"></span>
+<a href="../groups/index.html"><img alt="" src="../_external/images.habbohotel.com/c_images/navi_icons/tab_icon_05_fun.gif"/> Groups</a>
+<span class="right"></span>
+</li>
+<li class="last">
+<span class="left"></span>
+<a href="../entertainment.html"><img alt="" src="../_external/images.habbohotel.com/c_images/navi_icons/tab_icon_05_fun.gif"/> Entertainment</a>
+<span class="right"></span>
+</li>
+</ul>
+</div>
+<div id="submenu">
+<div class="subnav">
+</div>
+</div>
+</div>
+</div>
+<div id="main-content">
+<div id="mypage-wrapper">
+<div id="mypage-left-panel">
+<div id="mypage-top-nav"></div>
+<div id="header-bar-outer">
+<div class="box dark-blue" id="header-bar">
+<div class="box-header"><div></div></div>
+<div class="box-body">
+<div class="box-content">
+<span id="header-bar-text">
+				Habbo home: A.Dumbledore
+			</span>
+<a class="toolbutton" href="../home.html" id="gethome-button"><span>Get your own Habbo Home</span></a>
+</div>
+</div>
+</div>
+</div>
+<div id="mypage-top-spacer"></div>
+<div class="b_hc_bg_pillow" id="mypage-bg">
+<div id="playground">
+<div class="movable sticker s_sticker_peach" id="sticker-1372856" style="left: 7px; top: 313px; z-index: 9">
+</div>
+<div class="movable sticker s_needle_3" id="sticker-107674" style="left: 107px; top: 508px; z-index: 6">
+</div>
+<div class="movable sticker s_sticker_bowser" id="sticker-1372988" style="left: 160px; top: 1210px; z-index: 13">
+</div>
+<div class="movable sticker s_sticker_peach" id="sticker-1372922" style="left: 677px; top: 302px; z-index: 11">
+</div>
+<div class="movable sticker s_sticker_bowser" id="sticker-1373073" style="left: 544px; top: 1212px; z-index: 24">
+</div>
+<div class="movable sticker s_sticker_arrow_down" id="sticker-107671" style="left: 495px; top: 86px; z-index: 12">
+</div>
+<div class="movable sticker s_sticker_peach" id="sticker-1372970" style="left: 469px; top: 146px; z-index: 10">
+</div>
+<div class="movable sticker s_sticker_peach" id="sticker-1372949" style="left: 523px; top: 876px; z-index: 31">
+</div>
+<div class="movable sticker s_sticker_bowser" id="sticker-1372952" style="left: 160px; top: 1119px; z-index: 14">
+</div>
+<div class="movable sticker s_sticker_bowser" id="sticker-1372932" style="left: 474px; top: 1116px; z-index: 22">
+</div>
+<div class="movable sticker s_sticker_bowser" id="sticker-1372947" style="left: 246px; top: 1135px; z-index: 20">
+</div>
+<div class="movable sticker s_nail2" id="sticker-107670" style="left: 108px; top: 75px; z-index: 5">
+</div>
+<div class="movable sticker s_sticker_bowser" id="sticker-1372862" style="left: 160px; top: 1028px; z-index: 15">
+</div>
+<div class="movable sticker s_sticker_peach" id="sticker-1372942" style="left: 467px; top: 517px; z-index: 8">
+</div>
+<div class="movable sticker s_sticker_peach" id="sticker-1372898" style="left: 406px; top: 737px; z-index: 32">
+</div>
+<div class="movable sticker s_sticker_bowser" id="sticker-1372982" style="left: 327px; top: 1121px; z-index: 17">
+</div>
+<div class="movable sticker s_sticker_bowser" id="sticker-1372954" style="left: 474px; top: 1207px; z-index: 21">
+</div>
+<div class="movable sticker s_sticker_bowser" id="sticker-1372901" style="left: 245px; top: 984px; z-index: 19">
+</div>
+<div class="movable sticker s_sticker_flower_pink" id="sticker-107669" style="left: 113px; top: 168px; z-index: 7">
+</div>
+<div class="movable sticker s_paper_clip_1" id="sticker-107673" style="left: 181px; top: 731px; z-index: 29">
+</div>
+<div class="movable sticker s_sticker_spaceduck" id="sticker-107672" style="left: 711px; top: 567px; z-index: 1">
+</div>
+<div class="movable sticker s_sticker_gurubeard_gray" id="sticker-1383279" style="left: 451px; top: 209px; z-index: 27">
+</div>
+<div class="movable sticker s_sticker_bowser" id="sticker-1373074" style="left: 474px; top: 1025px; z-index: 23">
+</div>
+<div class="movable sticker s_sticker_bowser" id="sticker-1372955" style="left: 327px; top: 1029px; z-index: 18">
+</div>
+<div class="movable sticker s_sticker_bowser" id="sticker-1372977" style="left: 327px; top: 1211px; z-index: 16">
+</div>
+<div class="movable sticker s_sticker_bowser" id="sticker-1373071" style="left: 597px; top: 1213px; z-index: 25">
+</div>
+<div class="movable widget RoomsWidget" id="widget-66334" style=" left: 594px; top: 447px; z-index: 2;">
+<div class="w_skin_hc_pillowskin">
+<div class="widget-corner" id="widget-66334-handle">
+<div class="widget-headline"><h3><span class="header-left"> </span><span class="header-middle">MY ROOMS</span><span class="header-right"> </span></h3>
+</div>
+</div>
+<div class="widget-body">
+<div class="widget-content">
+<div id="room_wrapper">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-R13.2-b41/images/myhabbo/rooms/room_icon_open.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			Memorial to my Dog, Henry
+        		</div>
+<div class="clear"></div>
+<div>Dec. l3, l995 - Mabobba                     11 Years of Memories None Of Our Family Will Ever Forget.  Hope You're Happier Now    ||||||||||||||||||||||||||||||||
+        		</div>
+<a href="../client_forwardId_2_roomId_1673036.html" id="room-navigation-link_1673036" onclick="roomForward(this, '1673036', 'private', false); return false;" target="client">
+					 enter room
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-R13.2-b41/images/myhabbo/rooms/room_icon_open.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			Donation Room and Trax yayaya
+        		</div>
+<div class="clear"></div>
+<div>
+</div>
+<a href="../client_forwardId_2_roomId_1917053.html" id="room-navigation-link_1917053" onclick="roomForward(this, '1917053', 'private', false); return false;" target="client">
+					 enter room
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-R13.2-b41/images/myhabbo/rooms/room_icon_open.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			Blue walls, wood floors.  Storage!!!!
+        		</div>
+<div class="clear"></div>
+<div>
+</div>
+<a href="../client_forwardId_2_roomId_5980761.html" id="room-navigation-link_5980761" onclick="roomForward(this, '5980761', 'private', false); return false;" target="client">
+					 enter room
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-R13.2-b41/images/myhabbo/rooms/room_icon_open.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			HC Room - Blue walls, wood floors
+        		</div>
+<div class="clear"></div>
+<div>
+</div>
+<a href="../client_forwardId_2_roomId_5994961.html" id="room-navigation-link_5994961" onclick="roomForward(this, '5994961', 'private', false); return false;" target="client">
+					 enter room
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-R13.2-b41/images/myhabbo/rooms/room_icon_open.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			HC Room - Red walls, wood floors
+        		</div>
+<div class="clear"></div>
+<div>
+</div>
+<a href="../client_forwardId_2_roomId_5994967.html" id="room-navigation-link_5994967" onclick="roomForward(this, '5994967', 'private', false); return false;" target="client">
+					 enter room
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-R13.2-b41/images/myhabbo/rooms/room_icon_open.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			Canada! Signing Competition !!!!!!!!!!!!!
+        		</div>
+<div class="clear"></div>
+<div>Sign the guestbook on groups
+        		</div>
+<a href="../client_forwardId_2_roomId_6120207.html" id="room-navigation-link_6120207" onclick="roomForward(this, '6120207', 'private', false); return false;" target="client">
+					 enter room
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-R13.2-b41/images/myhabbo/rooms/room_icon_open.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			HC Room 1
+        		</div>
+<div class="clear"></div>
+<div>
+</div>
+<a href="../client_forwardId_2_roomId_6290709.html" id="room-navigation-link_6290709" onclick="roomForward(this, '6290709', 'private', false); return false;" target="client">
+					 enter room
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-R13.2-b41/images/myhabbo/rooms/room_icon_open.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			HC Room 2
+        		</div>
+<div class="clear"></div>
+<div>
+</div>
+<a href="../client_forwardId_2_roomId_6290711.html" id="room-navigation-link_6290711" onclick="roomForward(this, '6290711', 'private', false); return false;" target="client">
+					 enter room
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-R13.2-b41/images/myhabbo/rooms/room_icon_open.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			HC Room 3
+        		</div>
+<div class="clear"></div>
+<div>
+</div>
+<a href="../client_forwardId_2_roomId_6290712.html" id="room-navigation-link_6290712" onclick="roomForward(this, '6290712', 'private', false); return false;" target="client">
+					 enter room
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-R13.2-b41/images/myhabbo/rooms/room_icon_open.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			HC Room 4
+        		</div>
+<div class="clear"></div>
+<div>
+</div>
+<a href="../client_forwardId_2_roomId_6290717.html" id="room-navigation-link_6290717" onclick="roomForward(this, '6290717', 'private', false); return false;" target="client">
+					 enter room
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-R13.2-b41/images/myhabbo/rooms/room_icon_open.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			HC Room 5
+        		</div>
+<div class="clear"></div>
+<div>
+</div>
+<a href="../client_forwardId_2_roomId_6290720.html" id="room-navigation-link_6290720" onclick="roomForward(this, '6290720', 'private', false); return false;" target="client">
+					 enter room
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-R13.2-b41/images/myhabbo/rooms/room_icon_open.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			HC Room 6
+        		</div>
+<div class="clear"></div>
+<div>
+</div>
+<a href="../client_forwardId_2_roomId_6290721.html" id="room-navigation-link_6290721" onclick="roomForward(this, '6290721', 'private', false); return false;" target="client">
+					 enter room
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-R13.2-b41/images/myhabbo/rooms/room_icon_password.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			All my accounts... read description
+        		</div>
+<div class="clear"></div>
+<div>67s SkyBreaker AeroZoan Psychologic Ornithopter Donkeh Rajax Contemplator Invigorator Languistic -Y0U -Baja -Allah
+        		</div>
+<a href="../client_forwardId_2_roomId_7399631.html" id="room-navigation-link_7399631" onclick="roomForward(this, '7399631', 'private', false); return false;" target="client">
+					 password protected
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-R13.2-b41/images/myhabbo/rooms/room_icon_open.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			White walls, grey floors
+        		</div>
+<div class="clear"></div>
+<div>
+</div>
+<a href="../client_forwardId_2_roomId_8305467.html" id="room-navigation-link_8305467" onclick="roomForward(this, '8305467', 'private', false); return false;" target="client">
+					 enter room
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-R13.2-b41/images/myhabbo/rooms/room_icon_open.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			Brick walls, grey floors
+        		</div>
+<div class="clear"></div>
+<div>
+</div>
+<a href="../client_forwardId_2_roomId_8837298.html" id="room-navigation-link_8837298" onclick="roomForward(this, '8837298', 'private', false); return false;" target="client">
+					 enter room
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-R13.2-b41/images/myhabbo/rooms/room_icon_password.gif"/>
+</div>
+</td>
+<td>
+<div class="room_info">
+<div class="room_name">
+        			List of Victims :))
+        		</div>
+<div class="clear"></div>
+<div>
+</div>
+<a href="../client_forwardId_2_roomId_10403525.html" id="room-navigation-link_10403525" onclick="roomForward(this, '10403525', 'private', false); return false;" target="client">
+					 password protected
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable widget GroupsWidget" id="widget-913402" style=" left: 600px; top: 753px; z-index: 30;">
+<div class="w_skin_hc_pillowskin">
+<div class="widget-corner" id="widget-913402-handle">
+<div class="widget-headline"><h3><span class="header-left"> </span><span class="header-middle">My Groups (<span id="groups-list-size">9</span>)</span><span class="header-right"> </span></h3>
+</div>
+</div>
+<div class="widget-body">
+<div class="widget-content">
+<div class="groups-list-container">
+<ul class="groups-list">
+<li id="groups-list-913402-2542" title="Canada!">
+<div class="groups-list-icon"><a href="../groups/2542/id.html"><img src="../habbo-imaging/badge/s37095s37093s37114s390947ba260df7c7120a4b316bf3e67be18a8.gif"/></a></div>
+<div class="groups-list-open"></div>
+<h4>
+<a href="../groups/2542/id.html">Canada!</a>
+</h4>
+<p>
+		Group created: <br/>
+<img alt="Favorite" class="groups-list-icon" height="15" src="../_external/images.habbohotel.com/web/web-R13.2-b41/images/groups/favourite_group_icon.gif" title="Favorite" width="15"/>
+<img alt="Owner" class="groups-list-icon" height="15" src="../_external/images.habbohotel.com/web/web-R13.2-b41/images/groups/owner_icon.gif" title="Owner" width="15"/>
+<b>May 30, 2007</b>
+</p>
+<div class="clear"></div>
+</li>
+<li id="groups-list-913402-17447" title="Afro Pride">
+<div class="groups-list-icon"><a href="../groups/17447/id.html"><img src="http://www.habbo.com/habbo-imaging/badge/b0910Xs02114s20052s20180s3011727a0e975a20152bbc6dd18eeff1e1404.gif"/></a></div>
+<div class="groups-list-open"></div>
+<h4>
+<a href="../groups/17447/id.html">Afro Pride</a>
+</h4>
+<p>
+		Group created: <br/>
+<b>Jun 14, 2007</b>
+</p>
+<div class="clear"></div>
+</li>
+<li id="groups-list-913402-20501" title="Canada! 2">
+<div class="groups-list-icon"><a href="../groups/20501/id.html"><img src="http://www.habbo.com/habbo-imaging/badge/s37093s37095s37114s3909450b9e86c2ff0bed83c2ceb2b236c4d12.gif"/></a></div>
+<div class="groups-list-open"></div>
+<h4>
+<a href="../groups/20501/id.html">Canada! 2</a>
+</h4>
+<p>
+		Group created: <br/>
+<img alt="Admin" class="groups-list-icon" height="15" src="http://images.habbohotel.com/web/web-R13.2-b41/images/groups/administrator_icon.gif" title="Admin" width="15"/>
+<b>Jun 20, 2007</b>
+</p>
+<div class="clear"></div>
+</li>
+<li id="groups-list-913402-3901" title="DYP addicts.">
+<div class="groups-list-icon"><a href="../groups/3901/id.html"><img src="http://www.habbo.com/habbo-imaging/badge/b1612Xs04106s04022s0405479d15b0bf30e9c479fdb7c629b0f3971.gif"/></a></div>
+<div class="groups-list-open"></div>
+<h4>
+<a href="../groups/3901/id.html">DYP addicts.</a>
+</h4>
+<p>
+		Group created: <br/>
+<b>May 31, 2007</b>
+</p>
+<div class="clear"></div>
+</li>
+<li id="groups-list-913402-1400" title="Habbo Helpas">
+<div class="groups-list-icon"><a href="../groups/1400/id.html"><img src="http://www.habbo.com/habbo-imaging/badge/b1806Xs19114d40e31bb83a047dca96ad662ea00a837.gif"/></a></div>
+<div class="groups-list-open"></div>
+<h4>
+<a href="../groups/1400/id.html">Habbo Helpas</a>
+</h4>
+<p>
+		Group created: <br/>
+<b>May 30, 2007</b>
+</p>
+<div class="clear"></div>
+</li>
+<li id="groups-list-913402-1784" title="squib's scam-fighters">
+<div class="groups-list-icon"><a href="../groups/1784/id.html"><img src="../habbo-imaging/badge/b0605Xs06114s03014s221133a14420175c68760c2c1eb293bab7dfb.gif"/></a></div>
+<div class="groups-list-open"></div>
+<h4>
+<a href="../groups/1784/id.html">squib's scam-fighters</a>
+</h4>
+<p>
+		Group created: <br/>
+<b>May 30, 2007</b>
+</p>
+<div class="clear"></div>
+</li>
+<li id="groups-list-913402-1202" title="The HabboHolics">
+<div class="groups-list-icon"><a href="../groups/1202/id.html"><img src="../habbo-imaging/badge/b1201Xs43111s05107s18055s180543cb2f44c56acd8cadf2aa4ffa5d54c6d.gif"/></a></div>
+<div class="groups-list-open"></div>
+<h4>
+<a href="../groups/1202/id.html">The HabboHolics</a>
+</h4>
+<p>
+		Group created: <br/>
+<b>May 30, 2007</b>
+</p>
+<div class="clear"></div>
+</li>
+<li id="groups-list-913402-7839" title="The Noob Group">
+<div class="groups-list-icon"><a href="../groups/7839/id.html"><img src="../habbo-imaging/badge/b1003Xs05175s05173s091145ec244dcc5eaf54aaabf367665f39c67.gif"/></a></div>
+<div class="groups-list-open"></div>
+<h4>
+<a href="../groups/7839/id.html">The Noob Group</a>
+</h4>
+<p>
+		Group created: <br/>
+<img alt="Owner" class="groups-list-icon" height="15" src="../_external/images.habbohotel.com/web/web-R13.2-b41/images/groups/owner_icon.gif" title="Owner" width="15"/>
+<b>Jun 2, 2007</b>
+</p>
+<div class="clear"></div>
+</li>
+<li id="groups-list-913402-46" title="walrus">
+<div class="groups-list-icon"><a href="../groups/46/id.html"><img src="../habbo-imaging/badge/b1218Xs351749dda4710bd79fb4f61ae2b399899f635.gif"/></a></div>
+<div class="groups-list-open"></div>
+<h4>
+<a href="../groups/46/id.html">walrus</a>
+<img alt="Exclusive" height="12" src="../_external/images.habbohotel.com/web/web-R13.2-b41/images/groups/status_exclusive.gif" title="Exclusive" width="16"/>
+</h4>
+<p>
+		Group created: <br/>
+<b>May 30, 2007</b>
+</p>
+<div class="clear"></div>
+</li>
+</ul></div>
+<div class="groups-list-loading"><div><a class="groups-loading-close" href="#"></a></div><div class="clear"></div><p style="text-align:center"><img alt="" height="6" src="../_external/images.habbohotel.com/web/web-R13.2-b41/images/progress_bubbles.gif" width="29"/></p></div>
+<div class="groups-list-info"></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">	
+Event.onDOMReady(function() {
+	new GroupsWidget('2767557', '913402');
+});
+</script>
+<div class="movable widget HighScoresWidget" id="widget-66336" style=" left: 66px; top: 760px; z-index: 28;">
+<div class="w_skin_hc_pillowskin">
+<div class="widget-corner" id="widget-66336-handle">
+<div class="widget-headline"><h3><span class="header-left"> </span><span class="header-middle">HIGH SCORES</span><span class="header-right"> </span></h3>
+</div>
+</div>
+<div class="widget-body">
+<div class="widget-content">
+<table>
+<tr colspan="2">
+<th><a href="../games/battleball/index.html">Battle Ball</a></th>
+</tr>
+<tr>
+<td>Games played</td>
+<td>1023</td>
+</tr>
+<tr>
+<td>Total score</td>
+<td>5338307</td>
+</tr>
+<tr colspan="2">
+<th><a href="../games/wobblesquabble/index.html">Wobble Squabble</a></th>
+</tr>
+<tr>
+<td>Games played</td>
+<td>1</td>
+</tr>
+<tr>
+<td>Total score</td>
+<td>2</td>
+</tr>
+<tr colspan="2">
+<th><a href="../games/snowstorm/index.html">SnowStorm</a></th>
+</tr>
+<tr>
+<td>Games played</td>
+<td>23</td>
+</tr>
+<tr>
+<td>Total score</td>
+<td>133</td>
+</tr>
+</table>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable widget GuestbookWidget" id="widget-69893" style=" left: 76px; top: 20px; z-index: 4;">
+<div class="w_skin_hc_pillowskin">
+<div class="widget-corner" id="widget-69893-handle">
+<div class="widget-headline"><h3><span class="header-left"> </span><span class="header-middle">My Guestbook(<span id="guestbook-size">146</span>) <span class="public" id="guestbook-type"><img alt="Friends only" src="../images/groups/status_exclusive.gif" title="Friends only"/></span></span><span class="header-right"> </span></h3>
+</div>
+</div>
+<div class="widget-body">
+<div class="widget-content">
+<div class="gb-public" id="guestbook-wrapper">
+<ul class="guestbook-entries" id="guestbook-entry-container">
+<li class="guestbook-entry" id="guestbook-entry-932898">
+<div class="guestbook-author">
+<img alt=".::Lit-Rocker::." src="http://www.habbo.com/habbo-imaging/avatar/1550818001230212800830005114400d82469a7522ffe2db780d08ee5fcec38.gif" title=".::Lit-Rocker::."/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href=".%3A%3ALit-Rocker%3A%3A..html">.::Lit-Rocker::.</a>
+</div>
+<p>woop woop Me from Guelph saying HEYlo, EH!<br/><br/>Guelph Ontario!</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">Jun 25, 2007 8:32:35 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-930417">
+<div class="guestbook-author">
+<img alt="A.Dumbledore" src="http://www.habbo.com/habbo-imaging/avatar/8450420023803162810830502114400ef7cca3702d92b570c42a119a0e6c4b5.gif" title="A.Dumbledore"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="A.dumbledore">A.Dumbledore</a>
+</div>
+<p>ty NaPapa<br/>and yes, Jew, i am Canadian lol</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">Jun 25, 2007 5:47:05 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-895677">
+<div class="guestbook-author">
+<img alt="Jewsus" src="../habbo-imaging/avatar/10001180012100127001290011144009410ce67a2789365952cbf77319f9138.gif" title="Jewsus"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="Jewsus.html">Jewsus</a>
+</div>
+<p>Are you really Canadian?  Whoa.</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">Jun 21, 2007 9:22:02 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-883525">
+<div class="guestbook-author">
+<img alt="NaPapa" src="http://www.habbo.com/habbo-imaging/avatar/16502180012151327517295101144002dd64dbc5dfa86d61f154d7dc92aed4c.gif" title="NaPapa"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="NaPapa.html">NaPapa</a>
+</div>
+<p>Im sorry to hear about ur dog, Henry. :(</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">Jun 20, 2007 12:36:05 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-841427">
+<div class="guestbook-author">
+<img alt="-=ZONE=-" src="http://www.habbo.com/habbo-imaging/avatar/8003418006215252752929509114400ca73c092d879a8a73d24fc8ec4cf2f0f.gif" title="-=ZONE=-"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="-%3DZONE%3D-.html">-=ZONE=-</a>
+</div>
+<p>Hey Mon<br/><br/>U<br/><br/>V<br/><br/>E<br/><br/>B<br/><br/>E<br/><br/>E<br/><br/>N<br/><br/>Z<br/><br/>O<br/><br/>N<br/><br/>E<br/><br/>D<br/><br/>:) Have A Nice Day</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">Jun 14, 2007 12:18:38 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-786897">
+<div class="guestbook-author">
+<img alt="Zipedtight-xo" src="http://www.habbo.com/habbo-imaging/avatar/85403600098170972005725091144003c0f4678fdcfa59649e6f86f599797a8.gif" title="Zipedtight-xo"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="Zipedtight-xo.html">Zipedtight-xo</a>
+</div>
+<p>I used to be in that group luv, but ill join again.</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">Jun 6, 2007 8:45:24 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-785781">
+<div class="guestbook-author">
+<img alt="A.Dumbledore" src="http://www.habbo.com/habbo-imaging/avatar/8450420023803162810830502114400ef7cca3702d92b570c42a119a0e6c4b5.gif" title="A.Dumbledore"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="A.dumbledore">A.Dumbledore</a>
+</div>
+<p>LOL<br/>i thought it'd be funny :P</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">Jun 6, 2007 4:15:20 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-782383">
+<div class="guestbook-author">
+<img alt="Zipedtight-xo" src="http://www.habbo.com/habbo-imaging/avatar/85403600098170972005725091144003c0f4678fdcfa59649e6f86f599797a8.gif" title="Zipedtight-xo"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="Zipedtight-xo.html">Zipedtight-xo</a>
+</div>
+<p>:o your homepage, its just so girly. Mines manly. Like ME D:</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">Jun 5, 2007 8:39:53 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-778337">
+<div class="guestbook-author">
+<img alt="captivates" src="http://www.habbo.com/habbo-imaging/avatar/8021920606255182850129009114400593065230a298ab91b6f9b249eca09c1.gif" title="captivates"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="captivates.html">captivates</a>
+</div>
+<p>o wot</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">Jun 5, 2007 4:28:42 AM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-769364">
+<div class="guestbook-author">
+<img alt="A.Dumbledore" src="http://www.habbo.com/habbo-imaging/avatar/8450420023803162810830502114400ef7cca3702d92b570c42a119a0e6c4b5.gif" title="A.Dumbledore"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="A.dumbledore">A.Dumbledore</a>
+</div>
+<p>join my canadian crew group, folks</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">Jun 4, 2007 1:01:31 AM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-766575">
+<div class="guestbook-author">
+<img alt="A.Dumbledore" src="http://www.habbo.com/habbo-imaging/avatar/8450420023803162810830502114400ef7cca3702d92b570c42a119a0e6c4b5.gif" title="A.Dumbledore"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="A.dumbledore">A.Dumbledore</a>
+</div>
+<p>lols</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">Jun 3, 2007 9:45:08 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-766572">
+<div class="guestbook-author">
+<img alt="A.Dumbledore" src="http://www.habbo.com/habbo-imaging/avatar/8450420023803162810830502114400ef7cca3702d92b570c42a119a0e6c4b5.gif" title="A.Dumbledore"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="A.dumbledore">A.Dumbledore</a>
+</div>
+<p>135th entry gets free gold bar!!!</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">Jun 3, 2007 9:44:55 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-729232">
+<div class="guestbook-author">
+<img alt="A.Dumbledore" src="http://www.habbo.com/habbo-imaging/avatar/8450420023803162810830502114400ef7cca3702d92b570c42a119a0e6c4b5.gif" title="A.Dumbledore"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="A.dumbledore">A.Dumbledore</a>
+</div>
+<p>HI CHILDREN<br/>PLS JOIN MY GROUP (ITS RLY COOL), SIGN MY GUESTBOOK, DOUBLE CLICK MY HAIR, AND SIGN MY GROUP'S GUESTBOOK<br/>KKTHXBI</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">Jun 1, 2007 12:45:50 AM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-705089">
+<div class="guestbook-author">
+<img alt="bc008" src="http://www.habbo.com/habbo-imaging/avatar/177011800180401281012950811440025fb2e137252e02ce90309b7057b59a1.gif" title="bc008"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="bc008.html">bc008</a>
+</div>
+<p>i knew it said AL :O<br/><br/>im just saying when you click on your nose/hair all the bowsers</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">May 30, 2007 9:20:02 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-701418">
+<div class="guestbook-author">
+<img alt="bc008" src="http://www.habbo.com/habbo-imaging/avatar/177011800180401281012950811440025fb2e137252e02ce90309b7057b59a1.gif" title="bc008"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="bc008.html">bc008</a>
+</div>
+<p>and the bowsers go round and round..</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">May 29, 2007 10:02:00 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-691094">
+<div class="guestbook-author">
+<img alt=".:RICKY.BOI" src="http://www.habbo.com/habbo-imaging/avatar/1150118011255012800130006114400a777b4c354cbc9b242874358074c7154.gif" title=".:RICKY.BOI"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href=".%3ARICKY.boi">.:RICKY.BOI</a>
+</div>
+<p>HES COOL ND HAS A FUNNY HABBO HOMEPAGE HES A BOY ISNT HE</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">May 27, 2007 4:56:35 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-690662">
+<div class="guestbook-author">
+<img alt="ashleyh15" src="http://www.habbo.com/habbo-imaging/avatar/8580460506635217003272509114400bdcc5e87bf4428dfb0432f2ee0cf6674.gif" title="ashleyh15"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="ashleyh15.html">ashleyh15</a>
+</div>
+<p>OH MY GOD.<br/><br/>Tht waz kool dude</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">May 27, 2007 3:25:22 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-688758">
+<div class="guestbook-author">
+<img alt="Brandon1912" src="http://www.habbo.com/habbo-imaging/avatar/1650518001215252851529510114400a9524411976acfcc5a01d3fa38326cf7.gif" title="Brandon1912"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="Brandon1912.html">Brandon1912</a>
+</div>
+<p>im yo mama <br/><br/>LOLZ<br/><br/>HAHA<br/><br/>DO U HAVE AIM??</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">May 27, 2007 1:45:19 AM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-688739">
+<div class="guestbook-author">
+<img alt="Brandon1912" src="http://www.habbo.com/habbo-imaging/avatar/1650518001215252851529510114400a9524411976acfcc5a01d3fa38326cf7.gif" title="Brandon1912"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="Brandon1912.html">Brandon1912</a>
+</div>
+<p>sup<br/><br/>:)<br/><br/>*stabs myself kills myself<br/><br/>i cant see the lght</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">May 27, 2007 1:42:04 AM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-685045">
+<div class="guestbook-author">
+<img alt="A.Dumbledore" src="http://www.habbo.com/habbo-imaging/avatar/8450420023803162810830502114400ef7cca3702d92b570c42a119a0e6c4b5.gif" title="A.Dumbledore"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="A.dumbledore">A.Dumbledore</a>
+</div>
+<p>hi<br/>i'm... taken?</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer metadata">May 26, 2007 4:07:41 AM</div>
+</li>
+</ul></div>
+<script type="text/javascript">	
+	Event.onDOMReady(function() {
+		var gb69893 = new GuestbookWidget('16478', '69893', 200);
+		gb69893.monitorScrollPosition();
+		var editMenuSection = $('guestbook-privacy-options');
+		if (editMenuSection) {
+			gb69893.updateOptionsList('public');
+		}
+	});
+</script>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable widget ProfileWidget" id="widget-66335" style=" left: 605px; top: 24px; z-index: 26;">
+<div class="w_skin_hc_pillowskin">
+<div class="widget-corner" id="widget-66335-handle">
+<div class="widget-headline"><h3><span class="header-left"> </span><span class="header-middle">MY PROFILE</span><span class="header-right"> </span></h3>
+</div>
+</div>
+<div class="widget-body">
+<div class="widget-content">
+<div class="profile-info">
+<div class="name" style="float: left">
+<span class="name-text">A.Dumbledore</span>
+</div>
+<br class="clear"/>
+<img alt="offline" src="../_external/images.habbohotel.com/web/web-R13.2-b41/images/myhabbo/profile/habbo_offline.gif"/>
+<div class="birthday text">
+			Habbo Created On:
+		</div>
+<div class="birthday date">
+			May 5, 2005
+		</div>
+<div>
+<a href="../groups/2542/id.html" title="Canada!"><img src="../habbo-imaging/badge/s37095s37093s37114s390947ba260df7c7120a4b316bf3e67be18a8.gif"/></a>
+<img src="http://images.habbohotel.com/c_images/album1584/HC1.gif"/>
+</div>
+</div>
+<div class="profile-figure">
+<img alt="A.Dumbledore" src="http://www.habbo.com/habbo-imaging/avatar/84504200238031628108305020144009e60af60893d94ed11c99db2c34cc8e8.gif"/>
+</div>
+<div class="profile-motto">
+		Canadian pride.   join my group!
+		<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable widget FriendsWidget" id="widget-69894" style=" left: 69px; top: 445px; z-index: 3;">
+<div class="w_skin_hc_pillowskin">
+<div class="widget-corner" id="widget-69894-handle">
+<div class="widget-headline"><h3><span class="header-left"> </span><span class="header-middle">My Friends (<span id="avatar-list-size">49</span>)</span><span class="header-right"> </span></h3>
+</div>
+</div>
+<div class="widget-body">
+<div class="widget-content">
+<div class="avatar-widget-list-container">
+<ul class="avatar-widget-list">
+<li id="avatar-list-69894-0" title="-=Jarbino=-"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-69894-10384691"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/17701180112102527016300051144003f6f21e5f710d04c3089af61920e3ffe.gif"/></div>
+<h4><a href="-%3DJarbino%3D-.html">-=Jarbino=-</a></h4>
+<p class="avatar-list-birthday">Aug 30, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-69894-1" title="-=ZONE=-"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-69894-12678097"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/8003418006215252752929509114400ca73c092d879a8a73d24fc8ec4cf2f0f.gif"/></div>
+<h4><a href="-%3DZONE%3D-.html">-=ZONE=-</a></h4>
+<p class="avatar-list-birthday">Feb 3, 2007</p>
+<p>
+</p></li>
+<li id="avatar-list-69894-2" title="-lLove"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-69894-13034103"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/83314600018242471503730101144009cc5f02a3c5a7fb30a653475be40bd0d.gif"/></div>
+<h4><a href="-lLove.html">-lLove</a></h4>
+<p class="avatar-list-birthday">Mar 3, 2007</p>
+<p>
+</p></li>
+<li id="avatar-list-69894-3" title=".:-DJ-:."><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-69894-8387562"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/82816180092550428015295101144000ceea60fc079e22633cb3b67318aab13.gif"/></div>
+<h4><a href=".%3A-DJ-%3A..html">.:-DJ-:.</a></h4>
+<p class="avatar-list-birthday">May 6, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-69894-4" title=".Tam-x"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-69894-10066982"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/8540960010812437001073004114400c9d522f783795fa4555f4a891f32f3fa.gif"/></div>
+<h4><a href=".Tam-x.html">.Tam-x</a></h4>
+<p class="avatar-list-birthday">Aug 11, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-69894-5" title="0ttawaSenators"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-69894-13644918"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/800031800980403280202900911440099bcd4f0159fe9cde2686573671b712d.gif"/></div>
+<h4><a href="0ttawaSenators.html">0ttawaSenators</a></h4>
+<p class="avatar-list-birthday">Apr 15, 2007</p>
+<p>
+</p></li>
+<li class="avatar-list-item" id="avatar-list-69894-6"></li>
+<li class="avatar-list-item" id="avatar-list-69894-7"></li>
+<li class="avatar-list-item" id="avatar-list-69894-8"></li>
+<li class="avatar-list-item" id="avatar-list-69894-9"></li>
+<li class="avatar-list-item" id="avatar-list-69894-10"></li>
+<li class="avatar-list-item" id="avatar-list-69894-11"></li>
+<li class="avatar-list-item" id="avatar-list-69894-12"></li>
+<li class="avatar-list-item" id="avatar-list-69894-13"></li>
+<li class="avatar-list-item" id="avatar-list-69894-14"></li>
+<li class="avatar-list-item" id="avatar-list-69894-15"></li>
+<li class="avatar-list-item" id="avatar-list-69894-16"></li>
+<li class="avatar-list-item" id="avatar-list-69894-17"></li>
+<li class="avatar-list-item" id="avatar-list-69894-18"></li>
+<li class="avatar-list-item" id="avatar-list-69894-19"></li>
+<li class="avatar-list-item" id="avatar-list-69894-20"></li>
+<li class="avatar-list-item" id="avatar-list-69894-21"></li>
+<li class="avatar-list-item" id="avatar-list-69894-22"></li>
+<li class="avatar-list-item" id="avatar-list-69894-23"></li>
+<li class="avatar-list-item" id="avatar-list-69894-24"></li>
+<li class="avatar-list-item" id="avatar-list-69894-25"></li>
+<li class="avatar-list-item" id="avatar-list-69894-26"></li>
+<li class="avatar-list-item" id="avatar-list-69894-27"></li>
+<li class="avatar-list-item" id="avatar-list-69894-28"></li>
+<li class="avatar-list-item" id="avatar-list-69894-29"></li>
+<li class="avatar-list-item" id="avatar-list-69894-30"></li>
+<li class="avatar-list-item" id="avatar-list-69894-31"></li>
+<li class="avatar-list-item" id="avatar-list-69894-32"></li>
+<li class="avatar-list-item" id="avatar-list-69894-33"></li>
+<li class="avatar-list-item" id="avatar-list-69894-34"></li>
+<li class="avatar-list-item" id="avatar-list-69894-35"></li>
+<li class="avatar-list-item" id="avatar-list-69894-36"></li>
+<li class="avatar-list-item" id="avatar-list-69894-37"></li>
+<li class="avatar-list-item" id="avatar-list-69894-38"></li>
+<li class="avatar-list-item" id="avatar-list-69894-39"></li>
+<li class="avatar-list-item" id="avatar-list-69894-40"></li>
+<li class="avatar-list-item" id="avatar-list-69894-41"></li>
+<li class="avatar-list-item" id="avatar-list-69894-42"></li>
+<li class="avatar-list-item" id="avatar-list-69894-43"></li>
+<li class="avatar-list-item" id="avatar-list-69894-44"></li>
+<li class="avatar-list-item" id="avatar-list-69894-45"></li>
+<li class="avatar-list-item" id="avatar-list-69894-46"></li>
+<li class="avatar-list-item" id="avatar-list-69894-47"></li>
+<li class="avatar-list-item" id="avatar-list-69894-48"></li>
+</ul>
+</div>
+<div class="avatar-list-info">
+<div class="avatar-list-info-close-container"><a class="avatar-list-info-close" href="#"></a></div>
+<div class="avatar-list-info-container"></div>
+</div>
+<script type="text/javascript">	
+Event.onDOMReady(function() {
+	var widget69894 = new FriendsWidget('2767557', '69894');
+	widget69894.accountDetailMap.push([ 
+		10384691, '-=Jarbino=-', 'Aug 30, 2006', '/home/-%3DJarbino%3D-', '/habbo-imaging/avatar/17701180112102527016300051144003f6f21e5f710d04c3089af61920e3ffe.gif', '                l\\/\\/l ¯¯¯¯¯¯¯¯¯', 0
+	]);
+	widget69894.accountDetailMap.push([ 
+		12678097, '-=ZONE=-', 'Feb 3, 2007', '/home/-%3DZONE%3D-', '/habbo-imaging/avatar/8003418006215252752929509114400ca73c092d879a8a73d24fc8ec4cf2f0f.gif', '                        Rÿäñ«', 1
+	]);
+	widget69894.accountDetailMap.push([ 
+		13034103, '-lLove', 'Mar 3, 2007', '/home/-lLove', '/habbo-imaging/avatar/83314600018242471503730101144009cc5f02a3c5a7fb30a653475be40bd0d.gif', ' *´¯`*(¯`v´¯)Mike(¯`v´¯)*´¯`*', 2
+	]);
+	widget69894.accountDetailMap.push([ 
+		8387562, '.:-DJ-:.', 'May 6, 2006', '/home/.%3A-DJ-%3A.', '/habbo-imaging/avatar/82816180092550428015295101144000ceea60fc079e22633cb3b67318aab13.gif', 'She Saved Me Yet Agen...Tam|', 3
+	]);
+	widget69894.accountDetailMap.push([ 
+		10066982, '.Tam-x', 'Aug 11, 2006', '/home/.Tam-x', '/habbo-imaging/avatar/8540960010812437001073004114400c9d522f783795fa4555f4a891f32f3fa.gif', 'i love you.         [josh&tam]<3', 4
+	]);
+	widget69894.accountDetailMap.push([ 
+		13644918, '0ttawaSenators', 'Apr 15, 2007', '/home/0ttawaSenators', '/habbo-imaging/avatar/800031800980403280202900911440099bcd4f0159fe9cde2686573671b712d.gif', 'Stop Global Warming.', 5
+	]);
+});
+</script>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="menu" id="dialog-stickie-report">
+<div class="menu-header">
+<h3>Report Stickie Note</h3>
+</div>
+<div class="menu-body">
+<div class="menu-content" id="dialog-stickie-report-content">
+<div>Can you tell who or where this Habbo is in real life from this Stickie? Or does it contain a scam?</div>
+<div>
+<div class="button grey" id="stickie-report-cancel">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Cancel</div>
+</div>
+</div>
+<div class="button grey" id="stickie-report-report">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Report</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="menu-bottom"></div>
+</div>
+<div class="menu" id="dialog-name-report">
+<div class="menu-header">
+<h3>Report Habbo Name</h3>
+</div>
+<div class="menu-body">
+<div class="menu-content" id="dialog-name-report-content">
+<div>Is this name offensive or inappropriate?</div>
+<div>
+<div class="button grey" id="name-report-cancel">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Cancel</div>
+</div>
+</div>
+<div class="button grey" id="name-report-report">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Report</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="menu-bottom"></div>
+</div>
+<div class="menu" id="dialog-motto-report">
+<div class="menu-header">
+<h3>Report Habbo Motto</h3>
+</div>
+<div class="menu-body">
+<div class="menu-content" id="dialog-motto-report-content">
+<div>Is this motto offensive or inappropriate?</div>
+<div>
+<div class="button grey" id="motto-report-cancel">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Cancel</div>
+</div>
+</div>
+<div class="button grey" id="motto-report-report">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Report</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="menu-bottom"></div>
+</div>
+<div class="menu" id="dialog-room-report">
+<div class="menu-header">
+<h3>Report Guest Room</h3>
+</div>
+<div class="menu-body">
+<div class="menu-content" id="dialog-room-report-content">
+<div>Is this room name or its description offensive or inappropriate?</div>
+<div>
+<div class="button grey" id="room-report-cancel">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Cancel</div>
+</div>
+</div>
+<div class="button grey" id="room-report-report">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Report</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="menu-bottom"></div>
+</div>
+<div class="menu" id="dialog-guestbook-report">
+<div class="menu-header">
+<h3>Report guestbook entry</h3>
+</div>
+<div class="menu-body">
+<div class="menu-content" id="dialog-guestbook-report-content">
+<div>Is this entry offensive?</div>
+<div>
+<div class="button grey" id="guestbook-report-cancel">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Cancel</div>
+</div>
+</div>
+<div class="button grey" id="guestbook-report-report">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Report</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="menu-bottom"></div>
+</div>
+<div class="menu" id="dialog-report-success">
+<div class="menu-header">
+<h3>Item Reported</h3>
+</div>
+<div class="menu-body">
+<div class="menu-content" id="dialog-report-success-content">
+<div>We will review your report and take action if necessary. Thank you!</div>
+<div>
+<div class="button grey" id="report-success-close">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Close</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="menu-bottom"></div>
+</div>
+<div class="menu" id="dialog-report-error">
+<div class="menu-header">
+<h3>Error occured!</h3>
+</div>
+<div class="menu-body">
+<div class="menu-content" id="dialog-report-error-content">
+<div>Error occured trying to send report. Please try again in couple of minutes.</div>
+<div>
+<div class="button grey" id="report-error-close">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Close</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="menu-bottom"></div>
+</div>
+<div class="menu" id="dialog-report-spam">
+<div class="menu-header">
+<h3>Flood detected!</h3>
+</div>
+<div class="menu-body">
+<div class="menu-content" id="dialog-report-spam-content">
+<div>You have made too many reports at one time.</div>
+<div>
+<div class="button grey" id="report-spam-close">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Close </div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="menu-bottom"></div>
+</div>
+<div class="menu" id="dialog-groupname-report">
+<div class="menu-header">
+<h3>Report Group Name</h3>
+</div>
+<div class="menu-body">
+<div class="menu-content" id="dialog-groupname-report-content">
+<div>Is this Group name offensive or inappropriate?</div>
+<div>
+<div class="button grey" id="groupname-report-cancel">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Cancel</div>
+</div>
+</div>
+<div class="button grey" id="group-name-report">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Report</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="menu-bottom"></div>
+</div>
+<div class="menu" id="dialog-groupdesc-report">
+<div class="menu-header">
+<h3>Report Group Description</h3>
+</div>
+<div class="menu-body">
+<div class="menu-content" id="dialog-groupdesc-report-content">
+<div>Is this Group decription offensive or inappropriate?</div>
+<div>
+<div class="button grey" id="groupdesc-report-cancel">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Cancel</div>
+</div>
+</div>
+<div class="button grey" id="group-desc-report">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Report</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="menu-bottom"></div>
+</div>
+</div>
+<div id="mypage-ad">
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+	Event.observe(window, "load", observeAnim);
+    Event.observe(window, "load", letItSnow);
+	Event.onDOMReady(function() {
+		initDraggableDialogs();
+	});
+</script>
+</div>
+<div id="outer"><div id="outer-content">
+<div id="footer">
+<div id="footer-top"><div id="footer-content"> <p>
+<a href="../index.html">Main</a>
+						|
+						<a href="../hotel.html">Habbo Hotel</a>
+						|
+						<a href="../credits.html">Buy Coins</a>
+						|
+						<a href="../community.html">Community</a>
+						|
+						<a href="../hotel/trax/index.html">TRAX</a>
+						|
+						<a href="../games.html">Games</a>
+						|
+						<a href="../help.html">Help</a>
+						|
+						<a href="../groups/index.html">Groups</a>
+						|
+						<a href="../entertainment.html">Entertainment</a>
+</p>
+<p>
+<a href="../credits.html">Get Credits</a> |
+					<a href="../club/index.html">Habbo Club</a>
+</p>
+<p><a href="../footer_pages/privacy_policy.html">Privacy Policy</a> | <a href="../footer_pages/terms_and_conditions.html">Terms &amp; Conditions</a> | <a href="../footer_pages/atlas.html">Other Habbo sites</a> |<a href="../footer_pages/advertise_in_habbo.html">Advertise in Habbo</a> | <a href="http://www.sulake.com/">Sulake</a></p>
+<p class="footer-legal">© 2007 Sulake Corporation Ltd. HABBO is a registered trademark of Sulake Corporation Oy in the European Union, the USA, Japan, the People's Republic of China and various other jurisdictions. All rights reserved.</p>
+</div></div>
+<div id="footer-bottom"><div id="footer-bottom-content"></div></div>
+</div>
+</div></div>
+<div id="outer-bottom"><div id="outer-bottom-content"></div></div>
+</div>
+<div id="tracker"><!-- START Nielsen//NetRatings SiteCensus V5.1 -->
+<!-- COPYRIGHT 2005 Nielsen//NetRatings -->
+<script language="JavaScript" type="text/javascript">
+
+<!--
+
+	var _rsCI="Habbohotel";
+	var _rsCG="1";
+	var _rsDT=0; // to turn on whether to get the document title, 1=on
+	var _rsDU=0; // to turn on or off the applet, 1=on
+	var _rsDO=0; // to turn on debug output to the console, 1=on, only works if _rsDU=1
+	var _rsX6=0; // to force use of applet with XP and IE6, 1=on, only works if _rsDU=1
+
+	var _rsSI=escape(window.location);
+
+
+
+	var _rsLP=location.protocol.indexOf('https')>-1?'https:':'http:';
+	var _rsRP=escape(document.referrer);
+	var _rsND=_rsLP+'http://secure-dk.imrworldwide.com/';
+
+	if (parseInt(navigator.appVersion)>=4)
+	{
+		var _rsRD=(new Date()).getTime();
+		var _rsSE=0; // to turn on surveys, 1=on
+		var _rsSV=""; // survey name, leave empty
+		var _rsSM=0; // maximum survey rate, 1.0=100%
+		_rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="'+_rsND+'v51.js"><\/scr'+'ipt>';
+	}
+	else
+	{
+		_rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">';
+	}
+	document.write(_rsCL);
+
+//-->
+
+</script>
+<noscript>
+<img alt="" src="../_external/secure-dk.imrworldwide.com/cgi-bin/m_ci_Habbohotel_cg_1.gif"/>
+</noscript>
+<!-- THE END Nielsen//NetRatings SiteCensus V5.1 -->
+<script src="../_external/ssl.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-448325-2";
+urchinTracker();
+</script></div>
+</body>
+</html>
+

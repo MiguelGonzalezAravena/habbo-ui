@@ -1,0 +1,1273 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+
+
+
+
+
+<meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+<title>Habbo ~ Habbo home: Cupids.Garden</title>
+<link href="../_external/images.habbohotel.com/web/web-2.1.0_b22/styles/style.css" rel="stylesheet" type="text/css"/>
+<link href="../_external/images.habbohotel.com/web/web-2.1.0_b22/styles/ads.css" rel="stylesheet" type="text/css"/>
+<link href="../_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css" rel="stylesheet" type="text/css"/>
+<script language="JavaScript" type="text/javascript">
+	var habboReqPath = "";
+	var habboStaticFilePath = "http://images.habbohotel.com/web/web-2.1.0_b22";
+	document.habboLoggedIn = false;
+	</script>
+<script language="JavaScript" src="../_external/images.habbohotel.com/web/web-2.1.0_b22/js/prototype.js" type="text/javascript"></script>
+<script language="JavaScript" src="../_external/images.habbohotel.com/web/web-2.1.0_b22/js/builder.js" type="text/javascript"></script>
+<script language="JavaScript" src="../_external/images.habbohotel.com/web/web-2.1.0_b22/js/habbo.js" type="text/javascript"></script>
+<script language="JavaScript" src="../_external/images.habbohotel.com/web/web-2.1.0_b22/js/hobojax.js" type="text/javascript"></script>
+<link href="http://images.habbohotel.com/web/web-2.1.0_b22/styles/myhabbo/myhabbo.css" rel="stylesheet" type="text/css"/>
+<link href="http://images.habbohotel.com/web/web-2.1.0_b22/styles/myhabbo/skins.css" rel="stylesheet" type="text/css"/>
+<link href="http://images.habbohotel.com/web/web-2.1.0_b22/styles/myhabbo/dialogs.css" rel="stylesheet" type="text/css"/>
+<link href="http://images.habbohotel.com/web/web-2.1.0_b22/styles/myhabbo/buttons.css" rel="stylesheet" type="text/css"/>
+<link href="../_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css" rel="stylesheet" type="text/css"/>
+<link href="http://images.habbohotel.com/web/web-2.1.0_b22/styles/myhabbo/boxes.css" rel="stylesheet" type="text/css"/>
+<link href="http://images.habbohotel.com/web/web-2.1.0_b22/styles/profile.css" rel="stylesheet" type="text/css"/>
+<link href="../myhabbo/styles/assets_v_9e2ff9daf025135a4031ea87b3eb6245.css" rel="stylesheet" type="text/css"/>
+<script src="http://images.habbohotel.com/web/web-2.1.0_b22/js/effects.js" type="text/javascript"></script>
+<script src="http://images.habbohotel.com/web/web-2.1.0_b22/js/dragdrop.js" type="text/javascript"></script>
+<script src="http://images.habbohotel.com/web/web-2.1.0_b22/js/slider.js" type="text/javascript"></script>
+<script src="http://images.habbohotel.com/web/web-2.1.0_b22/js/myhabbo.js" type="text/javascript"></script>
+<script src="http://images.habbohotel.com/web/web-2.1.0_b22/js/myhabbo-dialogs.js" type="text/javascript"></script>
+<script src="http://images.habbohotel.com/web/web-2.1.0_b22/js/myhabbo-widgets.js" type="text/javascript"></script>
+<meta description="This is the Habbo Homepage of Cupids.Garden, you can create your own page at www.habbo.com"/>
+<!--[if IE]>
+    <link href="http://images.habbohotel.com/web/web-2.1.0_b22/styles/ie-all.css" type="text/css" rel="stylesheet" />
+    <![endif]-->
+<!--[if lt IE 7]>
+    <link href="http://images.habbohotel.com/web/web-2.1.0_b22/styles/ie6.css" type="text/css" rel="stylesheet" />
+    <![endif]-->
+<link href="../styles/style_custom_com.css" rel="stylesheet" type="text/css"/>
+<!-- 2.1.0-b22 - 20070118183130  - com -->
+</head>
+<body id="">
+<div id="overlay"></div>
+<h1 id="main-header">Habbo</h1>
+<div id="wrapper">
+<div id="top_wrap">
+<div id="top">
+<div id="topdim"></div>
+<div id="top-elements">
+<table id="topbar">
+<tr>
+<td id="topbar-count">7,153 Habbos online</td>
+<td align="center" id="topbar-menu">
+<ul>
+<li class="selected" id="myhabbo" onmouseover="switchTab('myhabbo')">
+<div><a class="topbar-menu-link" href="../tab/myhabbo.html" onclick="return false;">My Habbo</a></div>
+</li><li id="mycredits" onmouseout="fadeTab('myhabbo')" onmouseover="if (switchTab('mycredits') &amp;&amp; document.habboLoggedIn) updateCredits()">
+<div><a class="topbar-menu-link" href="../tab/credits.html" onclick="return false;">My Coins</a></div>
+</li><li id="habboclub" onmouseout="fadeTab('myhabbo')" onmouseover="if (switchTab('habboclub') &amp;&amp; document.habboLoggedIn) updateHabboClub()">
+<div><a class="topbar-menu-link" href="../tab/habboclub.html" onclick="return false;">Habbo Club</a></div>
+</li>
+</ul>
+</td>
+<td class="notloggedin" id="topbar-status">
+						Not logged in
+				</td>
+</tr>
+</table>
+<div id="habbologo"><a href="../index.html"></a></div>
+<div id="enter-hotel">
+<a href="../client.html" id="enter-hotel-link" onclick="openOrFocusHabbo(this); return false;" target="client"></a>
+</div>
+<div id="tabmenu" onmouseout="fadeTab('myhabbo')" onmouseover="lockCurrentTab();">
+<div id="tabmenu-content">
+<div class="tabmenu-inner selected" id="myhabbo-content">
+<img alt="" class="tabmenu-image" height="85" src="../_external/images.habbohotel.com/web/web-2.1.0_b22/images/top_bar/myhabbo_frank.gif" width="60"/>
+<h3>Welcome! Please sign in or register</h3>
+<div class="tabmenu-inner-content">
+<p>
+<a class="colorlink orange" href="../login.html"><span>Register Now, it's free!</span></a>
+</p>
+<p>
+<a class="colorlink orange last" href="../login.html"><span>Sign In</span></a>
+</p>
+</div>
+</div>
+<div class="tabmenu-inner" id="mycredits-content">
+<h3>Please <a href="../login.html">sign in</a> to see your balance</h3>
+<div class="tabmenu-inner-content">
+<p>
+<img alt="" class="tabmenu-image coins" height="21" src="../_external/images.habbohotel.com/web/web-2.1.0_b22/images/top_bar/mycredits_coins.gif" width="47"/>
+<a class="arrow" href="../tab/credits.html"><span>Buy More Coins</span></a>
+</p>
+<p>
+<a class="arrow" href="../tab/redeem.html"><span>Redeem a Coin or Furni Code</span></a>
+</p>
+</div>
+</div>
+<div class="tabmenu-inner" id="habboclub-content">
+<h3>Please <a href="../login.html">sign in</a> to see your Club status</h3>
+<div class="tabmenu-inner-content">
+<p>
+								Habbo Club gives you access to the full benefits on Habbo Hotel.
+							</p>
+<p>
+<a class="arrow" href="../tab/habboclub.html"><span>Latest News on Habbo Club</span></a>
+</p>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="tabmenu-bottom"></div>
+</div>
+</div>
+<script language="JavaScript" type="text/javascript">
+		$("tabmenu").style.left = (Position.cumulativeOffset($("myhabbo"))[0] - Position.cumulativeOffset($("top"))[0]) + "px";
+		</script>
+<div id="mainmenu">
+<ul>
+<li id="leftspacer"> </li>
+<li>
+<span class="left"></span>
+<a href="../index.html"><img alt="" src="../images/navi/tab_icon_01_home.gif"/> Home</a>
+<span class="right"></span>
+</li>
+<li>
+<span class="left"></span>
+<a href="../hotel.html"><img alt="" src="../_external/images.habbohotel.com/c_images/navi_icons/tab_icon_02_hotel.gif"/> Habbo Hotel</a>
+<span class="right"></span>
+</li>
+<li>
+<span class="left"></span>
+<a href="../credits.html"><img alt="" src="../_external/images.habbohotel.com/web/web-1.0.1_b25/images/top_bar/toolbar_icon_credits.gif"/> Buy Coins</a>
+<span class="right"></span>
+</li>
+<li>
+<span class="left"></span>
+<a href="../club.html"><img alt="" src="../_external/images.habbohotel.com/c_images/album1931/hc_tab_ani3.gif"/> Habbo Club</a>
+<span class="right"></span>
+</li>
+<li>
+<span class="left"></span>
+<a href="../community.html"><img alt="" src="../_external/images.habbohotel.com/c_images/navi_icons/tab_icon_03_community.gif"/> Community</a>
+<span class="right"></span>
+</li>
+<li>
+<span class="left"></span>
+<a href="../games.html"><img alt="" src="../_external/images.habbohotel.com/c_images/navi_icons/tab_icon_04_games.gif"/> Games</a>
+<span class="right"></span>
+</li>
+<li>
+<span class="left"></span>
+<a href="../entertainment/cupidsgarden/index.html"><img alt="" src="../_external/images.habbohotel.com/c_images/album704/heartSingle.gif"/> Valentine's Day</a>
+<span class="right"></span>
+</li>
+<li>
+<span class="left"></span>
+<a href="../shop/target.html"><img alt="" src="../_external/images.habbohotel.com/c_images/album1151/whitenav3.gif"/> Shop</a>
+<span class="right"></span>
+</li>
+<li class="last">
+<span class="left"></span>
+<a href="../help.html"><img alt="" src="../_external/images.habbohotel.com/c_images/navi_icons/tab_icon_08_hep.gif"/> Help</a>
+<span class="right"></span>
+</li>
+</ul>
+</div>
+<div id="submenu">
+<div class="subnav">
+</div>
+</div>
+</div>
+</div>
+<div id="main-content">
+<div id="mypage-wrapper">
+<div id="mypage-left-panel">
+<div id="mypage-top-nav"></div>
+<div id="header-bar-outer">
+<div class="box dark-blue" id="header-bar">
+<div class="box-header"><div></div></div>
+<div class="box-body">
+<div class="box-content">
+<span id="header-bar-text">Habbo home: Cupids.Garden</span>
+</div>
+</div>
+</div>
+</div>
+<div id="mypage-top-spacer"></div>
+<div class="b_bg_pattern_hearts" id="mypage-bg">
+<div id="playground">
+<div class="movable stickie" id="stickie-200808" style=" left: 9px; top: 1224px; z-index: 72;">
+<div class="n_skin_goldenskin">
+<div class="stickie-header">
+<h3> </h3>
+<div class="clear"></div>
+</div>
+<div class="stickie-body">
+<div class="stickie-content">
+<p>I have a little secret, and I just want to clap, for you see I'm just, so madly in love with Flapped!</p>
+<div class="stickie-footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable stickie" id="stickie-200728" style=" left: 274px; top: 942px; z-index: 66;">
+<div class="n_skin_goldenskin">
+<div class="stickie-header">
+<h3> </h3>
+<div class="clear"></div>
+</div>
+<div class="stickie-body">
+<div class="stickie-content">
+<p>NovaOfDooooom,I have SECRETLY admired every smooth move you have taken, and the way you treat habbos in need, and your love of duckies.</p>
+<div class="stickie-footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable stickie" id="stickie-200806" style=" left: 474px; top: 1206px; z-index: 74;">
+<div class="n_skin_goldenskin">
+<div class="stickie-header">
+<h3> </h3>
+<div class="clear"></div>
+</div>
+<div class="stickie-body">
+<div class="stickie-content">
+<p>Hey Thor I know there is more !! Wanna cup of tea?</p>
+<div class="stickie-footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable stickie" id="stickie-175974" style=" left: 67px; top: 291px; z-index: 69;">
+<div class="n_skin_goldenskin">
+<div class="stickie-header">
+<h3> </h3>
+<div class="clear"></div>
+</div>
+<div class="stickie-body">
+<div class="stickie-content">
+<p>Coming here's also the easy way to find the rooms where we'll be hosting all of our Valentine's Day activities, including every Friday's airing of the very first Habbo reality TV show, Cupid's Garden!</p>
+<div class="stickie-footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable stickie" id="stickie-200724" style=" left: 16px; top: 935px; z-index: 64;">
+<div class="n_skin_goldenskin">
+<div class="stickie-header">
+<h3> </h3>
+<div class="clear"></div>
+</div>
+<div class="stickie-body">
+<div class="stickie-content">
+<p>Hey Adam..... Your my Vally crush, imagine that, shocker... Love you loads, one day I'll see you.. |Your Crush|</p>
+<div class="stickie-footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable stickie" id="stickie-175975" style=" left: 61px; top: 477px; z-index: 58;">
+<div class="n_skin_goldenskin">
+<div class="stickie-header">
+<h3> </h3>
+<div class="clear"></div>
+</div>
+<div class="stickie-body">
+<div class="stickie-content">
+<p>Not only that, but we'll be adding YOUR secret crushes up here, too!  So, if you've got feelings you just can't keep inside anymore and you send them to us, you'll be able to anonymously get them out there for all the Habbos to see!</p>
+<div class="stickie-footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable stickie" id="stickie-200726" style=" left: 236px; top: 1089px; z-index: 67;">
+<div class="n_skin_goldenskin">
+<div class="stickie-header">
+<h3> </h3>
+<div class="clear"></div>
+</div>
+<div class="stickie-body">
+<div class="stickie-content">
+<p>Snowfight : Linda I always liked you although you think i dont, and ive been with other people, your the only one i really truely cared about. You proboly know who this is, so Be My Valentine &lt;3</p>
+<div class="stickie-footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable stickie" id="stickie-200727" style=" left: 478px; top: 1076px; z-index: 71;">
+<div class="n_skin_goldenskin">
+<div class="stickie-header">
+<h3> </h3>
+<div class="clear"></div>
+</div>
+<div class="stickie-body">
+<div class="stickie-content">
+<p>my crush is Bjninja Hes amazing, and always makes me smile. I wish he knew how much i liked him</p>
+<div class="stickie-footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable stickie" id="stickie-200725" style=" left: 491px; top: 942px; z-index: 70;">
+<div class="n_skin_goldenskin">
+<div class="stickie-header">
+<h3> </h3>
+<div class="clear"></div>
+</div>
+<div class="stickie-body">
+<div class="stickie-content">
+<p>Hey Lilshorty4u15, I am a male that works with you...</p>
+<div class="stickie-footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable stickie" id="stickie-175973" style=" left: 69px; top: 63px; z-index: 68;">
+<div class="n_skin_goldenskin">
+<div class="stickie-header">
+<h3> </h3>
+<div class="clear"></div>
+</div>
+<div class="stickie-body">
+<div class="stickie-content">
+<p>Welcome to the Cupid's Garden Habbo Home, THE page dedicated to everyone's favorite Habbo Reality Show, Cupid's Garden!  Come here to gab about all the latest scandalous goings-on in the guestbook and find out more about the contestants!</p>
+<div class="stickie-footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable stickie" id="stickie-200723" style=" left: 11px; top: 1072px; z-index: 65;">
+<div class="n_skin_goldenskin">
+<div class="stickie-header">
+<h3> </h3>
+<div class="clear"></div>
+</div>
+<div class="stickie-body">
+<div class="stickie-content">
+<p>-Uncontrollable, Secretly for a while now, I have had this emerging crush on no one other then you. I bet you know who this is, I am "The Bunny Man". :D Be mine for Valentine's Day? -"The Bunny-Man"</p>
+<div class="stickie-footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable stickie" id="stickie-200807" style=" left: 258px; top: 1228px; z-index: 73;">
+<div class="n_skin_goldenskin">
+<div class="stickie-header">
+<h3> </h3>
+<div class="clear"></div>
+</div>
+<div class="stickie-body">
+<div class="stickie-content">
+<p>Brianna, Even though you dont realize it, I love you. Please be mine on this valentines. I'll bring the jam :)</p>
+<div class="stickie-footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable sticker s_sticker_flower_pink" id="sticker-330001" style="left: 365px; top: 1306px; z-index: 40">
+</div>
+<div class="movable sticker s_vine" id="sticker-329738" style="left: 700px; top: 468px; z-index: 14">
+</div>
+<div class="movable sticker s_vine2" id="sticker-329759" style="left: 586px; top: 1317px; z-index: 20">
+</div>
+<div class="movable sticker s_sticker_flower_pink" id="sticker-109242" style="left: 349px; top: 6px; z-index: 41">
+</div>
+<div class="movable sticker s_sticker_flower1" id="sticker-330002" style="left: 344px; top: 208px; z-index: 34">
+</div>
+<div class="movable sticker s_vine" id="sticker-329736" style="left: 698px; top: 179px; z-index: 12">
+</div>
+<div class="movable sticker s_sticker_flower1" id="sticker-329999" style="left: 380px; top: 194px; z-index: 33">
+</div>
+<div class="movable sticker s_sticker_flower_pink" id="sticker-330107" style="left: 8px; top: 5px; z-index: 45">
+</div>
+<div class="movable sticker s_vine" id="sticker-329672" style="left: 5px; top: 892px; z-index: 27">
+</div>
+<div class="movable sticker s_vine2" id="sticker-329755" style="left: 8px; top: 1317px; z-index: 8">
+</div>
+<div class="movable sticker s_sticker_flower_pink" id="sticker-330121" style="left: 689px; top: 707px; z-index: 47">
+</div>
+<div class="movable sticker s_sticker_flower_pink" id="sticker-330137" style="left: 687px; top: 987px; z-index: 51">
+</div>
+<div class="movable sticker s_sticker_flower1" id="sticker-329991" style="left: 353px; top: 193px; z-index: 31">
+</div>
+<div class="movable sticker s_vine" id="sticker-329669" style="left: 5px; top: 609px; z-index: 25">
+</div>
+<div class="movable sticker s_sticker_heartbeat" id="sticker-330194" style="left: 477px; top: 873px; z-index: 56">
+</div>
+<div class="movable sticker s_vine2" id="sticker-329656" style="left: 6px; top: 2px; z-index: 2">
+</div>
+<div class="movable sticker s_sticker_flower_pink" id="sticker-330106" style="left: 688px; top: 6px; z-index: 44">
+</div>
+<div class="movable sticker s_sticker_pointing_hand_3" id="sticker-375450" style="left: 146px; top: 639px; z-index: 59">
+</div>
+<div class="movable sticker s_sticker_heartbeat" id="sticker-330016" style="left: 337px; top: 319px; z-index: 37">
+</div>
+<div class="movable sticker s_vine2" id="sticker-329757" style="left: 290px; top: 1318px; z-index: 10">
+</div>
+<div class="movable sticker s_vine" id="sticker-329668" style="left: 6px; top: 464px; z-index: 24">
+</div>
+<div class="movable sticker s_vine" id="sticker-329743" style="left: 702px; top: 1033px; z-index: 19">
+</div>
+<div class="movable sticker s_vine2" id="sticker-329658" style="left: 150px; top: 1px; z-index: 3">
+</div>
+<div class="movable sticker s_cassette2" id="sticker-329998" style="left: 312px; top: 367px; z-index: 52">
+</div>
+<div class="movable sticker s_vine" id="sticker-329670" style="left: 4px; top: 750px; z-index: 26">
+</div>
+<div class="movable sticker s_sticker_flower_pink" id="sticker-330000" style="left: 686px; top: 435px; z-index: 39">
+</div>
+<div class="movable sticker s_vine" id="sticker-329665" style="left: 6px; top: 184px; z-index: 22">
+</div>
+<div class="movable sticker s_sticker_heartbeat" id="sticker-330195" style="left: 382px; top: 869px; z-index: 60">
+</div>
+<div class="movable sticker s_sticker_heartbeat" id="sticker-330196" style="left: 307px; top: 870px; z-index: 62">
+</div>
+<div class="movable sticker s_sticker_flower1" id="sticker-330006" style="left: 369px; top: 210px; z-index: 35">
+</div>
+<div class="movable sticker s_sticker_flower_pink" id="sticker-330136" style="left: 8px; top: 991px; z-index: 50">
+</div>
+<div class="movable sticker s_sticker_flower1" id="sticker-330004" style="left: 327px; top: 193px; z-index: 32">
+</div>
+<div class="movable sticker s_sticker_heartbeat" id="sticker-330197" style="left: 221px; top: 865px; z-index: 55">
+</div>
+<div class="movable sticker s_vine" id="sticker-329735" style="left: 697px; top: 32px; z-index: 11">
+</div>
+<div class="movable sticker s_vine" id="sticker-329664" style="left: 5px; top: 40px; z-index: 1">
+</div>
+<div class="movable sticker s_sticker_heartbeat" id="sticker-329981" style="left: 335px; top: 83px; z-index: 30">
+</div>
+<div class="movable sticker s_vine" id="sticker-329741" style="left: 702px; top: 893px; z-index: 17">
+</div>
+<div class="movable sticker s_sticker_flower_pink" id="sticker-330114" style="left: 5px; top: 708px; z-index: 46">
+</div>
+<div class="movable sticker s_sticker_flower_pink" id="sticker-330098" style="left: 689px; top: 187px; z-index: 43">
+</div>
+<div class="movable sticker s_vine" id="sticker-329742" style="left: 702px; top: 1172px; z-index: 18">
+</div>
+<div class="movable sticker s_vine" id="sticker-329739" style="left: 700px; top: 606px; z-index: 15">
+</div>
+<div class="movable sticker s_sticker_flower_pink" id="sticker-330097" style="left: 6px; top: 177px; z-index: 42">
+</div>
+<div class="movable sticker s_sticker_flower_pink" id="sticker-330122" style="left: 6px; top: 1302px; z-index: 48">
+</div>
+<div class="movable sticker s_sticker_flower_pink" id="sticker-330123" style="left: 684px; top: 1304px; z-index: 49">
+</div>
+<div class="movable sticker s_sticker_flower1" id="sticker-330014" style="left: 356px; top: 225px; z-index: 36">
+</div>
+<div class="movable sticker s_sticker_heartbeat" id="sticker-330200" style="left: 42px; top: 862px; z-index: 53">
+</div>
+<div class="movable sticker s_sticker_flower_pink" id="sticker-329990" style="left: 7px; top: 432px; z-index: 38">
+</div>
+<div class="movable sticker s_vine" id="sticker-329733" style="left: 5px; top: 1034px; z-index: 28">
+</div>
+<div class="movable sticker s_vine" id="sticker-329740" style="left: 702px; top: 749px; z-index: 16">
+</div>
+<div class="movable sticker s_sticker_heartbeat" id="sticker-330193" style="left: 596px; top: 874px; z-index: 57">
+</div>
+<div class="movable sticker s_sticker_heartbeat" id="sticker-330199" style="left: 126px; top: 862px; z-index: 54">
+</div>
+<div class="movable sticker s_vine" id="sticker-329667" style="left: 6px; top: 324px; z-index: 23">
+</div>
+<div class="movable sticker s_vine" id="sticker-329734" style="left: 7px; top: 1176px; z-index: 7">
+</div>
+<div class="movable sticker s_vine" id="sticker-329737" style="left: 700px; top: 323px; z-index: 13">
+</div>
+<div class="movable sticker s_vine2" id="sticker-329756" style="left: 150px; top: 1317px; z-index: 9">
+</div>
+<div class="movable sticker s_vine2" id="sticker-329758" style="left: 439px; top: 1319px; z-index: 21">
+</div>
+<div class="movable sticker s_vine2" id="sticker-329675" style="left: 582px; top: 1px; z-index: 6">
+</div>
+<div class="movable sticker s_vine2" id="sticker-329661" style="left: 292px; top: 1px; z-index: 4">
+</div>
+<div class="movable sticker s_vine2" id="sticker-329662" style="left: 436px; top: 1px; z-index: 5">
+</div>
+<div class="movable widget GuestbookWidget" id="widget-200973" style=" left: 317px; top: 507px; z-index: 63;">
+<div class="w_skin_goldenskin">
+<div class="widget-corner" id="widget-200973-handle">
+<div class="widget-headline"><h3><span class="header-left"> </span><span class="header-middle">My Guestbook (<span id="guestbook-size">651</span>)</span><span class="header-right"> </span></h3>
+</div>
+</div>
+<div class="widget-body">
+<div class="widget-content">
+<div id="guestbook-wrapper">
+<ul class="guestbook-entries" id="guestbook-entry-container">
+<li class="guestbook-entry" id="guestbook-entry-195104">
+<div class="guestbook-author">
+<img alt="samyabc123" src="http://www.habbo.com/habbo-imaging/avatar/5450160010660257001973009114400b67b36d10b0c01e4377bb802f276269e.gif" title="samyabc123"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="online">
+<a href="samyabc123.html">samyabc123</a>
+</div>
+<p>LuV tHe PaGe !!!!!!!!!!!!!1</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 10:13:40 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-195075">
+<div class="guestbook-author">
+<img alt="pokenator" src="http://www.habbo.com/habbo-imaging/avatar/841051901021504275012950111440037fc1a37c8443d67738b51eefbce5636.gif" title="pokenator"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="pokenator.html">pokenator</a>
+</div>
+<p>lol nice homepage do u really admire the doom girl :P</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 10:12:03 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-194968">
+<div class="guestbook-author">
+<img alt="Claw" src="http://www.habbo.com/habbo-imaging/avatar/8003118007215132800129009114400fa665a0d6f710794bfa3d36b1c146b67.gif" title="Claw"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="online">
+<a href="Claw.html">Claw</a>
+</div>
+<p>u hxd me!</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 10:04:59 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-194967">
+<div class="guestbook-author">
+<img alt="bryan982" src="http://www.habbo.com/habbo-imaging/avatar/16502180012550428502300051144001e83f4d7f19f2be86ef66df7e1ee4ee0.gif" title="bryan982"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="online">
+<a href="bryan982.html">bryan982</a>
+</div>
+<p>barantha your bobbaed</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 10:04:58 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-194944">
+<div class="guestbook-author">
+<img alt="..:corbin:.." src="http://www.habbo.com/habbo-imaging/avatar/165021801023508280153000511440065ab06d0244a91d539633da7a4c62eba.gif" title="..:corbin:.."/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="12372278/id.html">..:corbin:..</a>
+</div>
+<p>hey nice home page</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 10:04:09 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-194887">
+<div class="guestbook-author">
+<img alt=".x.BR0WNiiE.x." src="http://www.habbo.com/habbo-imaging/avatar/832016000982633696097301011440040f314e3558d62924b9839a652a757c3.gif" title=".x.BR0WNiiE.x."/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="online">
+<a href=".x.BR0WNiiE.x..html">.x.BR0WNiiE.x.</a>
+</div>
+<p>Lovely page Cupids.Garden<br/><br/>xxx.Cya later</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 9:59:31 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-194765">
+<div class="guestbook-author">
+<img alt="-lilJenna-" src="http://www.habbo.com/habbo-imaging/avatar/5650262513660117101373506114400c9e38257aa614615d0c43dd05272e0dd.gif" title="-lilJenna-"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="-lilJenna-.html">-lilJenna-</a>
+</div>
+<p>LOVEly Habbo home!<br/><br/>Jenna x</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 9:48:20 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-194756">
+<div class="guestbook-author">
+<img alt="Macquillage" src="http://www.habbo.com/habbo-imaging/avatar/17501185202550228503295051144009d73614f117c0164d9ae6443beb42dba.gif" title="Macquillage"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="online">
+<a href="Macquillage.html">Macquillage</a>
+</div>
+<p>HAwt badgge Cupid !!!!<br/><br/>Nice badge :]<br/><br/>Add meee on habbo :}}}}</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 9:47:40 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-194709">
+<div class="guestbook-author">
+<img alt="YouOweMeAnIOU" src="http://www.habbo.com/habbo-imaging/avatar/8321560009824466960473009114400a5cdb6e37c7dcb6640e18f4276ec452d.gif" title="YouOweMeAnIOU"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="online">
+<a href="YouOweMeAnIOU.html">YouOweMeAnIOU</a>
+</div>
+<p>:o lovey dovey page. Hmm, is ur real name cupid<br/><br/>:o congratz on show<br/>-Ella</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 9:44:09 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-194708">
+<div class="guestbook-author">
+<img alt="YouOweMeAnIOU" src="http://www.habbo.com/habbo-imaging/avatar/8321560009824466960473009114400a5cdb6e37c7dcb6640e18f4276ec452d.gif" title="YouOweMeAnIOU"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="online">
+<a href="YouOweMeAnIOU.html">YouOweMeAnIOU</a>
+</div>
+<p>:o lovey dovey page. Hmm, is ur real name cupid<br/><br/>:o congratz on show<br/>-Ella</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 9:44:08 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-194685">
+<div class="guestbook-author">
+<img alt="ganstagurl12345" src="http://www.habbo.com/habbo-imaging/avatar/5450960009685077000173505114400ff9a46d44e0c79c8b0f5c6254103dba7.gif" title="ganstagurl12345"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="online">
+<a href="ganstagurl12345.html">ganstagurl12345</a>
+</div>
+<p>i like your page it look cool</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 9:42:28 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-194603">
+<div class="guestbook-author">
+<img alt=".:Lowell:." src="http://www.habbo.com/habbo-imaging/avatar/801381800180638280153000611440004aabe0b3472fe15b08688bb985960be.gif" title=".:Lowell:."/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="online">
+<a href=".%3ALowell%3A..html">.:Lowell:.</a>
+</div>
+<p>THis page is ok... still could use some work... its kinda crowded... but other than that its great</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 9:36:31 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-194515">
+<div class="guestbook-author">
+<img alt="adddaaa" src="http://www.habbo.com/habbo-imaging/avatar/8281518001804032750830501114400db195af2ed7077b6d8f7d962529d5cdc.gif" title="adddaaa"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="online">
+<a href="adddaaa.html">adddaaa</a>
+</div>
+<p>Nice Home Page Cupid, And nice Badge as well!</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 9:27:03 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-194380">
+<div class="guestbook-author">
+<img alt="WanaBeMeGirl" src="http://www.habbo.com/habbo-imaging/avatar/834146000182204715037301011440017a7112d61b24cd2be0e8b3b3287edb8.gif" title="WanaBeMeGirl"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="online">
+<a href="WanaBeMeGirl.html">WanaBeMeGirl</a>
+</div>
+<p>this page and this holiday is so romantic</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 9:14:06 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-194335">
+<div class="guestbook-author">
+<img alt="33katheren3434" src="http://www.habbo.com/habbo-imaging/avatar/57008626066850571006735031144003ca2ab27acf7471c7ebe18d053d7cc98.gif" title="33katheren3434"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="33katheren3434.html">33katheren3434</a>
+</div>
+<p>This page is the best ever!!!!!!!!</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 9:09:28 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-194301">
+<div class="guestbook-author">
+<img alt="foopy1.1" src="http://www.habbo.com/habbo-imaging/avatar/836086000982647827477300911440002a69147787047096a22fb90e5f8559f.gif" title="foopy1.1"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="foopy1.1">foopy1.1</a>
+</div>
+<p>nice.</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 9:06:37 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-194288">
+<div class="guestbook-author">
+<img alt="cute-lil-gemma" src="http://www.habbo.com/habbo-imaging/avatar/85409600098244769601730101144001c42838d425a3af81823deaf044a8f6c.gif" title="cute-lil-gemma"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="online">
+<a href="cute-lil-gemma.html">cute-lil-gemma</a>
+</div>
+<p>your page is beautiful!</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 9:05:00 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-194261">
+<div class="guestbook-author">
+<img alt=":angel-45-gurl:" src="http://www.habbo.com/habbo-imaging/avatar/5450960009665227101373501114400574def492a95cf0a5b4466fe6e3d942c.gif" title=":angel-45-gurl:"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="%3Aangel-45-gurl%3A.html">:angel-45-gurl:</a>
+</div>
+<p>hi cupid send me my match or bff plz im despret but a nice and good lookin one |</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 9:02:54 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-194199">
+<div class="guestbook-author">
+<img alt="toya21" src="http://www.habbo.com/habbo-imaging/avatar/1500218010267092801530005114400adf782f64918628cf3847f2928e421c7.gif" title="toya21"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="offline">
+<a href="toya21.html">toya21</a>
+</div>
+<p>hey kool homepage</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 8:56:02 PM</div>
+</li>
+<li class="guestbook-entry" id="guestbook-entry-194135">
+<div class="guestbook-author">
+<img alt="rockinx1" src="http://www.habbo.com/habbo-imaging/avatar/841061800180501280203000511440037bc8915413d7220c6da5c00076ff9e1.gif" title="rockinx1"/>
+</div>
+<div class="guestbook-actions">
+</div>
+<div class="guestbook-message">
+<div class="online">
+<a href="rockinx1.html">rockinx1</a>
+</div>
+<p>630</p>
+</div>
+<div class="guestbook-cleaner"> </div>
+<div class="guestbook-entry-footer">Feb 1, 2007 8:49:51 PM</div>
+</li>
+</ul></div>
+<script type="text/javascript">	
+	Event.onDOMReady(function() {
+		GuestbookWidget.init('12574330', '200973', 200);
+		GuestbookWidget.monitorScrollPosition();
+	});
+</script>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable widget ProfileWidget" id="widget-67339" style=" left: 448px; top: 307px; z-index: 29;">
+<div class="w_skin_goldenskin">
+<div class="widget-corner" id="widget-67339-handle">
+<div class="widget-headline"><h3><span class="header-left"> </span><span class="header-middle">MY PROFILE</span><span class="header-right"> </span></h3>
+</div>
+</div>
+<div class="widget-body">
+<div class="widget-content">
+<div class="profile-info">
+<div class="name" style="float: left">
+<span class="name-text">Cupids.Garden</span>
+</div>
+<br class="clear"/>
+<img alt="offline" src="http://images.habbohotel.com/web/web-2.1.0_b22/images/myhabbo/profile/habbo_offline.gif"/>
+<div class="birthday text">
+			Habbo Created On:
+		</div>
+<div class="birthday date">
+			Jan 25, 2007
+		</div>
+<img src="http://images.habbohotel.com/c_images/album1584/VIP.gif"/>
+</div>
+<div class="profile-figure">
+<img alt="Cupids.Garden" src="http://www.habbo.com/habbo-imaging/avatar/1650518010235142700230503014400160ec92f65b316a182e07e9a0ed33d17.gif">
+</img></div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable widget RoomsWidget" id="widget-67340" style=" left: 443px; top: 39px; z-index: 61;">
+<div class="w_skin_goldenskin">
+<div class="widget-corner" id="widget-67340-handle">
+<div class="widget-headline"><h3><span class="header-left"> </span><span class="header-middle">MY ROOMS</span><span class="header-right"> </span></h3>
+</div>
+</div>
+<div class="widget-body">
+<div class="widget-content">
+<div id="room_wrapper">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-2.1.0_b22/images/myhabbo/rooms/room_icon_open.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			Fallin' Love Furni
+        		</div>
+<div class="clear"></div>
+<div>
+</div>
+<a href="../client_forwardId_2_roomId_9305944.html" id="room-navigation-link_9305944" onclick="roomForward(this, '9305944', 'private', false); return false;" target="client">
+					 enter room
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-2.1.0_b22/images/myhabbo/rooms/room_icon_open.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			Love Ducky Lottery
+        		</div>
+<div class="clear"></div>
+<div>Day 4
+        		</div>
+<a href="../client_forwardId_2_roomId_9306624.html" id="room-navigation-link_9306624" onclick="roomForward(this, '9306624', 'private', false); return false;" target="client">
+					 enter room
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-2.1.0_b22/images/myhabbo/rooms/room_icon_open.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			Couples Cozzie Change
+        		</div>
+<div class="clear"></div>
+<div>
+</div>
+<a href="../client_forwardId_2_roomId_9306841.html" id="room-navigation-link_9306841" onclick="roomForward(this, '9306841', 'private', false); return false;" target="client">
+					 enter room
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-2.1.0_b22/images/myhabbo/rooms/room_icon_password.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			Couples Dance Off
+        		</div>
+<div class="clear"></div>
+<div>
+</div>
+<a href="../client_forwardId_2_roomId_9307120.html" id="room-navigation-link_9307120" onclick="roomForward(this, '9307120', 'private', false); return false;" target="client">
+					 password protected
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td class="dotted-line" valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-2.1.0_b22/images/myhabbo/rooms/room_icon_password.gif"/>
+</div>
+</td>
+<td class="dotted-line">
+<div class="room_info">
+<div class="room_name">
+        			Spoken Word Contest
+        		</div>
+<div class="clear"></div>
+<div>
+</div>
+<a href="../client_forwardId_2_roomId_9307134.html" id="room-navigation-link_9307134" onclick="roomForward(this, '9307134', 'private', false); return false;" target="client">
+					 password protected
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/web/web-2.1.0_b22/images/myhabbo/rooms/room_icon_password.gif"/>
+</div>
+</td>
+<td>
+<div class="room_info">
+<div class="room_name">
+        			VIP
+        		</div>
+<div class="clear"></div>
+<div>
+</div>
+<a href="../client_forwardId_2_roomId_9307139.html" id="room-navigation-link_9307139" onclick="roomForward(this, '9307139', 'private', false); return false;" target="client">
+					 password protected
+					 </a>
+</div>
+<br class="clear"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="menu" id="dialog-stickie-report">
+<div class="menu-header">
+<h3>Report Stickie Note</h3>
+</div>
+<div class="menu-body">
+<div class="menu-content" id="dialog-stickie-report-content">
+<div>Can you tell who or where this Habbo is in real life from this Stickie? Or does it contain a scam?</div>
+<div>
+<div class="button grey" id="stickie-report-cancel">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Cancel</div>
+</div>
+</div>
+<div class="button grey" id="stickie-report-report">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Report</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="menu-bottom"></div>
+</div>
+<div class="menu" id="dialog-name-report">
+<div class="menu-header">
+<h3>Report Habbo Name</h3>
+</div>
+<div class="menu-body">
+<div class="menu-content" id="dialog-name-report-content">
+<div>Is this name offensive or inappropriate?</div>
+<div>
+<div class="button grey" id="name-report-cancel">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Cancel</div>
+</div>
+</div>
+<div class="button grey" id="name-report-report">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Report</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="menu-bottom"></div>
+</div>
+<div class="menu" id="dialog-motto-report">
+<div class="menu-header">
+<h3>Report Habbo Motto</h3>
+</div>
+<div class="menu-body">
+<div class="menu-content" id="dialog-motto-report-content">
+<div>Is this motto offensive or inappropriate?</div>
+<div>
+<div class="button grey" id="motto-report-cancel">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Cancel</div>
+</div>
+</div>
+<div class="button grey" id="motto-report-report">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Report</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="menu-bottom"></div>
+</div>
+<div class="menu" id="dialog-room-report">
+<div class="menu-header">
+<h3>Report Guest Room</h3>
+</div>
+<div class="menu-body">
+<div class="menu-content" id="dialog-room-report-content">
+<div>Is this room name or its description offensive or inappropriate?</div>
+<div>
+<div class="button grey" id="room-report-cancel">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Cancel</div>
+</div>
+</div>
+<div class="button grey" id="room-report-report">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Report</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="menu-bottom"></div>
+</div>
+<div class="menu" id="dialog-guestbook-report">
+<div class="menu-header">
+<h3>Report guestbook entry</h3>
+</div>
+<div class="menu-body">
+<div class="menu-content" id="dialog-guestbook-report-content">
+<div>Is this entry offensive?</div>
+<div>
+<div class="button grey" id="guestbook-report-cancel">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Cancel</div>
+</div>
+</div>
+<div class="button grey" id="guestbook-report-report">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Report</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="menu-bottom"></div>
+</div>
+<div class="menu" id="dialog-report-success">
+<div class="menu-header">
+<h3>Item Reported</h3>
+</div>
+<div class="menu-body">
+<div class="menu-content" id="dialog-report-success-content">
+<div>We will review your report and take action if necessary. Thank you!</div>
+<div>
+<div class="button grey" id="report-success-close">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Close</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="menu-bottom"></div>
+</div>
+<div class="menu" id="dialog-report-error">
+<div class="menu-header">
+<h3>Error occured!</h3>
+</div>
+<div class="menu-body">
+<div class="menu-content" id="dialog-report-error-content">
+<div>Error occured trying to send report. Please try again in couple of minutes.</div>
+<div>
+<div class="button grey" id="report-error-close">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Close</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="menu-bottom"></div>
+</div>
+<div class="menu" id="dialog-report-spam">
+<div class="menu-header">
+<h3>Flood detected!</h3>
+</div>
+<div class="menu-body">
+<div class="menu-content" id="dialog-report-spam-content">
+<div>You have made too many reports at one time.</div>
+<div>
+<div class="button grey" id="report-spam-close">
+<div class="button-header"><div></div></div>
+<div class="button-body">
+<div class="button-content">Close </div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+<div class="menu-bottom"></div>
+</div>
+</div>
+<div id="mypage-ad">
+<div id="ad_sidebar">
+</div> </div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+	Event.observe(window, "load", observeAnim);
+    Event.observe(window, "load", letItSnow);
+</script>
+</div>
+<div id="outer"><div id="outer-content">
+<div id="footer">
+<div id="footer-top"><div id="footer-content"> <p>
+<a href="../index.html">Home</a>
+						|
+						<a href="../hotel.html">Habbo Hotel</a>
+						|
+						<a href="../credits.html">Buy Coins</a>
+						|
+						<a href="../club.html">Habbo Club</a>
+						|
+						<a href="../community.html">Community</a>
+						|
+						<a href="../games.html">Games</a>
+						|
+						<a href="../entertainment/cupidsgarden/index.html">Valentine's Day</a>
+						|
+						<a href="../shop/target.html">Shop</a>
+						|
+						<a href="../help.html">Help</a>
+</p>
+<p>
+<a href="../credits.html">Get Credits</a> |
+					<a href="../club/index.html">Habbo Club</a>
+</p>
+<p><a href="../footer_pages/privacy_policy.html">Privacy Policy</a> | <a href="../footer_pages/terms_and_conditions.html">Terms &amp; Conditions</a> | <a href="../footer_pages/atlas.html">Other Habbo sites</a> |<a href="../footer_pages/advertise_in_habbo.html">Advertise in Habbo</a> | <a href="http://www.sulake.com/">Sulake</a></p>
+<p class="footer-legal">© 2005 Sulake Corporation Ltd. HABBO is a registered trademark of Sulake Corporation Oy in the European Union, the USA, Japan, the People's Republic of China and various other jurisdictions. All rights reserved.</p>
+</div></div>
+<div id="footer-bottom"><div id="footer-bottom-content"></div></div>
+</div>
+</div></div>
+<div id="outer-bottom"><div id="outer-bottom-content"></div></div>
+</div>
+<div id="tracker"><!-- START Nielsen//NetRatings SiteCensus V5.1 -->
+<!-- COPYRIGHT 2005 Nielsen//NetRatings -->
+<script language="JavaScript" type="text/javascript">
+
+<!--
+
+	var _rsCI="Habbohotel";
+	var _rsCG="1";
+	var _rsDT=0; // to turn on whether to get the document title, 1=on
+	var _rsDU=0; // to turn on or off the applet, 1=on
+	var _rsDO=0; // to turn on debug output to the console, 1=on, only works if _rsDU=1
+	var _rsX6=0; // to force use of applet with XP and IE6, 1=on, only works if _rsDU=1
+
+	var _rsSI=escape(window.location);
+
+
+
+	var _rsLP=location.protocol.indexOf('https')>-1?'https:':'http:';
+	var _rsRP=escape(document.referrer);
+	var _rsND=_rsLP+'http://secure-dk.imrworldwide.com/';
+
+	if (parseInt(navigator.appVersion)>=4)
+	{
+		var _rsRD=(new Date()).getTime();
+		var _rsSE=0; // to turn on surveys, 1=on
+		var _rsSV=""; // survey name, leave empty
+		var _rsSM=0; // maximum survey rate, 1.0=100%
+		_rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="'+_rsND+'v51.js"><\/scr'+'ipt>';
+	}
+	else
+	{
+		_rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">';
+	}
+	document.write(_rsCL);
+
+//-->
+
+</script>
+<noscript>
+<img alt="" src="../_external/secure-dk.imrworldwide.com/cgi-bin/m_ci_Habbohotel_cg_1.gif"/>
+</noscript>
+<!-- THE END Nielsen//NetRatings SiteCensus V5.1 -->
+</div>
+</body>
+</html>
+

@@ -1,0 +1,12 @@
+body.archive-landing #header h1 a{width:160px;height:66px;background-image:url('/habbo-2006/_external/images.habbohotel.com/c_images/WebLogos/habbo_logo_com.gif');background-size:auto;background-position:left center}
+body.archive-landing #column1>.habblet-container,body.archive-landing #column2>.habblet-container{margin-bottom:14px;display:flow-root}
+body.archive-landing #habbo-intro-nonflash{margin-top:14px}
+body.archive-landing #landing-register-text a{display:block;width:290px;max-width:calc(100% - 24px);height:40px;margin:0 auto;color:#fff;text-decoration:none;line-height:normal}
+body.archive-landing #landing-register-text a span{box-sizing:border-box;display:flex;align-items:center;justify-content:center;height:40px;margin-right:17px;padding:0 8px;line-height:1.2;color:#fff;text-shadow:0 1px #1b6800}
+body.archive-landing #landing-tags-card .box-content{box-sizing:border-box;display:flow-root;width:auto;max-width:100%}
+body.archive-landing #landing-tags-card ul{float:none;display:block;max-width:100%;margin:0}
+body.archive-landing #landing-tags-card .tags-habbos-like{float:none;display:block;margin-bottom:8px}
+body.archive-landing #container{max-width:100%;box-sizing:border-box}
+@media(max-width:760px){body.archive-landing #process-content{display:grid;grid-template-columns:minmax(0,1fr);gap:14px}body.archive-landing #column1,body.archive-landing #column2{float:none!important;width:auto!important;min-width:0}body.archive-landing #content{padding:0 10px}body.archive-landing #create-habbo-nonflash{background-position:center top}body.archive-landing #header .stats{position:static;clear:both}body.archive-landing #header{display:flow-root}body.archive-landing #footer{padding:12px 0}}
+body#landing.archive-landing #create-habbo-flash>#habbo-intro-nonflash{margin-top:14px!important}
+@media(max-width:760px){body.archive-landing #header .stats{display:flex;flex-wrap:wrap;gap:5px 12px}body.archive-landing #header .stats li{float:none;width:auto;max-width:100%;box-sizing:border-box}}

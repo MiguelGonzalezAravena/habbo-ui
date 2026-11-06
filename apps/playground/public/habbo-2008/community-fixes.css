@@ -1,0 +1,43 @@
+@import url('/habbo-2008/community-component-fixes.css');
+/* Full-page layout: preserve the historical desktop grid and wrap it on mobile. */
+body.archive-community #header-container,body.archive-community #content-container{min-width:0;box-sizing:border-box}
+body.archive-community #header{display:grid;grid-template-columns:125px minmax(0,1fr) 110px;gap:12px;align-items:start;width:100%;max-width:930px;box-sizing:border-box}
+body.archive-community #header h1{grid-column:1;margin:16px 0;float:none}
+body.archive-community #header h1 a{background-image:url('/habbo-2006/_external/images.habbohotel.com/c_images/WebLogos/habbo_logo_com.gif');background-size:contain;background-position:left center}
+body.archive-community #subnavi{position:static;grid-column:2;grid-row:1;width:auto}
+body.archive-community #subnavi-user{display:none}
+body.archive-community #subnavi-login{position:static;width:300px;max-width:100%;margin:7px 0 0 auto;text-align:left}
+body.archive-community #subnavi-login:hover,body.archive-community #subnavi-login.focused{width:300px}
+body.archive-community #subnavi-login label.login-text{display:none}
+body.archive-community #subnavi-login-help{width:100%;float:none}
+body.archive-community #subnavi-login input.login-field{box-sizing:border-box;max-width:52%}
+body.archive-community #habbos-online{position:static;grid-column:3;grid-row:1;margin:15px 0 0;width:100%}
+body.archive-community #navi{grid-column:1 / -1;grid-row:2;display:flex;flex-wrap:wrap;clear:both;margin:0}
+body.archive-community #navi li{float:none;flex:none}
+body.archive-community #navi2-container,body.archive-community #navi2,body.archive-community #container{width:100%;max-width:930px;box-sizing:border-box}
+body.archive-community #navi2{height:auto;display:flow-root}
+body.archive-community #navi2 ul{display:flex;flex-wrap:wrap}
+body.archive-community #newspromo{width:100%;max-width:300px}
+body.archive-community #topstories{position:relative;height:187px}
+body.archive-community #newspromo .topstory{width:300px;max-width:100%;height:187px;box-sizing:border-box;padding:5px 14px;background-size:100% 187px}
+body.archive-community .box-tabs-container{height:auto;display:flow-root}
+body.archive-community .box-tabs{display:flex;flex-wrap:wrap;height:auto;max-width:100%}
+body.archive-community .box-tabs a{white-space:normal}
+body.archive-community .archive-missing-avatars{padding:12px 15px;color:#405766;background:#e8f2f5;text-align:left;font-size:11px}
+body.archive-community #footer{padding-top:12px}
+@media(max-width:950px){body.archive-community #content{display:grid;grid-template-columns:minmax(0,1fr) 310px;gap:8px}body.archive-community #column1,body.archive-community #column2{float:none;width:auto;min-width:0}body.archive-community #column3{display:none}body.archive-community #footer{padding:12px 8px}body.archive-community .habblet-container{max-width:100%}}
+@media(max-width:600px){body.archive-community #header{grid-template-columns:minmax(0,1fr) 110px;gap:8px}body.archive-community #habbos-online{grid-column:2}body.archive-community #subnavi{grid-column:1 / -1;grid-row:2}body.archive-community #subnavi-login{margin:0 0 8px}body.archive-community #navi{grid-row:3}body.archive-community #content{display:block}body.archive-community #column1,body.archive-community #column2{width:100%;float:none}body.archive-community #column2>.habblet-container:first-child{max-width:308px}body.archive-community .recommendedrooms-lite-habblet-list-container .enter-room-link .room-enter{float:none;display:block;margin:0 0 5px}body.archive-community .archive-tools{padding:8px}body.archive-community .archive-tools span{font-size:9px}}
+body.archive-community .box-tabs{justify-content:flex-end}
+@media(max-width:420px){body.archive-community .box-tabs-container h2{position:static;padding:5px 10px}body.archive-community .box-tabs{justify-content:flex-end}}
+body.archive-community #navi2 ul{margin:0 2px;padding:6px 12px 4px;gap:5px 0}
+@media(max-width:600px){body.archive-community #navi2 ul li{float:none;margin-right:10px;padding-right:10px;font-size:11px}}
+/* Grid replaces clearfix: its pseudo-element must not create a spare bottom row. */
+body.archive-community #header::after{content:none;display:none}
+body.archive-community #header{grid-template-columns:160px minmax(0,1fr) 110px;row-gap:0}
+body.archive-community #header h1 a{width:160px;height:66px;background-size:auto;background-position:left center}
+body.archive-community #homes-habblet-list-container{display:flex;align-items:center;min-height:110px;overflow:hidden}
+body.archive-community #placeholder-container{position:relative;flex:0 0 80px;height:110px}
+body.archive-community #homes-habblet-list-container .active-habbo-image-placeholder{display:none}
+body.archive-community #homes-habblet-list-container .active-habbo-image-placeholder:first-child{display:block;position:relative;left:8px;top:0}
+body.archive-community .archive-missing-avatars{flex:1;margin:0}
+@media(max-width:600px){body.archive-community #header{grid-template-columns:minmax(0,1fr) 110px;row-gap:0}}

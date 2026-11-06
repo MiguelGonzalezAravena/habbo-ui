@@ -1,0 +1,638 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden","showSwfDownload":true};</script>
+
+
+
+
+
+<meta content="text/html; charset=utf-8" http-equiv="content-type"/>
+<title>Habbo ~ Habbo home: -=E.J=- </title>
+<script src="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/static/js/visual.js" type="text/javascript"></script>
+<script src="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/static/js/domready.js" type="text/javascript"></script>
+<script src="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/static/js/libs.js" type="text/javascript"></script>
+<script src="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/static/js/common.js" type="text/javascript"></script>
+<link href="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/v2/styles/style.css" rel="stylesheet" type="text/css"/>
+<link href="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/v2/styles/buttons.css" rel="stylesheet" type="text/css"/>
+<link href="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/v2/styles/boxes.css" rel="stylesheet" type="text/css"/>
+<link href="../styles/local.css" rel="stylesheet" type="text/css"/>
+<link href="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/v2/styles/tooltips.css" rel="stylesheet" type="text/css"/>
+<script src="../js/local.js" type="text/javascript"></script>
+<link href="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/styles/myhabbo/myhabbo.css" rel="stylesheet" type="text/css"/>
+<link href="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/styles/myhabbo/skins.css" rel="stylesheet" type="text/css"/>
+<link href="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/styles/myhabbo/dialogs.css" rel="stylesheet" type="text/css"/>
+<link href="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/styles/myhabbo/buttons.css" rel="stylesheet" type="text/css"/>
+<link href="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/styles/myhabbo/control.textarea.css" rel="stylesheet" type="text/css"/>
+<link href="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/styles/myhabbo/boxes.css" rel="stylesheet" type="text/css"/>
+<link href="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/v2/styles/myhabbo.css" rel="stylesheet" type="text/css"/>
+<link href="http://www.habbo.com/myhabbo/styles/assets.css?v=88bcb484c2433a5548d2d6cda0f1f130" rel="stylesheet" type="text/css"/>
+<script src="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/js/myhabbo.js" type="text/javascript"></script>
+<script src="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/js/myhabbo-discussions.js" type="text/javascript"></script>
+<script src="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/js/myhabbo-widgets.js" type="text/javascript"></script>
+<script src="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/v2/js/group-favorite.js" type="text/javascript"></script>
+<style type="text/css">
+
+    #playground, #playground-outer {
+	    width: 752px;
+	    height: 1360px;
+    }
+
+</style>
+<meta content="This is the Habbo Homepage of -=E.J=-, you can create your own page at www.habbo.com" name="description"/>
+<meta content="mypage.metadata.keywords" name="keywords"/>
+<script type="text/javascript">
+Event.onDOMReady(function() { initView(9278927, null); });
+</script>
+<!--[if lt IE 8]>
+<link rel="stylesheet" href="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/v2/styles/ie.css" type="text/css" />
+<![endif]-->
+<!--[if lt IE 7]>
+<link rel="stylesheet" href="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/v2/styles/ie6.css" type="text/css" />
+<script src="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/static/js/pngfix.js" type="text/javascript"></script>
+<script type="text/javascript">
+try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {}
+</script>
+
+<style type="text/css">
+body { behavior: url(/js/csshover.htc); }
+</style>
+<![endif]-->
+<script type="text/javascript">
+document.habboLoggedIn = false;
+var habboName = null;
+var habboReqPath = "";
+var habboStaticFilePath = "http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery";
+var habboImagerUrl = "/habbo-imaging/";
+window.name = "habboMain";
+
+</script>
+<meta content="8.0.68 - 20071213090956 - com" name="build"/>
+</head>
+<body class="anonymous" id="viewmode">
+<div id="overlay"></div>
+<div id="header-container">
+<div class="clearfix" id="header">
+<h1><a href="../index.html"></a></h1>
+<div id="subnavi">
+<div id="subnavi-user">
+<div class="clearfix"> </div>
+<p>
+<a href="../client.html" id="enter-hotel-open-medium-link" onclick="openOrFocusHabbo(this); return false;" target="client">Enter Habbo Hotel</a>
+</p>
+</div>
+<div id="subnavi-login">
+<form action="https://www.habbo.com/account/submit" id="login-form" method="post">
+<input name="page" type="hidden" value="/home/-=E.J=-"/>
+<ul>
+<li>
+<label class="login-text" for="login-username">My Habbo name</label>
+<input class="login-field" id="login-username" name="credentials.username" tabindex="1" type="text"/>
+<input class="submit" id="login-submit" type="submit" value="Log in"/>
+</li>
+<li>
+<label class="login-text" for="login-password">Password</label>
+<input class="login-field" id="login-password" name="credentials.password" tabindex="2" type="password"/>
+<input id="login-remember-me" name="_login_remember_me" tabindex="3" type="checkbox" value="true"/>
+<label class="left" for="login-remember-me">Remember me</label>
+</li>
+<li class="no-label"><a href="../account/password/forgot.html" id="forgot-password"><span>I forgot my password/username</span></a></li>
+<li class="no-label"><a href="../register.html"><span>Register</span></a></li>
+</ul>
+</form>
+<div class="bottom-bubble" id="remember-me-notification" style="display:none;">
+<div class="bottom-bubble-t"><div></div></div>
+<div class="bottom-bubble-c">
+					By selecting 'remember me' you will stay signed in on this computer until you click 'Sign Out'. If this is a public computer please do not use this feature.
+	</div>
+<div class="bottom-bubble-b"><div></div></div>
+</div>
+<script type="text/javascript">
+					HabboView.add(RememberMeUI.init);
+				</script>
+</div>
+</div>
+<ul id="navi">
+<li>
+<a href="../community.html">Community</a>
+<span></span>
+</li>
+<li>
+<a href="../games.html">Games</a>
+<span></span>
+</li>
+<li>
+<a href="../credits.html">Coins</a>
+<span></span>
+</li>
+</ul>
+</div>
+</div>
+<div id="content-container">
+<div class="pngbg" id="navi2-container">
+<div class="pngbg clearfix" id="navi2">
+<ul>
+<li> </li>
+</ul>
+</div>
+</div>
+<div id="container">
+<div id="content">
+<div class="cbb blue" id="mypage-wrapper">
+<div class="box-tabs-container box-tabs-left clearfix">
+<div class="myhabbo-view-tools">
+</div>
+<h2 class="page-owner">-=E.J=-</h2>
+<ul class="box-tabs"></ul>
+</div>
+<div id="mypage-content">
+<div class="b_bg_colour_08" id="mypage-bg">
+<div id="playground">
+<div class="movable stickie n_skin_goldenskin-c" id="stickie-774856" style=" left: 432px; top: 428px; z-index: 13;">
+<div class="n_skin_goldenskin">
+<div class="stickie-header">
+<h3> </h3>
+<div class="clear"></div>
+</div>
+<div class="stickie-body">
+<div class="stickie-content">
+<p>Eddie aka RudeBoy no Haterz Allowed</p>
+<div class="stickie-footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable stickie n_skin_goldenskin-c" id="stickie-568802" style=" left: 54px; top: 399px; z-index: 5;">
+<div class="n_skin_goldenskin">
+<div class="stickie-header">
+<h3> </h3>
+<div class="clear"></div>
+</div>
+<div class="stickie-body">
+<div class="stickie-content">
+<p>Where are my friends?<br/>To add your buddy list to your page click edit and look in your widgets inventory. After placing it on the page you can move it all over the place and even change how it looks.<br/>Go on!</p>
+<div class="stickie-footer">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable sticker s_sticker_flower_pink" id="sticker-1065954" style="left: 360px; top: 564px; z-index: 8">
+</div>
+<div class="movable sticker s_needle_3" id="sticker-1065952" style="left: 20px; top: 30px; z-index: 9">
+</div>
+<div class="movable sticker s_nail2" id="sticker-1065950" style="left: 10px; top: 270px; z-index: 11">
+</div>
+<div class="movable sticker s_sticker_arrow_down" id="sticker-1065951" style="left: 583px; top: 39px; z-index: 2">
+</div>
+<div class="movable sticker s_paper_clip_1" id="sticker-1065955" style="left: 36px; top: 738px; z-index: 12">
+</div>
+<div class="movable sticker s_sticker_spaceduck" id="sticker-1065953" style="left: 163px; top: 521px; z-index: 10">
+</div>
+<div class="movable widget ProfileWidget" id="widget-629477" style=" left: 458px; top: 25px; z-index: 3;">
+<div class="w_skin_goldenskin">
+<div class="widget-corner" id="widget-629477-handle">
+<div class="widget-headline"><h3><span class="header-left"> </span><span class="header-middle">MY PROFILE</span><span class="header-right"> </span></h3>
+</div>
+</div>
+<div class="widget-body">
+<div class="widget-content">
+<div class="profile-info">
+<div class="name" style="float: left">
+<span class="name-text">-=E.J=-</span>
+</div>
+<br class="clear"/>
+<img alt="offline" src="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/images/myhabbo/profile/habbo_offline.gif"/>
+<div class="birthday text">
+			Habbo Created On:
+		</div>
+<div class="birthday date">
+			Jun 30, 2006
+		</div>
+<div>
+<a href="../groups/34132/id.html" title="Snow Busters!"><img src="http://www.habbo.com/habbo-imaging/badge/b0706Xs02055s01064s01114s29064a5c07b2d2abd7f08d2081b45e7de8321.gif"/></a>
+</div>
+</div>
+<div class="profile-figure">
+<img alt="-=E.J=-" src="http://www.habbo.com/habbo-imaging/avatar/1650818009255192802030005,s-0.g-1.d-4.h-4.a-0,b36cb83c58446029d3b562d0fab2f27a.gif"/>
+</div>
+<div class="profile-friend-request clearfix">
+<a class="toolbutton" href="../myhabbo/friends/addAfterLogin_accountId_9278927.html" id="add-friend"><span>Add as friend</span></a>
+</div>
+<br clear="all"/>
+<div id="profile-tags-panel">
+<div id="profile-tag-list">
+<div id="profile-tags-container">
+No tags.
+</div>
+</div>
+</div>
+<script type="text/javascript">
+		Event.onDOMReady(function() {
+			new ProfileWidget('9278927');
+		});
+	</script>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable widget HighScoresWidget" id="widget-853980" style=" left: 53px; top: 752px; z-index: 6;">
+<div class="w_skin_goldenskin">
+<div class="widget-corner" id="widget-853980-handle">
+<div class="widget-headline"><h3><span class="header-left"> </span><span class="header-middle">HIGH SCORES</span><span class="header-right"> </span></h3>
+</div>
+</div>
+<div class="widget-body">
+<div class="widget-content">
+<table>
+<tr>
+<td>You do not have any highscores</td>
+</tr>
+</table>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable widget FriendsWidget" id="widget-853979" style=" left: 374px; top: 580px; z-index: 7;">
+<div class="w_skin_goldenskin">
+<div class="widget-corner" id="widget-853979-handle">
+<div class="widget-headline"><h3><span class="header-left"> </span><span class="header-middle">My Friends (<span id="avatar-list-size">191</span>)</span><span class="header-right"> </span></h3>
+</div>
+</div>
+<div class="widget-body">
+<div class="widget-content">
+<div id="avatar-list-search">
+<input id="avatarlist-search-string" style="float:left;" type="text"/>
+<a class="colorlink orange" id="avatarlist-search-button" style="float:left;"><span>Search</span></a>
+</div>
+<br clear="all"/>
+<div id="avatarlist-content">
+<div class="avatar-widget-list-container">
+<ul class="avatar-widget-list" id="avatar-list-list">
+<li id="avatar-list-853979-10409928" title="-=-PUNKSTAR-=-"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-10409928"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/7350166018600017101781037,s-1.g-1.d-4.h-4.a-0,317591e05166ea4bd4e8b8f856c22ca8.gif"/></div>
+<h4><a href="-%3D-PUNKSTAR-%3D-.html">-=-PUNKSTAR-=-</a></h4>
+<p class="avatar-list-birthday">Sep 1, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-853979-10645954" title="-==hot.chic==-"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-10645954"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/hr-545-1137.hd-600-1014.ch-665-1286.lg-715-1298.sh-730-1286,s-1.g-1.d-4.h-4.a-0,14faa954de406bd2d1dde9d1ac006843.gif"/></div>
+<h4><a href="-%3D%3Dhot.chic%3d%3d-">-==hot.chic==-</a></h4>
+<p class="avatar-list-birthday">Sep 17, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-853979-10635561" title="-==Slash==-"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-10635561"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/hd-180-2.ch-250-85.lg-285-79.sh-295-74.hr-165-48.ea-1404-62,s-1.g-1.d-4.h-4.a-0,a41e7b45a37660ac0a6ed2850341035f.gif"/></div>
+<h4><a href="-%3D%3DSlash%3D%3D-.html">-==Slash==-</a></h4>
+<p class="avatar-list-birthday">Sep 16, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-853979-7743224" title="-=Brooke-S=-"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-7743224"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/hr-679-35.hd-600-2.ch-650-76.lg-715-76.sh-730-62.ha-1003-62.he-1602-76.wa-2009-62,s-1.g-1.d-4.h-4.a-0,24fae234ccdbc61f1cdd5e3bcae4b030.gif"/></div>
+<h4><a href="-%3DBrooke-S%3D-.html">-=Brooke-S=-</a></h4>
+<p class="avatar-list-birthday">Mar 26, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-853979-14046010" title="-=nikeitha-="><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-14046010"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/5700162517685017000173505,s-1.g-1.d-4.h-4.a-0,6a242832a0aabe8335e4f61120998738.gif"/></div>
+<h4><a href="-%3Dnikeitha-%3D.html">-=nikeitha-=</a></h4>
+<p class="avatar-list-birthday">May 11, 2007</p>
+<p>
+</p></li>
+<li id="avatar-list-853979-8594990" title="-Derek33-"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-8594990"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/1650818010235062800830005,s-1.g-1.d-4.h-4.a-0,1dc4eab737080f1123dfde90da20ee7b.gif"/></div>
+<h4><a href="-Derek33-.html">-Derek33-</a></h4>
+<p class="avatar-list-birthday">May 21, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-853979-9916866" title="-LTJ"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-9916866"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/7301063001600097101350001,s-1.g-1.d-4.h-4.a-0,b57b24304b48dc0c57d953537b04826f.gif"/></div>
+<h4><a href="-LTJ.html">-LTJ</a></h4>
+<p class="avatar-list-birthday">Aug 3, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-853979-9207814" title="-Tubular."><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-9207814"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/7250163525600017200858501,s-1.g-1.d-4.h-4.a-0,92106da63e20e6daa1966eeb42c72917.gif"/></div>
+<h4><a href="-Tubular..html">-Tubular.</a></h4>
+<p class="avatar-list-birthday">Jun 26, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-853979-11579677" title="-x-Shaodo-x-"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-11579677"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/3000622024180202810417021,s-1.g-1.d-4.h-4.a-0,f9ff0e6e3d0202e99874bacb589c4cf5.gif"/></div>
+<h4><a href="-x-Shaodo-x-.html">-x-Shaodo-x-</a></h4>
+<p class="avatar-list-birthday">Nov 23, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-853979-10400407" title="...carlisa..."><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-10400407"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/5651160509660187002373505,s-1.g-1.d-4.h-4.a-0,25c5a0fe7b55dfd14e2caca348d697db.gif"/></div>
+<h4><a href="10400407/id.html">...carlisa...</a></h4>
+<p class="avatar-list-birthday">Aug 31, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-853979-11684334" title=".::-sweety-::."><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-11684334"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/5250860510660037003372509,s-1.g-1.d-4.h-4.a-0,d12c752abc93c2fc939fa1da1581dd20.gif"/></div>
+<h4><a href=".%3A%3A-sweety-%3A%3A..html">.::-sweety-::.</a></h4>
+<p class="avatar-list-birthday">Nov 30, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-853979-11658686" title=".BeX-x"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-11658686"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/5650360509660217002873505,s-1.g-1.d-4.h-4.a-0,57076cb6521bc8e9ae4c817081b44bf4.gif"/></div>
+<h4><a href=".BeX-x.html">.BeX-x</a></h4>
+<p class="avatar-list-birthday">Nov 28, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-853979-9543255" title=".Sekcee.Thong."><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-9543255"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/7300964003600097150354509,s-1.g-1.d-4.h-4.a-0,7cd7cef77b1dd55f9b22c6c8d5421dd3.gif"/></div>
+<h4><a href=".Sekcee.Thong..html">.Sekcee.Thong.</a></h4>
+<p class="avatar-list-birthday">Jul 14, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-853979-11098888" title="0.x-Fergie-x.0"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-11098888"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/8331362510826017150373010,s-1.g-1.d-4.h-4.a-0,cd7a782ac028731926ab504f719bb0b9.gif"/></div>
+<h4><a href="0.x-Fergie-x.0">0.x-Fergie-x.0</a></h4>
+<p class="avatar-list-birthday">Oct 22, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-853979-10015771" title="000jodz000"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-10015771"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/7300182404600017150383401,s-1.g-1.d-4.h-4.a-0,72a58c0b3423bd24605850b6abb4b197.gif"/></div>
+<h4><a href="000jodz000.html">000jodz000</a></h4>
+<p class="avatar-list-birthday">Aug 8, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-853979-10047032" title="0omikeo0"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-10047032"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/1650118024210212701530006,s-1.g-1.d-4.h-4.a-0,6e3616cf77b3d110ad65bfe490958b3c.gif"/></div>
+<h4><a href="0omikeo0.html">0omikeo0</a></h4>
+<p class="avatar-list-birthday">Aug 10, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-853979-6284735" title="12ca"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-6284735"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/7250268505600087102054508,s-1.g-1.d-4.h-4.a-0,cc8b0b75757ba54002d1406d996ef1bf.gif"/></div>
+<h4><a href="12ca.html">12ca</a></h4>
+<p class="avatar-list-birthday">Jan 1, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-853979-9263478" title="24BabyPhat24"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-9263478"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/7300563001600097151250001,s-1.g-1.d-4.h-4.a-0,c674ec818e5e0f29b83a417b7deebf83.gif"/></div>
+<h4><a href="24BabyPhat24.html">24BabyPhat24</a></h4>
+<p class="avatar-list-birthday">Jun 29, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-853979-10617825" title="97layla93"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-10617825"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/5650560508660117002573006,s-1.g-1.d-4.h-4.a-0,f0dfa936e4472ccba2fa9677756849e0.gif"/></div>
+<h4><a href="97layla93.html">97layla93</a></h4>
+<p class="avatar-list-birthday">Sep 15, 2006</p>
+<p>
+</p></li>
+<li id="avatar-list-853979-13859430" title=":-=?!@:.ANTH1"><div class="avatar-list-open"><a class="avatar-list-open-link" href="#" id="avatar-list-open-link-853979-13859430"></a></div>
+<div class="avatar-list-avatar"><img alt="" src="http://www.habbo.com/habbo-imaging/avatar/5750160003685057150473006,s-1.g-1.d-4.h-4.a-0,31e428f7d49e334a0b4e1d27a44cc4bd.gif"/></div>
+<h4><a href="13859430/id.html">:-=?!@:.ANTH1</a></h4>
+<p class="avatar-list-birthday">May 2, 2007</p>
+<p>
+</p></li>
+</ul>
+<div class="avatar-list-info" id="avatar-list-info">
+<div class="avatar-list-info-close-container"><a class="avatar-list-info-close" href="#"></a></div>
+<div class="avatar-list-info-container"></div>
+</div>
+</div>
+<div id="avatar-list-paging">
+    1 - 20 / 191
+    <br/>
+    First |
+    &lt;&lt; |
+    <a class="avatar-list-paging-link" href="#" id="avatarlist-search-next">&gt;&gt;</a> |
+    <a class="avatar-list-paging-link" href="#" id="avatarlist-search-last">Last</a>
+<input id="pageNumber" type="hidden" value="1"/>
+<input id="totalPages" type="hidden" value="10"/>
+</div>
+<script type="text/javascript">
+Event.onDOMReady(function() {
+	window.widget853979 = new FriendsWidget('9278927', '853979');
+});
+</script>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable widget GuestbookWidget" id="widget-853981" style=" left: 358px; top: 316px; z-index: 4;">
+<div class="w_skin_goldenskin">
+<div class="widget-corner" id="widget-853981-handle">
+<div class="widget-headline"><h3><span class="header-left"> </span><span class="header-middle">My Guestbook(<span id="guestbook-size">0</span>) <span class="private" id="guestbook-type"><img alt="Friends only" src="../images/groups/status_exclusive.gif" title="Friends only"/></span></span><span class="header-right"> </span></h3>
+</div>
+</div>
+<div class="widget-body">
+<div class="widget-content">
+<div class="gb-private" id="guestbook-wrapper">
+<ul class="guestbook-entries" id="guestbook-entry-container">
+<div id="guestbook-empty-notes">This guestbook has no entries.</div>
+</ul></div>
+<script type="text/javascript">	
+	Event.onDOMReady(function() {
+		var gb853981 = new GuestbookWidget('159463', '853981', 500);
+		var editMenuSection = $('guestbook-privacy-options');
+		if (editMenuSection) {
+			gb853981.updateOptionsList('private');
+		}
+	});
+</script>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="movable widget RoomsWidget" id="widget-629476" style=" left: 50px; top: 43px; z-index: 1;">
+<div class="w_skin_goldenskin">
+<div class="widget-corner" id="widget-629476-handle">
+<div class="widget-headline"><h3><span class="header-left"> </span><span class="header-middle">MY ROOMS</span><span class="header-right"> </span></h3>
+</div>
+</div>
+<div class="widget-body">
+<div class="widget-content">
+<div id="room_wrapper">
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td valign="top">
+<div class="room_image">
+<img align="middle" alt="" src="http://images.habbohotel.com/habboweb/18_057608660d344f70a14839f120f50f51/38/web-gallery/images/myhabbo/rooms/room_icon_locked.gif"/>
+</div>
+</td>
+<td>
+<div class="room_info">
+<div class="room_name">
+        			My house 
+        		</div>
+<div class="clear"></div>
+<div>
+</div>
+        			locked
+        	</div>
+<br class="clear"/>
+</td>
+</tr>
+</table>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="mypage-ad">
+<div class="habblet">
+<div class="ad-container">
+<table border="0" cellpadding="0" cellspacing="0" width="160">
+<tr>
+<td background="../_external/images.habbohotel.com/c_images/album221/top.gif"> </td>
+</tr>
+<tr>
+<td background="../_external/images.habbohotel.com/c_images/album221/mid.gif"><center>
+<img alt="Q&amp;A Header" src="../_external/images.habbohotel.com/c_images/album221/q_aupdate.gif"/>
+</center>
+</td>
+</tr>
+<tr>
+<td background="../_external/images.habbohotel.com/c_images/album221/mid.gif"><table border="0" cellspacing="5" width="155">
+<tr>
+<td width="70"><center>
+<a href="http://ads.habbogroup.com/max/adclick.php?n=a6a03be7" target="_blank"><img alt="" border="0" src="http://ads.habbogroup.com/max/adview.php?zoneid=1526&amp;n=a6a03be7"/></a>
+</center></td>
+<td>Put on your acid wash jeans and sing along!</td>
+</tr>
+<tr>
+<td colspan="2"><a href="../articles/5-get-the-party-started-with-singstar-s.html">Ace our ‘80s Quiz to win excellent prizes!</a></td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td><center>
+<a href="../articles/6-skratchs-skatepark-quest.html"><img alt="kajeet 60 T" border="0" height="29" id="galleryImage2" src="http://images.habbohotel.com/c_images/album2776/kajeet_60_T.gif" width="60"/></a>
+</center></td>
+<td><strong>Meet the kajeet dudes!</strong>
+<script language="JavaScript">
+<!--// mathematical random number generator
+var randNum1 = (Math.random() * 1000000000000000000) + "?";
+//1x1 tracking
+document.write('<img src="http://ad.doubleclick.net/ad/habbo.dart/;spon=habbo_kajeet_homepageQA_101707;sz=1x1;ord=' + randNum1 + '" border="0" height="1" width="1">');
+//-->
+      </script>
+<br/>
+          Who's your favorite?</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td><center>
+<a href="../articles/12-roboquads-have-landed-in-habbo-hotel.html"><img alt="rq 60x40 T" border="0" height="40" id="galleryImage3" src="http://images.habbohotel.com/c_images/album2836/rq_60x40_T.gif" width="60"/></a>
+</center></td>
+<td><strong>Roboquads have landed in Habbo!</strong></td>
+</tr>
+<tr>
+<td colspan="2"><a href="../articles/12-roboquads-have-landed-in-habbo-hotel.html">Click HERE</a> to try Roboquad Robot Trivia - you could win Habbo prizes!
+          <script language="JavaScript">
+
+<!--// mathematical random number generator
+
+var randNum1 = (Math.random() * 1000000000000000000) + "?";
+
+//1x1 tracking
+
+document.write('<img src="http://ad.doubleclick.net/ad/habbo.dart/;spon=habbo_roboquad_homepageqa_101707;sz=1x1;ord=' + randNum1 + '" border="0" height="1" width="1">');
+
+//-->
+
+      </script>
+<br/></td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td><center>
+<a href="../articles/14-pop-tarts-splitz-toaster-pastries.html"><img alt="" border="0" src="../_external/www.bobbamusic.com/images/poptarts/pt_60x60.gif"/></a>
+</center></td>
+<td><strong>Pop-Tarts Splitz™ Toaster Pastries</strong></td>
+</tr>
+<tr>
+<td colspan="2"><a href="../articles/14-pop-tarts-splitz-toaster-pastries.html">Click HERE</a> to send in Splitz Pix™ of your Habbo Home!</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td><center>
+<a href="../credits.html"><img border="0" height="60" src="../_external/images.habbohotel.com/c_images/album2572/target60X60.gif" width="60"/></a>
+</center></td>
+<td><strong>Target Prepaid Habbo Cards are Here!</strong><br/></td>
+</tr>
+<tr>
+<td colspan="2"><a href="../credits.html">Click HERE for more!</a><br/></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+<td background="../_external/images.habbohotel.com/c_images/album221/bottom.gif"> </td>
+</tr>
+<tr></tr>
+</table>
+<!---ROBO END-->
+<!---ATT START--><!---ATT END--><!---POPTARTS START-->
+<!--- TARGET CARDS END-->
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+	Event.observe(window, "load", observeAnim);
+	Event.onDOMReady(function() {
+		initDraggableDialogs();
+	});
+</script>
+</div>
+<div id="footer">
+<p><a href="../help.html" target="_new">Contact Us</a> | <a href="http://www.sulake.com/" target="_new">Sulake</a> | <a href="../papers/termsAndConditions.html" target="_new">Terms of Service</a> | <a href="../papers/privacy.html" target="_new">Privacy Policy</a> |</p>
+<p>© 2007 Sulake Corporation Oy. HABBO is a registered trademark of Sulake Corporation Oy in the European Union, the USA, Japan, the People's Republic of China and various other jurisdictions. All rights reserved.</p>
+</div></div>
+</div>
+<script type="text/javascript">
+HabboView.run();
+</script>
+<script src="../_external/www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript">
+_uacct = "UA-448325-2";
+urchinTracker();
+</script>
+<!-- Start Quantcast tag -->
+<script src="../_external/edge.quantserve.com/quant.js" type="text/javascript"></script>
+<script type="text/javascript">_qacct="p-b5UDx6EsiRfMI";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-b5UDx6EsiRfMI" target="_blank"><img alt="Quantcast" border="0" height="1" src="../_external/pixel.quantserve.com/pixel/p-b5UDx6EsiRfMI.gif" style="display: none" width="1"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+<script type="text/javascript">
+if (window.location.href.indexOf("/register/welcome") != -1) {
+	var tdTrackBackImg = new Image();
+	var tdTrackBackUrl = "";
+	
+	tdInit();
+	tdTrack();
+}
+</script>
+</body>
+</html>
+

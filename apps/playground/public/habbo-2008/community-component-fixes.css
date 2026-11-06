@@ -1,0 +1,22 @@
+/* Sprite limits must not leave gaps when examples grow beyond the original width. */
+body.archive-community .new-button:not(.red-button):not(.green-button):not(.dark-button) b>span{filter:brightness(0)}
+body.archive-community .new-button b{display:flex;align-items:center;justify-content:center;gap:5px;box-sizing:border-box;height:25px;padding-top:0;padding-bottom:0;line-height:1}
+body.archive-community .new-button b>span{flex:none;margin:0}
+body.archive-community input.submit,body.archive-community input.continue,body.archive-community input.cancel,body.archive-community input.save,body.archive-community input.new,body.archive-community input.myhabbo-edit{min-height:24px;line-height:16px;vertical-align:middle}
+body.archive-community input.search{width:32px;min-height:24px;padding:0;background-position:50% -66px;vertical-align:middle}
+body.archive-community input.myhabbo-edit{padding-left:24px;padding-right:6px;background-position:4px -280px}
+body.archive-community .dialog-grey-top>div{position:relative;background-image:url('/habbo-2008/holocms/web-gallery/v2/images/dialogs/grey-header.gif');background-repeat:repeat-x}
+body.archive-community .dialog-grey-top>div::after{content:'';position:absolute;right:0;top:0;width:13px;height:26px;background:url('/habbo-2008/holocms/web-gallery/v2/images/dialogs/grey-tr.gif') no-repeat right top;pointer-events:none}
+body.archive-community .dialog-grey-top h3{max-width:calc(100% - 32px)}
+body.archive-community .dialog-grey-exit{z-index:1;display:flex;align-items:center;justify-content:center;top:4px;right:8px;width:18px;height:18px;padding:0;line-height:1;text-decoration:none;color:#b45125;font:bold 13px Arial}
+body.archive-community .dialog-grey-body{background-image:none;border-right:1px solid #000}
+body.archive-community .dialog-grey-bottom>div{background-size:100% 7px}
+body.archive-community .bottom-bubble-t,body.archive-community .bottom-bubble-b{position:relative}
+body.archive-community .bottom-bubble-t::after{content:'';position:absolute;top:10px;left:50px;right:0;height:2px;background:#000}
+body.archive-community .bottom-bubble-b::after{content:'';position:absolute;bottom:0;left:5px;right:0;height:2px;background:#000}
+body.archive-community .bottom-bubble-c{background:#fff}
+
+body.archive-community .dialog-grey-top>div{background-image:url('/habbo-2008/holocms/web-gallery/v2/images/dialogs/grey-tr.gif');background-position:right top;background-size:100% 26px}
+body.archive-community a.new-button.fill b{display:flex!important;align-items:center;justify-content:center;height:25px;line-height:25px;padding-top:0;padding-bottom:0}
+body.archive-community .bottom-bubble-t::before{content:'';position:absolute;top:12px;bottom:0;left:5px;right:0;background:#fff}
+body.archive-community .bottom-bubble-b::before{content:'';position:absolute;top:0;bottom:2px;left:5px;right:0;background:#fff}

@@ -1,0 +1,52 @@
+var _____WB$wombat$assign$function_____=function(name){return (self._wb_wombat && self._wb_wombat.local_init && self._wb_wombat.local_init(name))||self[name];};if(!self.__WB_pmw){self.__WB_pmw=function(obj){this.__WB_source=obj;return this;}}{
+let window = _____WB$wombat$assign$function_____("window");
+let self = _____WB$wombat$assign$function_____("self");
+let document = _____WB$wombat$assign$function_____("document");
+let location = _____WB$wombat$assign$function_____("location");
+let top = _____WB$wombat$assign$function_____("top");
+let parent = _____WB$wombat$assign$function_____("parent");
+let frames = _____WB$wombat$assign$function_____("frames");
+let opens = _____WB$wombat$assign$function_____("opens");
+function printHabbo() {
+	document.write("<object classid=\"clsid:166B1BCA-3F9C-11CF-8075-444553540000\" codebase=\"http://download.macromedia.com/pub/shockwave/cabs/director/sw.cab#version=8,5,1,0\" id=\"habbo\" width=\"720\" height=\"540\">");
+	document.write("<param name=\"src\" value=\"http://images.habbohotel.com/dcr/release9_b34/habbo.dcr\">");
+	document.write("<param name=\"swRemote\" value=\"swSaveEnabled=\'true\' swVolume=\'true\' swRestart=\'false\' swPausePlay=\'false\' swFastForward=\'false\' swTitle=\'Habbo Hotel\' swContextMenu=\'true\' \">");
+	document.write("<param name=\"swStretchStyle\" value=\"none\">");
+	document.write("<param name=\"swText\" value=\"\">");
+	document.write("<param name=\"bgColor\" value=\"#000000\">");
+	document.write("\t<param name=\"sw6\" value=\"external.texts.txt=http://www.habbohotel.com/gamedata/external?id=external_texts\">");
+	document.write("\t<param name=\"sw2\" value=\"connection.info.host=www.habbohotel.com;connection.info.port=38101\">");
+	document.write("\t<param name=\"sw4\" value=\"connection.mus.host=mus.habbohotel.com;connection.mus.port=38100\">");
+	document.write("\t<param name=\"sw3\" value=\"client.reload.url=http://www.habbo.com/client.action\">");
+	document.write("\t<param name=\"sw1\" value=\"site.url=http://www.habbo.com;url.prefix=http://www.habbo.com\">");
+	document.write("\t<param name=\"sw5\" value=\"external.variables.txt=http://www.habbohotel.com/gamedata/external?id=external_variables\">");
+	document.write("<embed src=\"http://images.habbohotel.com/dcr/release9_b34/habbo.dcr\" bgColor=\"#000000\" width=\"720\" height=\"540\" swRemote=\"swSaveEnabled=\'true\' swVolume=\'true\' swRestart=\'false\' swPausePlay=\'false\' swFastForward=\'false\' swTitle=\'Habbo Hotel\' swContextMenu=\'true\'\" swStretchStyle=\"none\" swText=\"\" type=\"application/x-director\" pluginspage=\"http://www.macromedia.com/shockwave/download/\" ");
+	document.write("\tsw6=\"external.texts.txt=http://www.habbohotel.com/gamedata/external?id=external_texts\"  ");
+	document.write("\tsw2=\"connection.info.host=www.habbohotel.com;connection.info.port=38101\"  ");
+	document.write("\tsw4=\"connection.mus.host=mus.habbohotel.com;connection.mus.port=38100\"  ");
+	document.write("\tsw3=\"client.reload.url=http://www.habbo.com/client.action\"  ");
+	document.write("\tsw1=\"site.url=http://www.habbo.com;url.prefix=http://www.habbo.com\"  ");
+	document.write("\tsw5=\"external.variables.txt=http://www.habbohotel.com/gamedata/external?id=external_variables\" ></embed></object>");
+}
+}
+
+/*
+     FILE ARCHIVED ON 02:47:29 Nov 10, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:12:15 Mar 25, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.703
+  exclusion.robots: 0.094
+  exclusion.robots.policy: 0.07
+  esindex: 0.009
+  cdx.remote: 6.202
+  LoadShardBlock: 76.009 (3)
+  PetaboxLoader3.datanode: 74.1 (4)
+  load_resource: 106.296
+  PetaboxLoader3.resolve: 51.892
+*/

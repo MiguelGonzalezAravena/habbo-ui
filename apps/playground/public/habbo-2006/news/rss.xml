@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>What's New</title>
+    <link>http://www.habbo.com/</link>
+    <description>Here comes the description of this feed</description>
+    <item>
+      <title>Think you Know Habbo?</title>
+      <link>http://www.habbo.com/news/lookaround.html</link>
+      <description>Try your hand at .:simpsonfreak:.’s Habbo Look Around Quest…</description>
+      <pubDate>Wed, 29 Nov 2006 21:54:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/news/lookaround.html</guid>
+      <dc:date>2006-11-29T21:54:00Z</dc:date>
+    </item>
+    <item>
+      <title>Sugarcult is turning the lights on about their album Lights Out!</title>
+      <link>http://www.habbo.com/news/sugarcult_nov29.html</link>
+      <description>Welcome to the new world of Sugarcult …</description>
+      <pubDate>Wed, 29 Nov 2006 20:38:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/news/sugarcult_nov29.html</guid>
+      <dc:date>2006-11-29T20:38:00Z</dc:date>
+    </item>
+    <item>
+      <title>Habbo Upgrades Postponed</title>
+      <link>http://www.habbo.com/news/updating_habbo.html</link>
+      <description>Sorry for another delay, Habbos...</description>
+      <pubDate>Wed, 29 Nov 2006 15:48:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/news/updating_habbo.html</guid>
+      <dc:date>2006-11-29T15:48:00Z</dc:date>
+    </item>
+    <item>
+      <title>Scream Tour 5 Takes Hold of US!</title>
+      <link>http://www.habbo.com/news/scream_tour_5.html</link>
+      <description>Enter to win Scream Tour 5 concert tickets...</description>
+      <pubDate>Wed, 29 Nov 2006 14:28:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/news/scream_tour_5.html</guid>
+      <dc:date>2006-11-29T14:28:00Z</dc:date>
+    </item>
+    <item>
+      <title>RocketSkates rockets into the Hotel!</title>
+      <link>http://www.habbo.com/news/rocketskatesintro.html</link>
+      <description>Help make our newest Staff member feel welcome...</description>
+      <pubDate>Wed, 29 Nov 2006 00:32:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/news/rocketskatesintro.html</guid>
+      <dc:date>2006-11-29T00:32:00Z</dc:date>
+    </item>
+    <item>
+      <title>RewardTV Trivia is Hot</title>
+      <link>http://www.habbo.com/news/rewardtvnov.html</link>
+      <description>Have you played yet?</description>
+      <pubDate>Tue, 28 Nov 2006 19:26:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/news/rewardtvnov.html</guid>
+      <dc:date>2006-11-28T19:26:00Z</dc:date>
+    </item>
+    <item>
+      <title>Space Exploration Complete</title>
+      <link>http://www.habbo.com/news/spacewrap.html</link>
+      <description>What a long, strange trip it’s been…</description>
+      <pubDate>Mon, 27 Nov 2006 20:24:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/news/spacewrap.html</guid>
+      <dc:date>2006-11-27T20:24:00Z</dc:date>
+    </item>
+    <item>
+      <title>Continue your planetary exploration with the results...</title>
+      <link>http://www.habbo.com/news/universumplanets.html</link>
+      <description>Come see the next planets to be annexed by Universum!</description>
+      <pubDate>Mon, 27 Nov 2006 19:55:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/news/universumplanets.html</guid>
+      <dc:date>2006-11-27T19:55:00Z</dc:date>
+    </item>
+    <item>
+      <title>The Ham has been found!</title>
+      <link>http://www.habbo.com/news/ham_found.html</link>
+      <description>Find out who really stole the Ham...</description>
+      <pubDate>Mon, 27 Nov 2006 18:25:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/news/ham_found.html</guid>
+      <dc:date>2006-11-27T18:25:00Z</dc:date>
+    </item>
+    <item>
+      <title>AWS-Piper has been voted off!</title>
+      <link>http://www.habbo.com/news/always_challenge3.html</link>
+      <description>And find out if you won a free month of Habbo Club...</description>
+      <pubDate>Mon, 27 Nov 2006 18:10:00 GMT</pubDate>
+      <guid isPermaLink="false">http://www.habbo.com/news/always_challenge3.html</guid>
+      <dc:date>2006-11-27T18:10:00Z</dc:date>
+    </item>
+  </channel>
+</rss>
+

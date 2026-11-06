@@ -1,0 +1,2492 @@
+[
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/gold-top-l.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/gold-top-l.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/gold-top.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/gold-top.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/gold-content-l.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/gold-content-l.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/gold-content.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/gold-content.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/white-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/white-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/white-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/white-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/light-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/light-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/light-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/light-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/darker-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/darker-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/darker-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/darker-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/darkest-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/darkest-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/darkest-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/darkest-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/red-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/red-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/red-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/red-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/red-light-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/red-light-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/red-light-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/red-light-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/red-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/red-darker-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/red-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/red-darker-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/red-darkest-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/red-darkest-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/red-darkest-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/red-darkest-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/blue-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/blue-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/blue-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/blue-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/blue-light-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/blue-light-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/blue-light-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/blue-light-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/blue-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/blue-darker-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/blue-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/blue-darker-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/blue-darkest-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/blue-darkest-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/blue-darkest-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/blue-darkest-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/green-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/green-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/green-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/green-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/green-light-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/green-light-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/green-light-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/green-light-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/green-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/green-darker-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/green-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/green-darker-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/green-darkest-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/green-darkest-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/green-darkest-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/green-darkest-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/brown-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/brown-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/brown-light-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-light-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/brown-light-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-light-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/brown-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-darker-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/brown-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-darker-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/brown-darkest-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-darkest-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/brown-darkest-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-darkest-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/alert-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/alert-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/alert-light-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-light-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/alert-light-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-light-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "../images/boxes-v2/alert-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "../images/boxes-v2/alert-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/alert-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-darker-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/alert-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-darker-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/alert-darkest-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-darkest-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/alert-darkest-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-darkest-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/snow-light-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-light-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/snow-light-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-light-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/snow-light-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-light-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/snow-light-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-light-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/snow-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darker-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/snow-darker-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darker-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/snow-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darker-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/snow-darker-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darker-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/snow-darkest-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darkest-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/snow-darkest-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darkest-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/snow-darkest-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darkest-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/snow-darkest-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darkest-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/xmas-light-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-light-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/xmas-light-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-light-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/xmas-light-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-light-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/xmas-light-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-light-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/xmas-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darker-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/xmas-darker-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darker-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/xmas-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darker-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/xmas-darker-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darker-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/xmas-darkest-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darkest-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/xmas-darkest-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darkest-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/xmas-darkest-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darkest-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v2/xmas-darkest-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darkest-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/white-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/white-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/white-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/white-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "../images/box-scale/white-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/white-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "../images/box-scale/white-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/white-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/red-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/red-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/red-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/red-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/red-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/red-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/red-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/red-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/green-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/green-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/green-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/green-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/green-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/green-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/green-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/green-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/blue-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/blue-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/blue-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/blue-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/blue-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/blue-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/blue-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/blue-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/beige-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/beige-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/beige-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/beige-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/beige-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/beige-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/beige-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/beige-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/dblue-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/dblue-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/dblue-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/dblue-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/dblue-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/dblue-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/dblue-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/dblue-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/process/headline-l.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/process/headline-l.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/process/headline-r.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/process/headline-r.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/process/content-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/process/content-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/process/content-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/process/content-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/process/content-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/process/content-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/process/content-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/process/content-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/purse/title-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/title-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/purse/title-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/title-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/purse/title-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/title-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/purse/title-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/title-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/purse/content-l.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/content-l.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/purse/content-r.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/content-r.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/purse/bottom-l.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/bottom-l.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/purse/bottom-r.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/bottom-r.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/bubble_tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/bubble_tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/bubble_tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/bubble_tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/bubble_bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/bubble_bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/bubble_br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/bubble_br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/footer-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/footer-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/footer-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/footer-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/footer-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/footer-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/box-scale/footer-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/footer-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/lightgrey-tl.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/lightgrey-tl.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/lightgrey-tr.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/lightgrey-tr.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/lightgrey-mid.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/lightgrey-mid.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/bl.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/bl.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/br.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/br.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/darkgrey-tl.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/darkgrey-tl.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/darkgrey-tr.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/darkgrey-tr.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/darkgrey-mid.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/darkgrey-mid.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/black-tl.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/black-tl.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/black-tr.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/black-tr.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/black-mid.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/black-mid.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/blue-tl.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/blue-tl.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/blue-tr.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/blue-tr.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/blue-mid.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/blue-mid.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/green-tl.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/green-tl.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/green-tr.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/green-tr.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/green-mid.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/green-mid.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/yellow-tl.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/yellow-tl.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/yellow-tr.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/yellow-tr.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/yellow-mid.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/yellow-mid.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/orange-tl.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/orange-tl.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/orange-tr.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/orange-tr.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/boxes.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes-v3/orange-mid.png",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v3/orange-mid.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/bg_patterns/habbo.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/bg_patterns/habbo.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/blank.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/blank.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "../images/blank.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/blank.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/top_bar/topbar_bg.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/top_bar/topbar_bg.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/top_bar/stripe_bg.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/top_bar/stripe_bg.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/top_bar/stripe_right.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/top_bar/stripe_right.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/top_bar/stripe_none_bg.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/top_bar/stripe_none_bg.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/top_bar/stripe_left.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/top_bar/stripe_left.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/top_bar/tab_bg_left.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/top_bar/tab_bg_left.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/top_bar/tab_bg.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/top_bar/tab_bg.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/top_bar/icon_myhabbo.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/top_bar/icon_myhabbo.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/top_bar/icon_mycredits.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/top_bar/icon_mycredits.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/top_bar/icon_habboclub.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/top_bar/icon_habboclub.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/top_bar/menu_bg_bottom.png",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/top_bar/menu_bg_bottom.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/top_bar/menu_bg.png",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/top_bar/menu_bg.png"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/top_bar/arrow.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/top_bar/arrow.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/logos/habbo_logo_nourl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/logos/habbo_logo_nourl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/nav/enterHH.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/nav/enterHH.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/nav/closedHH.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/nav/closedHH.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/template/outer-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/template/outer-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/template/outer-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/template/outer-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/template/outer-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/template/outer-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/template/outer-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/template/outer-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/navi/navi_bar_slice_top.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/navi/navi_bar_slice_top.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/navi/navi_bar_end_left.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/navi/navi_bar_end_left.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/navi/navi_bar_slice_btm.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/navi/navi_bar_slice_btm.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/content_bkg/content_mid.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/content_bkg/content_mid.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/content_bkg/content_headline_bar.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/content_bkg/content_headline_bar.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/promo_area/promo_header.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/promo_area/promo_header.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/promo_area/promo_footer.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/promo_area/promo_footer.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/promo_area/promo_link_btn.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/promo_area/promo_link_btn.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/promo_area/news_box.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/promo_area/news_box.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "../images/promo_area/promo_link_btn.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/promo_area/promo_link_btn.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/popup/popup_topbar_slice.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/popup/popup_topbar_slice.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/popup/popup_habbocount_bg.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/popup/popup_habbocount_bg.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/purse/purse_icon.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/purse_icon.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes/3rd_level_top.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes/3rd_level_top.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes/3rd_level_mid.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes/3rd_level_mid.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/boxes/3rd_level_btm.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes/3rd_level_btm.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/colorlink/orange.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/colorlink/orange.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/colorlink/noarrow.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/colorlink/noarrow.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/colorlink/bg.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/colorlink/bg.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/dialogs/grey-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-tl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/dialogs/grey-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-tr.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/dialogs/grey-header.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-header.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/dialogs/grey-content-l.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-content-l.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/dialogs/grey-content-r.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-content-r.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/dialogs/grey-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/dialogs/grey-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/dialogs/greytab-l.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/greytab-l.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/dialogs/greytab-tabbg2.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/greytab-tabbg2.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "../images/dialogs/greytab-l.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/greytab-l.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/dialogs/greytab-tabbg.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/greytab-tabbg.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/dialogs/greytab-tab-l.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/greytab-tab-l.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/dialogs/greytab-tab-r.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/greytab-tab-r.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/dialogs/greytab-tab-l-selected.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/greytab-tab-l-selected.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/dialogs/greytab-tab-r-selected.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/greytab-tab-r-selected.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "../images/dialogs/greytab-l.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/greytab-l.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/dialogs/greytab-r.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/greytab-r.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/dialogs/greytab-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/greytab-bl.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/dialogs/greytab-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/greytab-br.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/meter_subscription_valid.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/meter_subscription_valid.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/meter_subscription_ended.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/meter_subscription_ended.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/meter_subscription_valid_np.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/meter_subscription_valid_np.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/groups/status_exclusive.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/groups/status_exclusive.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/groups/status_closed.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/groups/status_closed.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/bullets/bullet_blue.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/bullets/bullet_blue.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/bullets/bullet_orange.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/bullets/bullet_orange.gif"
+  },
+  {
+    "css": "habboweb/16/11/web-gallery/styles/style.css",
+    "original": "https://www.habbo.com/habboweb/16/11/web-gallery/images/bullets/bullet_green.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/bullets/bullet_green.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/top_bar/toolbar_bg.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/top_bar/toolbar_bg.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/top_bar/topbar_bg_uk_01.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/top_bar/topbar_bg_uk_01.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/navi/tab_left.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/navi/tab_left.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/navi/tab_act_left.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/navi/tab_act_left.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/navi/tab_mid.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/navi/tab_mid.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/navi/tab_act_mid.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/navi/tab_act_mid.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/navi/tab_right.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/navi/tab_right.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/navi/tab_act_right.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/navi/tab_act_right.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/navi/tab_end.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/navi/tab_end.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/navi/tab_act_end.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/navi/tab_act_end.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/content_bkg/content_mid.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/content_bkg/content_mid.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/content_bkg/content_headline_bar.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/content_bkg/content_headline_bar.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/promo_area/promo_header.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/promo_area/promo_header.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/promo_area/promo_footer.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/promo_area/promo_footer.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/promo_area/news_box.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/promo_area/news_box.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/promo_area/promo_link_btn.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/promo_area/promo_link_btn.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/boxes/content_box_200_top.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes/content_box_200_top.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/boxes/content_box_200_mid.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes/content_box_200_mid.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/boxes/content_box_200_btm.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes/content_box_200_btm.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/boxes/content_box_213_top.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b25/images/boxes/content_box_213_top.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/boxes/content_box_213_mid.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b25/images/boxes/content_box_213_mid.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/boxes/content_box_213_btm.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b25/images/boxes/content_box_213_btm.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/boxes/content_box_308_top.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b25/images/boxes/content_box_308_top.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/boxes/content_box_308_mid.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b25/images/boxes/content_box_308_mid.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/boxes/content_box_308_btm.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b25/images/boxes/content_box_308_btm.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/boxes/content_box_537_top.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes/content_box_537_top.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/boxes/content_box_537_mid.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes/content_box_537_mid.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/boxes/content_box_537_btm.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes/content_box_537_btm.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/content_bkg/content_legal_top.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/content_bkg/content_legal_top.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/content_bkg/content_legal_mid.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/content_bkg/content_legal_mid.gif"
+  },
+  {
+    "css": "iot/content3/styles/style.css",
+    "original": "https://www.habbo.com/iot/content3/images/content_bkg/content_legal_bottom.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/content_bkg/content_legal_bottom.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/darker-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/darker-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/darker-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/darker-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/darkest-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/darkest-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/darkest-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/darkest-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/red-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/red-darker-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/red-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/red-darker-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/blue-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/blue-darker-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/blue-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/blue-darker-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/green-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/green-darker-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/green-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/green-darker-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/brown-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/brown-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/brown-light-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-light-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/brown-light-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-light-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/brown-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-darker-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/brown-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-darker-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/brown-darkest-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-darkest-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/brown-darkest-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-darkest-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/alert-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/alert-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/alert-light-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-light-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/alert-light-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-light-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "../images/boxes-v2/alert-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "../images/boxes-v2/alert-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/alert-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-darker-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/alert-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-darker-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/alert-darkest-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-darkest-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/alert-darkest-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-darkest-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/snow-light-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-light-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/snow-light-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-light-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/snow-light-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-light-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/snow-light-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-light-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/snow-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darker-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/snow-darker-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darker-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/snow-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darker-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/snow-darker-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darker-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/snow-darkest-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darkest-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/snow-darkest-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darkest-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/snow-darkest-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darkest-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/snow-darkest-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darkest-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/xmas-light-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-light-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/xmas-light-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-light-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/xmas-light-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-light-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/xmas-light-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-light-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/xmas-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darker-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/xmas-darker-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darker-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/xmas-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darker-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/xmas-darker-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darker-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/xmas-darkest-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darkest-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/xmas-darkest-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darkest-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/xmas-darkest-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darkest-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/xmas-darkest-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darkest-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/red-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/red-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/red-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/red-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/red-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/red-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/red-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/red-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/green-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/green-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/green-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/green-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/green-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/green-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/green-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/green-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/blue-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/blue-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/blue-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/blue-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/blue-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/blue-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/blue-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/blue-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/beige-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/beige-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/beige-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/beige-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/beige-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/beige-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/beige-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/beige-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/dblue-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/dblue-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/dblue-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/dblue-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/dblue-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/dblue-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/dblue-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/dblue-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/process/headline-l.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/process/headline-l.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/process/headline-r.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/process/headline-r.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/process/content-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/process/content-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/process/content-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/process/content-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/process/content-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/process/content-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/process/content-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/process/content-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/purse/title-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/title-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/purse/title-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/title-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/purse/title-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/title-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/purse/title-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/title-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/purse/content-l.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/content-l.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/purse/content-r.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/content-r.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/purse/bottom-l.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/bottom-l.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/purse/bottom-r.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/bottom-r.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/bubble_tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/bubble_tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/bubble_tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/bubble_tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/bubble_bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/bubble_bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/bubble_br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/bubble_br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/blank.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/blank.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "../images/blank.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/blank.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "../images/blank.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/blank.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/navi/navi_bar_end_left.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/navi/navi_bar_end_left.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/navi/tab_act_end.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/navi/tab_act_end.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/popup/popup_topbar_slice.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/popup/popup_topbar_slice.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/popup/popup_habbocount_bg.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/popup/popup_habbocount_bg.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/purse/purse_icon.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/purse_icon.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes/3rd_level_top.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes/3rd_level_top.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes/3rd_level_mid.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes/3rd_level_mid.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/boxes/3rd_level_btm.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes/3rd_level_btm.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/colorlink/noarrow.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/colorlink/noarrow.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/dialogs/grey-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/dialogs/grey-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/dialogs/grey-header.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-header.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/dialogs/grey-content-l.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-content-l.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/dialogs/grey-content-r.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-content-r.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/dialogs/grey-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/dialogs/grey-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/meter_subscription_valid.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/meter_subscription_valid.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/meter_subscription_ended.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/meter_subscription_ended.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-3.0.1-b15/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-3.0.1-b15/images/meter_subscription_valid_np.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/meter_subscription_valid_np.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/box-scale/dblue-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/dblue-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/box-scale/dblue-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/dblue-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/box-scale/dblue-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/dblue-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/box-scale/dblue-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/dblue-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/red-light-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/red-light-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/red-light-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/red-light-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/blue-light-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/blue-light-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/blue-light-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/blue-light-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/blue-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/blue-darker-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/blue-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/blue-darker-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/blue-darkest-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/boxes-v2/blue-darkest-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/green-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/green-darker-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/box-scale/white-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/white-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/box-scale/white-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/white-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/blank.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/blank.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/style.css",
+    "original": "../images/blank.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/blank.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/navi/navi_bar_end_left.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/navi/navi_bar_end_left.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/boxes/content_box_213_top.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b25/images/boxes/content_box_213_top.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/boxes/content_box_213_mid.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b25/images/boxes/content_box_213_mid.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/boxes/content_box_213_btm.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b25/images/boxes/content_box_213_btm.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/boxes/content_box_308_top.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b25/images/boxes/content_box_308_top.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/boxes/content_box_308_mid.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b25/images/boxes/content_box_308_mid.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/boxes/content_box_308_btm.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b25/images/boxes/content_box_308_btm.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/boxes/content_box_429_top.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b25/images/boxes/content_box_429_top.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/boxes/content_box_429_mid.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b25/images/boxes/content_box_429_mid.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b39/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b39/images/boxes/content_box_429_btm.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b25/images/boxes/content_box_429_btm.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/darker-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/darker-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/darker-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/darker-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/darkest-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/darkest-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/darkest-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/darkest-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/red-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/red-darker-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/red-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/red-darker-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/blue-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/blue-darker-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/blue-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/blue-darker-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/green-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/green-darker-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/green-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/green-darker-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/brown-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/brown-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/brown-light-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-light-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/brown-light-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-light-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/brown-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-darker-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/brown-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-darker-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/brown-darkest-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-darkest-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/brown-darkest-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/brown-darkest-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/alert-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/alert-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/alert-light-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-light-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/alert-light-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-light-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "../images/boxes-v2/alert-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "../images/boxes-v2/alert-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/alert-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-darker-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/alert-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-darker-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/alert-darkest-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-darkest-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/alert-darkest-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/alert-darkest-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/snow-light-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-light-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/snow-light-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-light-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/snow-light-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-light-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/snow-light-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-light-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/snow-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darker-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/snow-darker-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darker-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/snow-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darker-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/snow-darker-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darker-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/snow-darkest-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darkest-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/snow-darkest-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darkest-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/snow-darkest-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darkest-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/snow-darkest-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/boxes-v2/snow-darkest-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/xmas-light-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-light-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/xmas-light-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-light-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/xmas-light-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-light-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/xmas-light-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-light-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/xmas-darker-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darker-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/xmas-darker-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darker-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/xmas-darker-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darker-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/xmas-darker-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darker-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/xmas-darkest-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darkest-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/xmas-darkest-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darkest-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/xmas-darkest-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darkest-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes-v2/xmas-darkest-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes-v2/xmas-darkest-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/white-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/white-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/white-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-3.0.1-b15/images/box-scale/white-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/red-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/red-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/red-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/red-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/red-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/red-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/red-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/red-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/green-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/green-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/green-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/green-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/green-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/green-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/green-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/green-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/blue-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/blue-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/blue-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/blue-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/blue-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/blue-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/blue-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/blue-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/beige-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/beige-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/beige-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/beige-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/beige-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/beige-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/beige-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/beige-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/dblue-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/dblue-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/dblue-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/dblue-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/dblue-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/dblue-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/dblue-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/dblue-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/process/headline-l.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/process/headline-l.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/process/headline-r.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/process/headline-r.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/process/content-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/process/content-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/process/content-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/process/content-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/process/content-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/process/content-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/process/content-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/process/content-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/purse/title-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/title-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/purse/title-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/title-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/purse/title-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/title-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/purse/title-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/title-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/purse/content-l.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/content-l.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/purse/content-r.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/content-r.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/purse/bottom-l.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/bottom-l.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/purse/bottom-r.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/bottom-r.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/bubble_tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/bubble_tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/bubble_tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/bubble_tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/bubble_bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/bubble_bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/boxes.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/box-scale/bubble_br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/box-scale/bubble_br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/blank.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/blank.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/style.css",
+    "original": "../images/blank.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/blank.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/style.css",
+    "original": "../images/blank.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/blank.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/navi/navi_bar_end_left.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/navi/navi_bar_end_left.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/popup/popup_topbar_slice.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/popup/popup_topbar_slice.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/popup/popup_habbocount_bg.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-1.0.1_b39/images/popup/popup_habbocount_bg.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/purse/purse_icon.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/purse/purse_icon.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes/3rd_level_top.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes/3rd_level_top.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes/3rd_level_mid.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes/3rd_level_mid.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/boxes/3rd_level_btm.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/boxes/3rd_level_btm.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/colorlink/noarrow.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/colorlink/noarrow.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/dialogs/grey-tl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-tl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/dialogs/grey-tr.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-tr.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/dialogs/grey-header.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-header.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/dialogs/grey-content-l.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-content-l.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/dialogs/grey-content-r.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-content-r.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/dialogs/grey-bl.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-bl.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-2.1.0_b22/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-2.1.0_b22/images/dialogs/grey-br.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/dialogs/grey-br.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b25/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b25/images/blank.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/blank.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b25/styles/style.css",
+    "original": "../images/blank.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/blank.gif"
+  },
+  {
+    "css": "_external/images.habbohotel.com/web/web-1.0.1_b25/styles/style.css",
+    "original": "https://images.habbohotel.com/web/web-1.0.1_b25/images/navi/navi_bar_end_left.gif",
+    "resolved": "_external/images.habbohotel.com/web/web-R13.2-b41/images/navi/navi_bar_end_left.gif"
+  }
+]

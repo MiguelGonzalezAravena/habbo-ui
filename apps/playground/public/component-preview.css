@@ -1,0 +1,86 @@
+/* Catalogue-only layout adapters. Historical pages and source CSS remain intact. */
+html[data-ds-preview]{width:100%;height:auto;min-height:0}
+html[data-ds-preview] body{box-sizing:border-box!important;width:100%!important;max-width:100%;min-width:0!important;height:auto!important;min-height:0!important;margin:0!important;padding:12px!important;text-align:left;overflow-wrap:anywhere;display:flow-root}
+html[data-ds-preview] #content,html[data-ds-preview] #wrapper,html[data-ds-preview] #container{width:100%!important;max-width:100%;min-width:0!important;margin:0!important;padding:0!important;height:auto!important;display:flow-root}
+html[data-ds-preview] .habblet-container{width:auto!important;max-width:100%;min-width:0}
+html[data-ds-preview] .dialog-grey,html[data-ds-preview] .dialog-greytab,html[data-ds-preview] .bottom-bubble{box-sizing:border-box;width:100%!important;max-width:100%;min-width:0}
+html[data-ds-preview] .bubbletip,html[data-ds-preview] .redtip{width:100%;max-width:308px}
+html[data-ds-preview] .bubbletip>.title,html[data-ds-preview] .bubbletip>.content,html[data-ds-preview] .redtip>.title,html[data-ds-preview] .redtip>.content{background-size:100% auto}
+html[data-ds-preview] textarea,html[data-ds-preview] select,html[data-ds-preview] input[type=text],html[data-ds-preview] input[type=password]{box-sizing:border-box;max-width:100%}
+html[data-ds-preview] .new-button{max-width:100%}
+html[data-ds-preview] #holo-feedback:empty{display:none}
+html[data-ds-preview] #holo-feedback{margin:10px 0 0}
+html[data-ds-preview] #sample-dialog+p,html[data-ds-preview] #sample-dialog+.clearfix{margin-top:12px}
+html[data-ds-preview] .box-tabs-container{height:auto!important;display:flow-root}
+html[data-ds-preview] .box-tabs{max-width:100%;height:auto!important;display:flex;flex-wrap:wrap;justify-content:flex-end}
+html[data-ds-preview] .box-tabs li{max-width:100%;height:auto;white-space:normal}
+html[data-ds-preview] .box-tabs a{white-space:normal}
+html[data-ds-preview] #login-habblet,html[data-ds-preview] .login-habblet{width:auto!important;max-width:100%}
+html[data-ds-preview] #login-habblet ul{width:auto!important;max-width:100%}
+html[data-ds-preview] .habblet-list,html[data-ds-preview] .widelist{width:auto!important;max-width:100%}
+html[data-ds-preview] #header-container,html[data-ds-preview] #header,html[data-ds-preview] #top,html[data-ds-preview] #mainmenu,html[data-ds-preview] #top-elements{width:100%!important;min-width:0!important;height:auto!important;min-height:0!important;display:flow-root}
+html[data-ds-preview] #header{padding:8px!important;box-sizing:border-box}
+html[data-ds-preview] #subnavi{position:static!important;float:none!important;width:100%!important;height:auto!important;display:flow-root;clear:both}
+html[data-ds-preview] #subnavi-login,html[data-ds-preview] #subnavi-user{max-width:100%;position:static!important;height:auto!important;box-sizing:border-box}
+html[data-ds-preview] #navi,html[data-ds-preview] #mainmenu ul{clear:both;display:flex;flex-wrap:wrap;position:static!important;width:100%!important;height:auto!important;margin:0;padding-left:0;box-sizing:border-box}
+html[data-ds-preview] #navi li,html[data-ds-preview] #mainmenu li{float:none;flex-shrink:0}
+html[data-ds-preview] #habbos-online{position:static!important;clear:both;margin:8px 0;height:auto;display:flow-root}
+html[data-ds-preview] #navi2-container,html[data-ds-preview] #navi2{width:auto!important;height:auto!important}
+html[data-ds-preview] #newsbox{float:none}
+html[data-ds-preview] table.scores{width:100%}
+@media(max-width:340px){html[data-ds-preview] #subnavi-login ul{width:auto!important}html[data-ds-preview] .dialog-grey-top h3{max-width:80%}html[data-ds-preview] .dialog-grey-top h3 span{height:auto}html[data-ds-preview] .login-habblet li{width:auto!important}html[data-ds-preview] #subnavi-login input[type=text],html[data-ds-preview] #subnavi-login input[type=password]{width:120px!important}}
+html[data-ds-preview] #header-container{box-sizing:border-box!important}
+html[data-ds-preview] .topstory{box-sizing:border-box;width:100%!important;max-width:100%;height:auto!important;min-height:200px}
+html[data-ds-preview] #newsbox{width:100%;max-width:311px;height:auto;min-height:251px;background-size:100% 100%}
+html[data-ds-preview] #newsbox-header,html[data-ds-preview] #newsbox-text,html[data-ds-preview] #newsbox-footer{box-sizing:border-box;width:100%;max-width:100%}
+html[data-ds-preview] #newsbox-text{height:auto;min-height:190px;overflow:visible}
+html[data-ds-preview] #newsbox-text .newsitem p{max-width:100%}
+html[data-ds-preview] #topstories,html[data-ds-preview] #newspromo{height:auto!important;min-height:0;display:flow-root}
+/* Sprite limits must not leave gaps when examples grow beyond the original width. */
+html[data-ds-preview] .new-button:not(.red-button):not(.green-button):not(.dark-button) b>span{filter:brightness(0)}
+html[data-ds-preview] .new-button b{display:flex;align-items:center;justify-content:center;gap:5px;box-sizing:border-box;height:25px;padding-top:0;padding-bottom:0;line-height:1}
+html[data-ds-preview] .new-button b>span{flex:none;margin:0}
+html[data-ds-preview] input.submit,html[data-ds-preview] input.continue,html[data-ds-preview] input.cancel,html[data-ds-preview] input.save,html[data-ds-preview] input.new,html[data-ds-preview] input.myhabbo-edit{min-height:24px;line-height:16px;vertical-align:middle}
+html[data-ds-preview] input.search{width:32px;min-height:24px;padding:0;background-position:50% -66px;vertical-align:middle}
+html[data-ds-preview] input.myhabbo-edit{padding-left:24px;padding-right:6px;background-position:4px -280px}
+html[data-ds-preview] .dialog-grey-top>div{position:relative;background-image:url('/habbo-2008/holocms/web-gallery/v2/images/dialogs/grey-header.gif');background-repeat:repeat-x}
+html[data-ds-preview] .dialog-grey-top>div::after{content:'';position:absolute;right:0;top:0;width:13px;height:26px;background:url('/habbo-2008/holocms/web-gallery/v2/images/dialogs/grey-tr.gif') no-repeat right top;pointer-events:none}
+html[data-ds-preview] .dialog-grey-top h3{max-width:calc(100% - 32px)}
+html[data-ds-preview] .dialog-grey-exit{z-index:1;display:flex;align-items:center;justify-content:center;top:4px;right:8px;width:18px;height:18px;padding:0;line-height:1;text-decoration:none;color:#b45125;font:bold 13px Arial}
+html[data-ds-preview] .dialog-grey-body{background-image:none;border-right:1px solid #000}
+html[data-ds-preview] .dialog-grey-bottom>div{background-size:100% 7px}
+html[data-ds-preview] .bottom-bubble-t,html[data-ds-preview] .bottom-bubble-b{position:relative}
+html[data-ds-preview] .bottom-bubble-t::after{content:'';position:absolute;top:10px;left:50px;right:0;height:2px;background:#000}
+html[data-ds-preview] .bottom-bubble-b::after{content:'';position:absolute;bottom:0;left:5px;right:0;height:2px;background:#000}
+html[data-ds-preview] .bottom-bubble-c{background:#fff}
+html[data-ds-preview][data-width-mode=content] body{width:fit-content!important;max-width:100%}
+html[data-ds-preview][data-width-mode=fixed] body{width:var(--ds-fixed-width,360px)!important;max-width:100%}
+html[data-ds-preview][data-width-mode=content] #content{width:fit-content!important;max-width:100%}
+html[data-ds-preview][data-width-mode=content] #login-habblet{min-width:min(280px,100%)}
+html[data-ds-preview] .ds-field-stretch input[type=text],html[data-ds-preview] .ds-field-stretch input[type=password],html[data-ds-preview] .ds-field-stretch textarea,html[data-ds-preview] .ds-field-stretch select{width:100%!important;max-width:100%}
+html[data-ds-preview] .ds-field-stretch .login-habblet li{width:100%!important}
+html[data-ds-preview] .ds-field-stretch .login-habblet label.login-text{float:none;display:block;width:auto;text-align:left;margin:0 0 5px}
+html[data-ds-preview] .ds-field-stretch .login-habblet input.login-field{float:none;margin:0 0 8px}
+html[data-ds-preview] .ds-field-stretch .login-habblet .no-label{padding-left:0;margin-left:0}
+html[data-ds-preview] .ds-field-stretch .login-habblet input[type=submit]{float:none;margin:0 0 8px}
+html[data-ds-preview] .dialog-grey-top>div{background-image:url('/habbo-2008/holocms/web-gallery/v2/images/dialogs/grey-tr.gif');background-position:right top;background-size:100% 26px}
+html[data-ds-preview] a.new-button.fill b{display:flex!important;align-items:center;justify-content:center;height:25px;line-height:25px;padding-top:0;padding-bottom:0}
+html[data-ds-preview] .bottom-bubble-t::before{content:'';position:absolute;top:12px;bottom:0;left:5px;right:0;background:#fff}
+html[data-ds-preview] .bottom-bubble-b::before{content:'';position:absolute;top:0;bottom:2px;left:5px;right:0;background:#fff}
+html[data-example=news] body{width:324px!important;max-width:100%}
+html[data-example=news] #topstories{height:187px!important;position:relative;display:block}
+html[data-example=news] #newspromo .topstory{position:absolute;width:300px!important;max-width:100%;height:187px!important;min-height:0!important;padding:5px 14px;box-sizing:border-box;background-size:100% 187px}
+html[data-example=news] #newspromo .topstory h3{font-size:18px}
+html[data-example=navigation] #header{display:grid!important;grid-template-columns:125px minmax(0,1fr) 110px;gap:12px;align-items:start}
+html[data-example=navigation] #header h1{grid-column:1;margin:15px 0!important;float:none;align-self:start}
+html[data-example=navigation] #subnavi{grid-column:2;grid-row:1;width:auto!important;clear:none}
+html[data-example=navigation] #subnavi-user{display:none}
+html[data-example=navigation] #subnavi-login{width:300px!important;max-width:100%;float:none!important;margin-left:auto;text-align:left}
+html[data-example=navigation] #subnavi-login:hover{width:300px!important}
+html[data-example=navigation] #subnavi-login label.login-text{display:none!important}
+html[data-example=navigation] #subnavi-login-help{width:100%;float:none}
+html[data-example=navigation] #subnavi-login input.login-field{max-width:55%}
+html[data-example=navigation] #habbos-online{grid-column:3;grid-row:1;width:100%;margin-top:12px;clear:none;align-self:start}
+html[data-example=navigation] #navi{grid-column:1 / -1;grid-row:2}
+html[data-example=navigation] #header-container{padding:0 8px}
+@media(max-width:600px){html[data-example=navigation] #header{grid-template-columns:1fr 110px}html[data-example=navigation] #header h1{grid-column:1;grid-row:1}html[data-example=navigation] #habbos-online{grid-column:2}html[data-example=navigation] #subnavi{grid-column:1 / -1;grid-row:2}html[data-example=navigation] #subnavi-login{margin:0}html[data-example=navigation] #navi{grid-row:3}}

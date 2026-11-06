@@ -1,0 +1,13 @@
+:root, [data-retro-theme="classic-2006"] {
+  --retro-font: Verdana, Arial, Helvetica, sans-serif;
+  --retro-text: #111111;
+  --retro-blue: #3c85aa;
+  --retro-blue-dark: #235c79;
+  --retro-orange: #f4a52e;
+  --retro-green: #83b93b;
+  --retro-surface: #f8f8f8;
+  --retro-border: #35444c;
+  --retro-focus: #184eab;
+}
+
+[data-retro-theme="classic-2006"] { font:11px/1.5 var(--retro-font); }

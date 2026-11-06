@@ -1,0 +1,20 @@
+/* Original 2006 Habbo v2box sprite geometry, adapted to CSS Modules. */
+.panel { font: 11px Verdana,Arial,Helvetica,sans-serif; color:#222; background:#fff; }
+.header { background:var(--head-left) no-repeat top left; min-height:24px; }
+.headerInner { margin-left:7px; padding:5px 12px 5px 5px; min-height:14px; background:var(--head-right) no-repeat top right; color:white; font-size:11px; font-weight:bold; }
+.body { padding:5px 9px; background:#fff; line-height:1.45; }
+.footer { padding:5px 9px; background:#f3f3f3; }
+.bottom { height:6px; background:url('../../assets/habbo-2006/boxes-v2/light-bl.gif') no-repeat left top; }
+.bottomInner { height:6px; margin-left:6px; background:url('../../assets/habbo-2006/boxes-v2/light-br.gif') no-repeat right top; }
+.blue { --head-left:linear-gradient(#367eaa,#367eaa); --head-right:url('../../assets/habbo-2006/boxes-v2/blue-darkest-tr.gif'); }
+.orange { --head-left:url('../../assets/habbo-2006/boxes-v2/red-darkest-tl.gif'); --head-right:url('../../assets/habbo-2006/boxes-v2/red-darkest-tr.gif'); }
+.neutral { --head-left:url('../../assets/habbo-2006/boxes-v2/green-light-tl.gif'); --head-right:url('../../assets/habbo-2006/boxes-v2/green-light-tr.gif'); }
+
+.panel { border-radius:7px; overflow:hidden; box-shadow:0 1px 0 #000; border:1px solid #000; }
+.header { background-color:#367eaa; border-bottom:1px solid #000; }
+.headerInner { text-align:center; text-shadow:0 1px #0006; }
+.orange .header { background-color:#b74332; }
+.neutral .header { background-color:#588029; }
+.body { padding:10px; line-height:1.5; }
+.body p { margin:7px 0; }
+.footer { border-top:1px solid #ccc; font-size:10px; }

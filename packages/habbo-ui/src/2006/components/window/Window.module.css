@@ -1,0 +1,6 @@
+.window { font:11px var(--retro-font); color:#111; border:1px solid #000; border-radius:7px; overflow:hidden; background:#deded4; box-shadow:inset 1px 0 #fff,inset -1px 0 #888,2px 3px 0 #0005; min-width:240px; }
+.header { position:relative; background:repeating-linear-gradient(0deg,#6e929d 0 1px,#7fa0aa 1px 3px); color:white; min-height:27px; display:flex; justify-content:center; align-items:center; padding:4px 30px; border:1px solid #b6d0d5; border-bottom:1px solid #000; text-shadow:1px 1px #263b43; }
+.close { position:absolute; right:4px; top:4px; width:18px; height:18px; padding:0; line-height:14px; border:1px solid #000; border-radius:3px; background:linear-gradient(#fff,#d6d6ce 45%,#a4a49a 46%); color:#111; font:bold 17px Arial; box-shadow:inset 1px 1px #fff; cursor:pointer; }
+.close:focus-visible { outline:2px solid var(--retro-focus); outline-offset:2px; }
+.content { padding:12px; line-height:1.5; }
+.footer { display:flex; justify-content:flex-end; gap:8px; margin:0 10px; padding:10px 0 12px; border-top:1px solid #aaa; }

@@ -1,0 +1,49 @@
+/* --- page background image --- */
+
+body {
+	background-image: none;
+	background-color: #3d7aa4;
+}
+
+
+/* --- Hotel view image on the top bar (image size - width: 928px, height: 154px) --- */
+#top {
+	background-image: url(https://web.archive.org/web/20061205221500im_/http://images.habbohotel.com/c_images/album1746/web_view_bg_us_ver3.gif);
+}
+
+
+/* --- Habbo Hotel logo on the left on the top bar (image size - width: 160px, height: 66px) --- */
+a#logo-link { 
+	background-image: url("/habbo-2006/_external/images.habbohotel.com/c_images/WebLogos/habbo_logo_com.gif");
+}  
+
+ 
+/* --- Enter hotel button on the right of the top bar (image size - width: 105px, height: 106px) --- */
+#top-elements #enter-hotel a#enter-hotel-link { 
+	background-image: url(https://web.archive.org/web/20061205221500im_/http://images.habbohotel.com/c_images/album1746/enterHH_us_ver2.gif);
+} 
+
+
+/* --- background image for the leaderboard ad that is shown on the top of the page (image size - width: 755px, height: 98px). --- */ 
+#top-ad-container {
+	background-image: url("/habbo-2006/_external/images.habbohotel.ca/c_images/adframes/ad_728_ch.gif");
+}
+/*
+     FILE ARCHIVED ON 22:15:00 Dec 05, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:12:04 Mar 25, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.656
+  exclusion.robots: 0.07
+  exclusion.robots.policy: 0.058
+  esindex: 0.01
+  cdx.remote: 9.556
+  LoadShardBlock: 86.57 (3)
+  PetaboxLoader3.datanode: 100.896 (4)
+  load_resource: 18.515
+*/

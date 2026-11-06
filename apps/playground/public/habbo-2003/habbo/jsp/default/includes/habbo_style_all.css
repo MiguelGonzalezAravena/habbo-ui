@@ -1,0 +1,368 @@
+/*
+ * Habbo Hotel style sheet for all browsers
+ */
+
+
+/*
+ * MARGINS & DIVS
+ */
+
+body { margin: 0px; }
+
+#statsDiv
+{
+	display: none;
+}
+
+#habboDiv
+{
+	position: absolute;
+	left: 0px;
+	top: 20px;
+}
+
+#logoDiv
+{
+	position: absolute;
+	left: 43px;
+	top: 10px;
+}
+
+#adDiv
+{
+	position: absolute;
+	left: 227px;
+	top: 5px;
+}
+
+#adBackgroundDiv
+{
+	position: absolute;
+	left: 208px;
+	top: 0px;
+}
+
+#contentDiv
+{
+	position: absolute;
+	left: 208px;
+	top: 84px;
+	width: 503px;
+}
+
+#checkinDiv
+{
+	position: absolute;
+	left: -16px;
+	top: 61px;
+	z-index: 99;
+}
+
+#promoDiv
+{
+	position: absolute;
+	left: 15px;
+	top: 104px;
+	width: 167px;
+}
+
+/*
+ * TEXT & LINK STYLES
+ */
+
+body, td, p, li, input, textarea, select, option, ul, ol
+{
+	color: #330;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 10px;
+}
+
+a:link, a:active, a:visited
+{
+	color: #FF6;
+	text-decoration: underline;
+}
+
+a:hover
+{
+	color: #FFF;
+	text-decoration: underline;
+}
+
+img.ns6block { display: block; }
+img.ns6bottom { vertical-align: bottom; }
+
+
+/*
+ * MAIN NAVIGATION
+ */
+
+.navi, a.navi:link, a.navi:visited
+{
+	color: #000;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 11px;
+	text-decoration: none;
+	line-height: 140%;
+}
+
+a.navi:hover, a.navi:active
+{
+	color: #000;
+	text-decoration: underline;
+}
+
+.naviselected, a.naviselected:link, a.naviselected:visited
+{
+	color: #FFF;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 11px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a.naviselected:hover, a.naviselected:active
+{
+	color: #FFF;
+	text-decoration: underline;
+}
+
+.navipipe
+{
+	color: #78540C;
+}
+
+/* 2nd level navigation */
+
+.smallnavi, a.smallnavi:link, a.smallnavi:visited
+{
+	color: #000;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 10px;
+	text-decoration: none;
+	line-height: 180%;
+}
+
+a.smallnavi:hover, a.smallnavi:active
+{
+	color: #000;
+	text-decoration: underline;
+}
+
+.smallnaviselected, a.smallnaviselected:link, a.smallnaviselected:visited
+{
+	color: #FFF;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 10px;
+	text-decoration: none;
+	font-weight: bold;
+	line-height: 180%;
+}
+
+a.smallnaviselected:hover, a.smallnaviselected:active
+{
+	color: #FFF;
+	text-decoration: underline;
+}
+
+
+/*
+ * OTHER CLASSES
+ */
+ 
+/* titles */
+
+.heading
+{
+	color: #FFF;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.subheading
+{
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+}
+
+/* page footer */
+
+.footer
+{
+	color: #69C;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 10px;
+}
+
+a.footer:link, a.footer:visited
+{
+	color: #69C;
+	text-decoration: underline;
+}
+
+a.footer:hover, a.footer:active
+{
+	color: #6CF;
+	text-decoration: underline;
+}
+
+/* language selection */
+
+.language
+{
+	color: #9CF;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 10px;
+}
+
+a.language:link, a.language:visited
+{
+	color: #9CF;
+	text-decoration: none;
+}
+
+a.language:hover, a.language:active
+{
+	color: #6CF;
+	text-decoration: underline;
+}
+
+.languageselected
+{
+	color: #FFF;
+	font-family: Verdana,Arial,Helvetica,sans-serif;
+	font-size: 10px;
+}
+
+a.languageselected:link, a.languageselected:visited
+{
+	color: #FFF;
+	text-decoration: none;
+}
+
+a.languageselected:hover, a.languageselected:active
+{
+	color: #FFF;
+	text-decoration: underline;
+}
+
+/* extra colors */
+
+.blueish
+{
+	color: #96B7CC;
+}
+
+.hilite, a.hilite:link, a.hilite:visited, a.hilite:hover, a.hilite:active
+{
+	color: #900;
+}
+
+.darkred, a.darkred:link, a.darkred:visited, a.darkred:hover, a.darkred:active
+{
+	color: #600;
+}
+
+.darkerred, a.darkerred:link, a.darkerred:visited, a.darkerred:hover, a.darkerred:active
+{
+	color: #5D1208;
+}
+
+.white, a.white:link, a.white:visited, a.white:hover, a.white:active
+{
+	color: #FFF;
+}
+
+.gold, a.gold:link, a.gold:visited, a.gold:hover, a.gold:active
+{
+	color: #330;
+}
+
+.green, a.green:link, a.green:visited, a.green:hover, a.green:active
+{
+	color: #060;
+}
+
+.greenish, a.greenish:link, a.greenish:visited, a.greenish:hover, a.greenish:active
+{
+	color: #990;
+}
+
+/* cell backgrounds */
+
+.bgNavi
+{
+	background-image: url("/habbo-2003/habbo/images/navi/navi_bg.gif");
+}
+
+.bgContentRuler
+{
+	background-image: url("/habbo-2003/habbo/images/common/content_ruler.gif");
+}
+
+.bgContentLeft
+{
+	background-image: url("/habbo-2003/habbo/images/common/content_left_bg.gif");
+}
+
+.bgContentRight
+{
+	background-image: url("/habbo-2003/habbo/images/common/content_right_bg.gif");
+}
+
+.bgBlueLeft
+{
+	background-image: url("/habbo-2003/habbo/images/common/blue_l.gif");
+}
+
+.bgBlueRight
+{
+	background-image: url("/habbo-2003/habbo/images/common/blue_r.gif");
+}
+
+.bgBlueNarrowRight
+{
+	background-image: url("/habbo-2003/habbo/images/common/blue_narrow_r.gif");
+}
+
+.bgYellowLeft
+{
+	background-image: url("/habbo-2003/habbo/images/common/yellow_l.gif");
+}
+
+.bgYellowRight
+{
+	background-image: url("/habbo-2003/habbo/images/common/yellow_r.gif");
+}
+
+.bgHomepagePromoOneLeft
+{
+	background-image: url("/habbo-2003/habbo/images/homepage/promo1_l.gif");
+}
+
+.bgHomepagePromoOneRight
+{
+	background-image: url("/habbo-2003/habbo/images/homepage/promo1_r.gif");
+}
+
+.bgHomepagePromoTwoLeft
+{
+	background-image: url("/habbo-2003/habbo/images/homepage/promo2_l.gif");
+}
+
+.bgHomepagePromoTwoRight
+{
+	background-image: url("/habbo-2003/habbo/images/homepage/promo2_r.gif");
+}
+
+.bgHotelFullLeft
+{
+	background-image: url("#archive-unavailable");
+}
+
+.bgHotelFullRight
+{
+	background-image: url("#archive-unavailable");
+}

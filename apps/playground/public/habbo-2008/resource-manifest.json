@@ -1,0 +1,678 @@
+{
+  "timestamp": "20080915043801",
+  "resources": {
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/buttons.css": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/buttons.css",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/buttons.css",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/ie6.css": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/ie6.css",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/ie6.css",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/tooltips.css": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/tooltips.css",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/tooltips.css",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/boxes.css": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/boxes.css",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/boxes.css",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/ie.css": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/ie.css",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/ie.css",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/style.css": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/style.css",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/style.css",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/process.css": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/process.css",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/process.css",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/images/progress_bubbles.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/images/progress_bubbles.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/images/progress_bubbles.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/new_button.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/new_button.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/new_button.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/toolbar/login_bg_bottom.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/toolbar/login_bg_bottom.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/toolbar/login_bg_bottom.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/grey-content-r.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/grey-content-r.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/dialogs/grey-content-r.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-r.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-r.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/dialogs/greytab-r.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box_lightgreen.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box_lightgreen.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/box_lightgreen.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/grey-tr.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/grey-tr.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/dialogs/grey-tr.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/box.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box-scale/bubble_bl.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box-scale/bubble_bl.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/box-scale/bubble_bl.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/tabs.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/tabs.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/tabs.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/habboclub/hc_morerooms.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/habboclub/hc_morerooms.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/habboclub/hc_morerooms.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/habboclub/hc_furniture_items.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/habboclub/hc_furniture_items.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/habboclub/hc_furniture_items.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/room_icon_2.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/room_icon_2.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/room_icon_2.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/navi2-bottom.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/navi2-bottom.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/navi2-bottom.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/landing/createbutton_arrow.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/landing/createbutton_arrow.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/landing/createbutton_arrow.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box_black.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box_black.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/box_black.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/habboclub/600_newfriends.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/habboclub/600_newfriends.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/habboclub/600_newfriends.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/navi2-borders.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/navi2-borders.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/navi2-borders.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/quickmenu.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/quickmenu.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/quickmenu.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box-scale/bubble_tl.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box-scale/bubble_tl.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/box-scale/bubble_tl.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box_gray.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box_gray.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/box_gray.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/systemavailability/hotel-button-medium-icon-closed.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/systemavailability/hotel-button-medium-icon-closed.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/systemavailability/hotel-button-medium-icon-closed.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-tab-r-selected.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-tab-r-selected.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/dialogs/greytab-tab-r-selected.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/box.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/welcome/newbie_item_bg.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/welcome/newbie_item_bg.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/welcome/newbie_item_bg.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/myhabbo_icons.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/myhabbo_icons.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/myhabbo_icons.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/borders.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/borders.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/borders.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/room_icon_5.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/room_icon_5.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/room_icon_5.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/habboclub/hc_clothes.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/habboclub/hc_clothes.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/habboclub/hc_clothes.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/tooltips/bubble-bottom.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/tooltips/bubble-bottom.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/tooltips/bubble-bottom.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box_loginbox.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box_loginbox.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/box_loginbox.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/locked.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/locked.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/locked.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/tooltips/bubble-top.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/tooltips/bubble-top.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/tooltips/bubble-top.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/landing/signin_bg.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/landing/signin_bg.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/landing/signin_bg.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box_yellow.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box_yellow.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/box_yellow.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/contact.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/contact.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/contact.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/hc_star_green.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/hc_star_green.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/hc_star_green.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box_process.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box_process.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/box_process.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box-scale/bubble_tr.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box-scale/bubble_tr.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/box-scale/bubble_tr.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/room_icon_3.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/room_icon_3.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/room_icon_3.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/shared_icons/small_icons.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/shared_icons/small_icons.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/shared_icons/small_icons.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/welcome/welcome_party.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/welcome/welcome_party.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/welcome/welcome_party.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-tab-l.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-tab-l.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/dialogs/greytab-tab-l.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/grey-br.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/grey-br.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/dialogs/grey-br.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/activehomes/stripepattern.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/activehomes/stripepattern.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/activehomes/stripepattern.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box_gray.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box_gray.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/box_gray.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/welcome/welcome_01.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/welcome/welcome_01.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/welcome/welcome_01.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-l.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-l.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/dialogs/greytab-l.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/offline.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/offline.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/offline.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/landing/createbutton_bg.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/landing/createbutton_bg.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/landing/createbutton_bg.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/tooltips/bubble-bottom-left.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/tooltips/bubble-bottom-left.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/tooltips/bubble-bottom-left.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-tab-r.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-tab-r.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/dialogs/greytab-tab-r.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/grey-tl.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/grey-tl.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/dialogs/grey-tl.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-bl.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-bl.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/dialogs/greytab-bl.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/welcome/roompattern_box.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/welcome/roompattern_box.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/welcome/roompattern_box.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box_black_borders.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box_black_borders.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/box_black_borders.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/button_icons.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/button_icons.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/button_icons.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/inner-tabs.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/inner-tabs.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/inner-tabs.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/close_x_black.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/close_x_black.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/close_x_black.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/borders_gray.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/borders_gray.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/borders_gray.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-br.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-br.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/dialogs/greytab-br.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/borders.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/borders.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/borders.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/grey-content-l.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/grey-content-l.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/dialogs/grey-content-l.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/toolbar/login_bg_top.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/toolbar/login_bg_top.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/toolbar/login_bg_top.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/tags/tags.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/tags/tags.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/tags/tags.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/subnavi-arrows.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/subnavi-arrows.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/subnavi-arrows.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/grey-bl.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/grey-bl.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/dialogs/grey-bl.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/habbo_none.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/habbo_none.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/habbo_none.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/tooltips/red-bottom.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/tooltips/red-bottom.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/tooltips/red-bottom.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/button_icons2.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/button_icons2.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/button_icons2.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-tab-l-selected.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-tab-l-selected.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/dialogs/greytab-tab-l-selected.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/bg.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/bg.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/bg.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-tabbg2.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-tabbg2.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/dialogs/greytab-tabbg2.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-tabbg.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/greytab-tabbg.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/dialogs/greytab-tabbg.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/systemavailability/hotel-button-medium-icon.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/systemavailability/hotel-button-medium-icon.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/systemavailability/hotel-button-medium-icon.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/picnicbg.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/picnicbg.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/picnicbg.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/landing/createbutton_bg.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/landing/createbutton_bg.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/landing/createbutton_bg.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box-scale/bubble_br.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box-scale/bubble_br.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/box-scale/bubble_br.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box_hcred.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/box_hcred.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/box_hcred.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/purse/purse_icon.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/purse/purse_icon.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/purse/purse_icon.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/hc_pattern.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/hc_pattern.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/hc_pattern.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/quickmenu_top.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/quickmenu_top.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/quickmenu_top.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/room_icon_1.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/room_icon_1.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/room_icon_1.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/close_x.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/close_x.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/close_x.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/info_icons.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/info_icons.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/info_icons.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/online.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/online.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/online.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/credits/flag_selected.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/credits/flag_selected.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/credits/flag_selected.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/games_illustration.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/games_illustration.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/games_illustration.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/landing/createbutton_arrow.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/landing/createbutton_arrow.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/landing/createbutton_arrow.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/room_icon_4.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/room_icon_4.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/room_icon_4.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/activehomes/habbo_skeleton.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/activehomes/habbo_skeleton.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/activehomes/habbo_skeleton.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/tooltips/red-top.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/tooltips/red-top.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/tooltips/red-top.png",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/habboclub/chooser_tuto.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/habboclub/chooser_tuto.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/habboclub/chooser_tuto.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/grey-header.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/dialogs/grey-header.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/dialogs/grey-header.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/habboclub/hc_furniture.gif": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/habboclub/hc_furniture.gif",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/habboclub/hc_furniture.gif",
+      "status": "historical mirror; build identity unverified"
+    },
+    "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/activehomes/boxblue.png": {
+      "local": "assets/images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/activehomes/boxblue.png",
+      "source": "https://archive.alcosmos.net/Habbo_Archive_V2_Wendigo/web-gallery/v2/styles/images/activehomes/boxblue.png",
+      "status": "historical mirror; build identity unverified"
+    }
+  },
+  "missing": [
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/images/fonts/volter/187.gif",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/c_images/PartnerButtons/back2school_partnerbtn.gif",
+      "error": "Not available in mirror; Wayback rate limited"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/images/fonts/volter/170.gif",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/images/activehomes/transparent_area.gif",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://www.habbo.com/v2/images/landing/filler_ad.png",
+      "error": "Not available in mirror; Wayback rate limited"
+    },
+    {
+      "url": "http://pixel.quantserve.com/pixel/p-b5UDx6EsiRfMI.gif",
+      "error": "Not available in mirror; Wayback rate limited"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/favicon.ico",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/c_images/album614/outnow_furni_BigBen_US.gif",
+      "error": "Not available in mirror; Wayback rate limited"
+    },
+    {
+      "url": "http://www.habbo.com/styles/local/com.css",
+      "error": "Not available in mirror; Wayback rate limited"
+    },
+    {
+      "url": "http://images.habbohotel.com/c_images/PartnerButtons/partnerButton_plainWhiteTs.gif",
+      "error": "Not available in mirror; Wayback rate limited"
+    },
+    {
+      "url": "http://images.habbohotel.com/c_images/PartnerButtons/partnerButton_btsPP.gif",
+      "error": "Not available in mirror; Wayback rate limited"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/images/fonts/volter/165.gif",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/rooms.css",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/button.gif",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/rooms/room_icon_1.gif",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/welcome/roomselection_big.png",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/welcome/roomselection_small.png",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/minimail/mail_icons.png",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/images/groups/editbubble-bl.png",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/borders_black.png",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/images/systemavailability/hotel-button.png",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/subnavibg.png",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/images/groups/editbubble-tr.png",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/images/groups/editbubble-tl.png",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/rooms/room_icon_3.gif",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/rooms/room_icon_4.gif",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/rooms/room_icon_5.gif",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/rooms/room_icon_2.gif",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/images/systemavailability/hotel-button-splash.png",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/more_arrows.png",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/habboclub/hc_clothes_items.png",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/images/systemavailability/hotel-button-hotelclosed.png",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/welcome/roompattern_bg.png",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/images/groups/editbubble-br.png",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/images/systemavailability/hotel-button-ends.png",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/help.gif",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/habboclub/extra.png",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/images/systemavailability/hotel-button-hotelopen.gif",
+      "error": "Resource missing from historical mirror"
+    },
+    {
+      "url": "http://images.habbohotel.com/habboweb/25_dff9e744917eafb686617c2e12ba557c/12/web-gallery/v2/styles/images/landing/landing_group.png",
+      "error": "Resource missing from historical mirror"
+    }
+  ]
+}

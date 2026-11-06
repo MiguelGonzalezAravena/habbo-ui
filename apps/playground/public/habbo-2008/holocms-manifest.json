@@ -1,0 +1,1072 @@
+[
+  {
+    "source": "web-gallery/v2/styles/collectibles.css",
+    "local": "holocms/web-gallery/v2/styles/collectibles.css",
+    "sha256": "211f22e9dc00bba1ceef9d2e8a8c9f1f76d5b309299bd2dec2c5cf61cb67fcd9"
+  },
+  {
+    "source": "web-gallery/v2/styles/tooltips.css",
+    "local": "holocms/web-gallery/v2/styles/tooltips.css",
+    "sha256": "298127aa5bbc8b3d89b0f25ac45804ca467ed6e6334d774eb9f6a289cebd539f"
+  },
+  {
+    "source": "web-gallery/v2/styles/boxes.css",
+    "local": "holocms/web-gallery/v2/styles/boxes.css",
+    "sha256": "ed37a5b1f885a0369d5a906dea0386317a0451fdfb8405c2f91684273b5df33a"
+  },
+  {
+    "source": "web-gallery/v2/styles/minimail.css",
+    "local": "holocms/web-gallery/v2/styles/minimail.css",
+    "sha256": "7f11cc99cb778730c79f14ae4c631ec215921baea98abbfc6b76f768804bcaf3"
+  },
+  {
+    "source": "web-gallery/v2/styles/install.css",
+    "local": "holocms/web-gallery/v2/styles/install.css",
+    "sha256": "dde656f673f07c1edc3c930d7df273ca905647668b2e85af4dea7b1ef35dc268"
+  },
+  {
+    "source": "web-gallery/v2/styles/group.css",
+    "local": "holocms/web-gallery/v2/styles/group.css",
+    "sha256": "7331977654db4967d1e2e15097b7405e67a4667d4a327c5286ff9c6907e295ae"
+  },
+  {
+    "source": "web-gallery/v2/styles/settings.css",
+    "local": "holocms/web-gallery/v2/styles/settings.css",
+    "sha256": "20c18e7ffae2f965996ebd9db4097e22350a5234e7326becdd58f3585fc2df1f"
+  },
+  {
+    "source": "web-gallery/v2/styles/ie6.css",
+    "local": "holocms/web-gallery/v2/styles/ie6.css",
+    "sha256": "45696cc9729544284b8f66e2d3d604b54a0c23b3662e388cdf6b6eb2a309cb2f"
+  },
+  {
+    "source": "web-gallery/v2/styles/lightwindow.css",
+    "local": "holocms/web-gallery/v2/styles/lightwindow.css",
+    "sha256": "7ff16eceff95b622553af443fbab78d873b1a03464843bdf2016ea8e2c90f688"
+  },
+  {
+    "source": "web-gallery/v2/styles/registration.css",
+    "local": "holocms/web-gallery/v2/styles/registration.css",
+    "sha256": "e6a064ca23d48e16c9b1428574e11cb82e1cc82b85d82198b4f57dfa2c6d93ef"
+  },
+  {
+    "source": "web-gallery/v2/styles/rooms.css",
+    "local": "holocms/web-gallery/v2/styles/rooms.css",
+    "sha256": "7c16d7122e139c51e8e46c3e0c6fccbecabb84590530118c77cd67b21ee003d2"
+  },
+  {
+    "source": "web-gallery/v2/styles/style.css",
+    "local": "holocms/web-gallery/v2/styles/style.css",
+    "sha256": "512f4533a0bfbc2305f417dc334fe30f3aaf4d8e1addaf6cced35ac14ffd7a76"
+  },
+  {
+    "source": "web-gallery/v2/styles/welcome.css",
+    "local": "holocms/web-gallery/v2/styles/welcome.css",
+    "sha256": "29894c3dd5cbe5f335e124784e8ba9069934d9167ba1f061a4dd025f47dd7c95"
+  },
+  {
+    "source": "web-gallery/v2/styles/process.css",
+    "local": "holocms/web-gallery/v2/styles/process.css",
+    "sha256": "2723832cbcebea12c6849a5c00a28b6eb202eb74463567ec3550281b85812b7c"
+  },
+  {
+    "source": "web-gallery/v2/styles/personal.css",
+    "local": "holocms/web-gallery/v2/styles/personal.css",
+    "sha256": "d7019ffc7b4cc09534c430d2a68acb05258e8f13a728f22d7cb86a7c8a117a3d"
+  },
+  {
+    "source": "web-gallery/v2/styles/myhabbo.css",
+    "local": "holocms/web-gallery/v2/styles/myhabbo.css",
+    "sha256": "75367083b9426df54ad9dd9fa29f5cf89bfe0c0c55960f3e643bceeb5685567f"
+  },
+  {
+    "source": "web-gallery/v2/styles/buttons.css",
+    "local": "holocms/web-gallery/v2/styles/buttons.css",
+    "sha256": "135cd9d51d553457c78e0c1778a70d718fb151cd7f33f5cf16a767461784b75e"
+  },
+  {
+    "source": "web-gallery/v2/styles/ie.css",
+    "local": "holocms/web-gallery/v2/styles/ie.css",
+    "sha256": "e32086f9b7fb5c694ed382b286d6d0c9f0a410887a7369448cb79f311e1d14e9"
+  },
+  {
+    "source": "web-gallery/v2/styles/friendmanagement.css",
+    "local": "holocms/web-gallery/v2/styles/friendmanagement.css",
+    "sha256": "8e55b5e5bd2b69e4118882daeb84788ee0d6e812c9a5fe5e4c57139faf10f87d"
+  },
+  {
+    "source": "web-gallery/v2/styles/habboclient.css",
+    "local": "holocms/web-gallery/v2/styles/habboclient.css",
+    "sha256": "852c3e8394f3f5f84dd65a83617c5cd3c1acfea4087b486361d9b7c9bd21b538"
+  },
+  {
+    "source": "web-gallery/v2/images/hc_pattern.gif",
+    "local": "holocms/web-gallery/v2/images/hc_pattern.gif",
+    "sha256": "801f8d0878032ca48f1b012ba9a3f589345c5299d691a8566e6ea7d4864eca44"
+  },
+  {
+    "source": "web-gallery/v2/images/topbg.gif",
+    "local": "holocms/web-gallery/v2/images/topbg.gif",
+    "sha256": "59fbcfbfea08caa8b4671e85c5b6c2f0ded0562efffced2bb9b4661e5f278b05"
+  },
+  {
+    "source": "web-gallery/v2/images/new_button.png",
+    "local": "holocms/web-gallery/v2/images/new_button.png",
+    "sha256": "16731eb9f5267b45ff0043ac41ce26098d7852834d3aec33811dc11544519196"
+  },
+  {
+    "source": "web-gallery/v2/images/box_hcred.png",
+    "local": "holocms/web-gallery/v2/images/box_hcred.png",
+    "sha256": "dbbca8fa2c807bb8cd09c12baa5b51a373428028519e8a1b99e16dc0caf21a73"
+  },
+  {
+    "source": "web-gallery/v2/images/locked.gif",
+    "local": "holocms/web-gallery/v2/images/locked.gif",
+    "sha256": "03acd4d3b70c8a7333350731c70cbe9b334945f6f1d9d2881f99658098c69d86"
+  },
+  {
+    "source": "web-gallery/v2/images/tabs.png",
+    "local": "holocms/web-gallery/v2/images/tabs.png",
+    "sha256": "743cf57f552cc89d579b3e2cf9f89bb18813fe05d3b4da548e7965490ea91601"
+  },
+  {
+    "source": "web-gallery/v2/images/navi2-borders-wide.png",
+    "local": "holocms/web-gallery/v2/images/navi2-borders-wide.png",
+    "sha256": "1cea3d1d1ea2a01d39715218f7be5fa22ec10949f4ed4483aa9132b476e9794e"
+  },
+  {
+    "source": "web-gallery/v2/images/hotel-button-hotelclosed.png",
+    "local": "holocms/web-gallery/v2/images/hotel-button-hotelclosed.png",
+    "sha256": "126860f4d63fa7398ed0f3831615efbf555f0af0994f50697fe1dd542a392a40"
+  },
+  {
+    "source": "web-gallery/v2/images/help.gif",
+    "local": "holocms/web-gallery/v2/images/help.gif",
+    "sha256": "a25c284df5c22d5166fecdf958219a10b393464020dd679a2d7aeab05b3bd610"
+  },
+  {
+    "source": "web-gallery/v2/images/quickmenu.png",
+    "local": "holocms/web-gallery/v2/images/quickmenu.png",
+    "sha256": "197ba3b19756f4fc9b7df304a79058546263ac2b7a547071c35f5fb320df68be"
+  },
+  {
+    "source": "web-gallery/v2/images/error.gif",
+    "local": "holocms/web-gallery/v2/images/error.gif",
+    "sha256": "cbb21755852f6c17bc8ae1412d29b92cbdab1ac37ce27c3fb09114b30e5ab507"
+  },
+  {
+    "source": "web-gallery/v2/images/button_icons.gif",
+    "local": "holocms/web-gallery/v2/images/button_icons.gif",
+    "sha256": "04f4125b0ad71ebbd89e8406ae1d79e4363ee625a3a51517fb1e99a816c29440"
+  },
+  {
+    "source": "web-gallery/v2/images/inner-tabs.png",
+    "local": "holocms/web-gallery/v2/images/inner-tabs.png",
+    "sha256": "c5bca778ae5069dc9e626bd52250b492b108ae77b5d9f455ea06ef7212bb3b65"
+  },
+  {
+    "source": "web-gallery/v2/images/close_x.gif",
+    "local": "holocms/web-gallery/v2/images/close_x.gif",
+    "sha256": "4e27844b771e6b472300623f1ec9e103bbd6195e6ea6f5b4ce4c99ff9f94bd0c"
+  },
+  {
+    "source": "web-gallery/v2/images/hc_star_green.png",
+    "local": "holocms/web-gallery/v2/images/hc_star_green.png",
+    "sha256": "41013374096401518094df1150fcd01a44777147218c88c8671f08010ad18a18"
+  },
+  {
+    "source": "web-gallery/v2/images/info_icons.png",
+    "local": "holocms/web-gallery/v2/images/info_icons.png",
+    "sha256": "0fa4e4b8faf2d0c841d3e26d6a51103aceffc770fbc2479f8f849d1486f99860"
+  },
+  {
+    "source": "web-gallery/v2/images/habbo_offline.gif",
+    "local": "holocms/web-gallery/v2/images/habbo_offline.gif",
+    "sha256": "2b551c74fb57f5e6757049a15dc6eecfcc0358e3d6e95cc899b8d37d3d444e94"
+  },
+  {
+    "source": "web-gallery/v2/images/online_small.gif",
+    "local": "holocms/web-gallery/v2/images/online_small.gif",
+    "sha256": "3489134aecc5a5f33893e3f19ee087ff0b7c12b5fa5df20b3fe91089d9dcf437"
+  },
+  {
+    "source": "web-gallery/v2/images/box_black_borders.png",
+    "local": "holocms/web-gallery/v2/images/box_black_borders.png",
+    "sha256": "7273dee0ef1f3eb08bc13d745e421cade35691177d5599e2574db1683ef660c7"
+  },
+  {
+    "source": "web-gallery/v2/images/navi2-borders.png",
+    "local": "holocms/web-gallery/v2/images/navi2-borders.png",
+    "sha256": "fcfabdff8e3864582da4919e5fff2f596f35e7369b096787c26e3af77f08c216"
+  },
+  {
+    "source": "web-gallery/v2/images/box_gray.png",
+    "local": "holocms/web-gallery/v2/images/box_gray.png",
+    "sha256": "4c75c8079e2815d3151a3b139f56489064c2d648065e924dcccbe1a1d3105968"
+  },
+  {
+    "source": "web-gallery/v2/images/online.gif",
+    "local": "holocms/web-gallery/v2/images/online.gif",
+    "sha256": "8519eed6bfece088f9555cf429c8f2f82352c810ea3ef7b65a36d8fcc3270f1a"
+  },
+  {
+    "source": "web-gallery/v2/images/box_lightgreen.png",
+    "local": "holocms/web-gallery/v2/images/box_lightgreen.png",
+    "sha256": "b00c88d7283e9705d0f781f5df9d6010f439f2e01ec91dedd652f51d15961786"
+  },
+  {
+    "source": "web-gallery/v2/images/box_loginbox.png",
+    "local": "holocms/web-gallery/v2/images/box_loginbox.png",
+    "sha256": "036fc9d736c85746321f22e778eb2a14c7bf0eb8059954a198e16b596b2134e4"
+  },
+  {
+    "source": "web-gallery/v2/images/navi2-bottom-wide.png",
+    "local": "holocms/web-gallery/v2/images/navi2-bottom-wide.png",
+    "sha256": "6da5d66db259d302093e085071204a5fcbf1a0f253fbe3314a8a297afc82a4f9"
+  },
+  {
+    "source": "web-gallery/v2/images/habbo_online_anim.gif",
+    "local": "holocms/web-gallery/v2/images/habbo_online_anim.gif",
+    "sha256": "1eb7a31e379118768a2b7551fb3fa4a9f477cb5e18cf2ce3f01ba1c3cf0d6332"
+  },
+  {
+    "source": "web-gallery/v2/images/small_icons.png",
+    "local": "holocms/web-gallery/v2/images/small_icons.png",
+    "sha256": "b6bdeeee72b0fae3eadef903c6c1e634e75e1252faf01993bb5fccd8066d2255"
+  },
+  {
+    "source": "web-gallery/v2/images/myhabbo_icons.png",
+    "local": "holocms/web-gallery/v2/images/myhabbo_icons.png",
+    "sha256": "e3c24c23190b7bc86f5e3e4b380b265600e7a5f386b842955eca49d4c1017485"
+  },
+  {
+    "source": "web-gallery/v2/images/info_background_overlay.png",
+    "local": "holocms/web-gallery/v2/images/info_background_overlay.png",
+    "sha256": "52e8dfbd9ee77281a6b4bf31f98fe709fa7b0ed389642e0540dfd8eaacf417d9"
+  },
+  {
+    "source": "web-gallery/v2/images/credits_permission.png",
+    "local": "holocms/web-gallery/v2/images/credits_permission.png",
+    "sha256": "f77eccb32df1fa0596639d82e7b96c788d4958417d0f6a7c19b32571194d1058"
+  },
+  {
+    "source": "web-gallery/v2/images/button_icons2.png",
+    "local": "holocms/web-gallery/v2/images/button_icons2.png",
+    "sha256": "5bb288b763c13ecc4ae9f694ba61091c0b936fde05c2a614e311b83b483f19f4"
+  },
+  {
+    "source": "web-gallery/v2/images/more_arrows.png",
+    "local": "holocms/web-gallery/v2/images/more_arrows.png",
+    "sha256": "2c30ae7671573cdc6f3122fa1565f3f3bcf5ddb766cdbdc1e14177e56e51f9be"
+  },
+  {
+    "source": "web-gallery/v2/images/close_x_black.png",
+    "local": "holocms/web-gallery/v2/images/close_x_black.png",
+    "sha256": "5716565d2b7b092bbdc29f7eb17c5eaef2221467ec716dc0224cdbdfb1f089a0"
+  },
+  {
+    "source": "web-gallery/v2/images/subnavi-arrows.png",
+    "local": "holocms/web-gallery/v2/images/subnavi-arrows.png",
+    "sha256": "bf8c7c18d71ad132d55fe8d87afac547569f92ccb8051ac1f1596b6eeee3f3cb"
+  },
+  {
+    "source": "web-gallery/v2/images/box_black.png",
+    "local": "holocms/web-gallery/v2/images/box_black.png",
+    "sha256": "649517e79f6c0c3c14f1a76a7ce02017c26911abefa2a330fab89852f68018f7"
+  },
+  {
+    "source": "web-gallery/v2/images/info_habbo_plate.png",
+    "local": "holocms/web-gallery/v2/images/info_habbo_plate.png",
+    "sha256": "22e9c32355e31677424ad1e4f7b6c0d7ee232190ddcb72d245b9b644ed1adc33"
+  },
+  {
+    "source": "web-gallery/v2/images/tabs2.png",
+    "local": "holocms/web-gallery/v2/images/tabs2.png",
+    "sha256": "9600add8f2afd2c8e3aa791805217489e865c44767fef6b382803637a07b2f84"
+  },
+  {
+    "source": "web-gallery/v2/images/subnavibg.png",
+    "local": "holocms/web-gallery/v2/images/subnavibg.png",
+    "sha256": "b451a18445624bec97afb4f903e38f2d166cd137bbbc94af118503136a79d245"
+  },
+  {
+    "source": "web-gallery/v2/images/navi2-bottom.png",
+    "local": "holocms/web-gallery/v2/images/navi2-bottom.png",
+    "sha256": "0ca9c37edb82b4ba773b49e9f720ffb0d718191a025253963b2a1673fd700f4f"
+  },
+  {
+    "source": "web-gallery/v2/images/borders.png",
+    "local": "holocms/web-gallery/v2/images/borders.png",
+    "sha256": "625a7f10385f6fa6010b112c2e751288a803439be5a72d59ebe3b4e50d285d3a"
+  },
+  {
+    "source": "web-gallery/v2/images/games_illustration.png",
+    "local": "holocms/web-gallery/v2/images/games_illustration.png",
+    "sha256": "cd3548225a4ce34895dccb2ef85b5b580d0b2daefaebd18c43bcce6e3b68a294"
+  },
+  {
+    "source": "web-gallery/v2/images/box_process.png",
+    "local": "holocms/web-gallery/v2/images/box_process.png",
+    "sha256": "2a02b51b42909683f80333ebfef274c2f8a7ef8f9e2a487acc04ca55f9da4996"
+  },
+  {
+    "source": "web-gallery/v2/images/box_yellow.png",
+    "local": "holocms/web-gallery/v2/images/box_yellow.png",
+    "sha256": "8fc528b96626b583bb1f8c61845ea905d7277cc37740b7b5ad4596501c2b83dd"
+  },
+  {
+    "source": "web-gallery/v2/images/mgm_dialogue.png",
+    "local": "holocms/web-gallery/v2/images/mgm_dialogue.png",
+    "sha256": "32cd7e831a8ed2920f00036fac8f957456e208f3e8949af02d34606de0f2cf4a"
+  },
+  {
+    "source": "web-gallery/v2/images/box.png",
+    "local": "holocms/web-gallery/v2/images/box.png",
+    "sha256": "9a92048311ebf16a2c6d35ea0a23dbd791d064e3cc6afdf12979136f4b7db522"
+  },
+  {
+    "source": "web-gallery/v2/images/borders_black.png",
+    "local": "holocms/web-gallery/v2/images/borders_black.png",
+    "sha256": "5301e56cf8f2e04126f11073c62efdafe1d5446dce81f4fce4fbb65b5b0cc191"
+  },
+  {
+    "source": "web-gallery/v2/images/offline.gif",
+    "local": "holocms/web-gallery/v2/images/offline.gif",
+    "sha256": "50d7b7a2ec7484edb4b463348c088671a7a977a90031b5b8c91c1c8c437f45c7"
+  },
+  {
+    "source": "web-gallery/v2/images/quickmenu_top.png",
+    "local": "holocms/web-gallery/v2/images/quickmenu_top.png",
+    "sha256": "dbe8b6272c02720cde6a6080738c483cf61a2d3921a07d396ac9cb8fd17a2b13"
+  },
+  {
+    "source": "web-gallery/v2/images/habbo.png",
+    "local": "holocms/web-gallery/v2/images/habbo.png",
+    "sha256": "bf153e255770b98d1fc5ba8dbaf5ad9866835e9f1bb3d4b43c10cfa3289bfb16"
+  },
+  {
+    "source": "web-gallery/v2/images/hotel-button-hotelopen.png",
+    "local": "holocms/web-gallery/v2/images/hotel-button-hotelopen.png",
+    "sha256": "7e729eb261fa9cd6dd977b8d257e08792cb026a2c7a399913cad73278ece3a39"
+  },
+  {
+    "source": "web-gallery/v2/images/bg.png",
+    "local": "holocms/web-gallery/v2/images/bg.png",
+    "sha256": "cb632b86fc24e20e4e5c0ba20bb5c34de84e7bc88f0d4daf4775790043125cde"
+  },
+  {
+    "source": "web-gallery/v2/images/wardrobe/arrow_red.png",
+    "local": "holocms/web-gallery/v2/images/wardrobe/arrow_red.png",
+    "sha256": "378b8a8577811987a1ed259cde72b467d91287a20d4ae0ed73457301d9d5506d"
+  },
+  {
+    "source": "web-gallery/v2/images/wardrobe/slot_bg.png",
+    "local": "holocms/web-gallery/v2/images/wardrobe/slot_bg.png",
+    "sha256": "3d5f3a0d3059876b02b9744afb4b797529671de10ccb9e377792a25b53ff9563"
+  },
+  {
+    "source": "web-gallery/v2/images/wardrobe/arrow_green.png",
+    "local": "holocms/web-gallery/v2/images/wardrobe/arrow_green.png",
+    "sha256": "dcca8b232163b7325238b3065e83d892c1ea9e3bf0950314e8d3db9b78440772"
+  },
+  {
+    "source": "web-gallery/v2/images/registration/error_icon.gif",
+    "local": "holocms/web-gallery/v2/images/registration/error_icon.gif",
+    "sha256": "a665cca3710543b61fb16753f963ce80b024dbd0e36f750b8680fe4ce3a3030b"
+  },
+  {
+    "source": "web-gallery/v2/images/registration/ok_icon.gif",
+    "local": "holocms/web-gallery/v2/images/registration/ok_icon.gif",
+    "sha256": "34e167040143eac038fbbef3d9c317c20082326a9374a946bed66f63139d0e94"
+  },
+  {
+    "source": "web-gallery/v2/images/registration/terms_icon.gif",
+    "local": "holocms/web-gallery/v2/images/registration/terms_icon.gif",
+    "sha256": "90ac5e048407b8ecfef029e9c976a68d4002e49e3a2bfa6fb4d70093fb5a3b4a"
+  },
+  {
+    "source": "web-gallery/v2/images/landing/createbutton_bg.png",
+    "local": "holocms/web-gallery/v2/images/landing/createbutton_bg.png",
+    "sha256": "44cf08fc13aca1d4db65e0de117f66de7e497e8f94cbba7f50ae10c9cf3c98e7"
+  },
+  {
+    "source": "web-gallery/v2/images/landing/signin_bg.gif",
+    "local": "holocms/web-gallery/v2/images/landing/signin_bg.gif",
+    "sha256": "5945bc20b61b11536dd9ba5a0a2f8d67702eb9c01e1ddb68040d19c4bb46758f"
+  },
+  {
+    "source": "web-gallery/v2/images/landing/filler_ad.png",
+    "local": "holocms/web-gallery/v2/images/landing/filler_ad.png",
+    "sha256": "43e50cd9a27fdb4a45bfc7add5ce44774a8e0ced3534bceb8fdd3d083482660b"
+  },
+  {
+    "source": "web-gallery/v2/images/landing/createhabbo_bg.png",
+    "local": "holocms/web-gallery/v2/images/landing/createhabbo_bg.png",
+    "sha256": "fdd147faff1c45204e90d917809cbd375ce447b502afd508d6d3afcab5df5635"
+  },
+  {
+    "source": "web-gallery/v2/images/landing/uk_party_frontpage_image.gif",
+    "local": "holocms/web-gallery/v2/images/landing/uk_party_frontpage_image.gif",
+    "sha256": "1cf27392fa0a50e119bba4f1206d376f7d2cb96cb5da716e3a9993f7fce42627"
+  },
+  {
+    "source": "web-gallery/v2/images/landing/createbutton_arrow.png",
+    "local": "holocms/web-gallery/v2/images/landing/createbutton_arrow.png",
+    "sha256": "f7e160798b7d2127da6ebab17435aa2c1ce134c44781c8243c73a2ca2a17a964"
+  },
+  {
+    "source": "web-gallery/v2/images/landing/createbutton_bg.gif",
+    "local": "holocms/web-gallery/v2/images/landing/createbutton_bg.gif",
+    "sha256": "065a58006e41bac8039eb9f1fbf14360a6c91249b388440aefa5015aa1d3afd8"
+  },
+  {
+    "source": "web-gallery/v2/images/landing/landing_group.png",
+    "local": "holocms/web-gallery/v2/images/landing/landing_group.png",
+    "sha256": "87be95cc25cfcd5a941a63cf32b09842a9ea8e122f85a127a2e7b69f0f51a830"
+  },
+  {
+    "source": "web-gallery/v2/images/landing/createbutton_arrow.gif",
+    "local": "holocms/web-gallery/v2/images/landing/createbutton_arrow.gif",
+    "sha256": "5dd7ac3fd810e36abd45736323e852a950e632b84e555c32d60acd46941d45be"
+  },
+  {
+    "source": "web-gallery/v2/images/landing/test1.gif",
+    "local": "holocms/web-gallery/v2/images/landing/test1.gif",
+    "sha256": "c4719144f893709de6949b37a153de3725e1a733814d5c44499ce914db580d64"
+  },
+  {
+    "source": "web-gallery/v2/images/popup/popup_topbar_habbologo.gif",
+    "local": "holocms/web-gallery/v2/images/popup/popup_topbar_habbologo.gif",
+    "sha256": "94550ee7f2957aad91d4e5d9a4e38ad33e51c3b9f92f1134f8c27a6cbf8f0541"
+  },
+  {
+    "source": "web-gallery/v2/images/popup/popup_topbar_slice.gif",
+    "local": "holocms/web-gallery/v2/images/popup/popup_topbar_slice.gif",
+    "sha256": "bd494cf440fbca16d8ffad741bdde452a122743ba462d5f827c32f391dea5af4"
+  },
+  {
+    "source": "web-gallery/v2/images/popup/popup_habbocount_bg.gif",
+    "local": "holocms/web-gallery/v2/images/popup/popup_habbocount_bg.gif",
+    "sha256": "505a9b22f41699fa7c44d5542a85cea4bf4c30ff55adccb5cf0a75e3197a10f9"
+  },
+  {
+    "source": "web-gallery/v2/images/popup/shockwave_logo.png",
+    "local": "holocms/web-gallery/v2/images/popup/shockwave_logo.png",
+    "sha256": "d47de1163bd9f7555af3c982dcf0110d6595276569f7fc9f3a35fa7146ac8d8a"
+  },
+  {
+    "source": "web-gallery/v2/images/collectibles/ukplane.png",
+    "local": "holocms/web-gallery/v2/images/collectibles/ukplane.png",
+    "sha256": "89b499d0426a6012e15667b3964d954ed50f8423a0e3b57fd661064a33a09585"
+  },
+  {
+    "source": "web-gallery/v2/images/collectibles/instructions.png",
+    "local": "holocms/web-gallery/v2/images/collectibles/instructions.png",
+    "sha256": "d1114a96753d4a4c53d449d501ea29f8bbaba995bbe542ebb1823898f34bb21c"
+  },
+  {
+    "source": "web-gallery/v2/images/collectibles/bg_around.png",
+    "local": "holocms/web-gallery/v2/images/collectibles/bg_around.png",
+    "sha256": "a0398ce9529c225b5a0f417c168908219682959a46992d2f0f7dc881391acd94"
+  },
+  {
+    "source": "web-gallery/v2/images/collectibles/chart.png",
+    "local": "holocms/web-gallery/v2/images/collectibles/chart.png",
+    "sha256": "61ac04f5c3965502db35b4ca7870fe0de54cecf19000e514ee1b3f779d70b2bf"
+  },
+  {
+    "source": "web-gallery/v2/images/discussions/forum_icons.png",
+    "local": "holocms/web-gallery/v2/images/discussions/forum_icons.png",
+    "sha256": "cfee9d72a2ffec3ca4a56e668aaa0ea4d227a0b56aad84a09c7bc025434ed761"
+  },
+  {
+    "source": "web-gallery/v2/images/discussions/New_arrow.gif",
+    "local": "holocms/web-gallery/v2/images/discussions/New_arrow.gif",
+    "sha256": "0cae72f0c4ce096acf689a79606a6f8b2cf372c7a25a5d3fc28013f738b1fb14"
+  },
+  {
+    "source": "web-gallery/v2/images/faq/faq_header.png",
+    "local": "holocms/web-gallery/v2/images/faq/faq_header.png",
+    "sha256": "a95a5996aa4952f77e2402c47a22e2a4895dbd7d9d78981442ccc7230da8e04b"
+  },
+  {
+    "source": "web-gallery/v2/images/faq/close_btn.png",
+    "local": "holocms/web-gallery/v2/images/faq/close_btn.png",
+    "sha256": "544df411951112d6244b5e1538a81fc1bc062ae3ebb69b801598b8020ab847c2"
+  },
+  {
+    "source": "web-gallery/v2/images/toolbar/login_bg_top.png",
+    "local": "holocms/web-gallery/v2/images/toolbar/login_bg_top.png",
+    "sha256": "f09fb7dbaaa4ee64019182e1bb0c6b153e2802ecade4bddf7b9e1fab32dc7c27"
+  },
+  {
+    "source": "web-gallery/v2/images/toolbar/login_bg_bottom.png",
+    "local": "holocms/web-gallery/v2/images/toolbar/login_bg_bottom.png",
+    "sha256": "d62b8d236b85c0e9efacc15d414023541f4208113c1c759db559552ddb3f109f"
+  },
+  {
+    "source": "web-gallery/v2/images/holo/feed-icon.gif",
+    "local": "holocms/web-gallery/v2/images/holo/feed-icon.gif",
+    "sha256": "44aa1bdda866cccce79047906544ab1cb8c1c24d8e0c3a862afa73bc2ea743ad"
+  },
+  {
+    "source": "web-gallery/v2/images/groups/editbubble-tr.png",
+    "local": "holocms/web-gallery/v2/images/groups/editbubble-tr.png",
+    "sha256": "e420e406d293016b81cdda4cef2aba782a38dd487b920b000ce8509f4406c97f"
+  },
+  {
+    "source": "web-gallery/v2/images/groups/editbubble-bl.png",
+    "local": "holocms/web-gallery/v2/images/groups/editbubble-bl.png",
+    "sha256": "dcded36559aea246d59d4cb797c90cd3b38fa4b8d236d4cfe71223bb0e9d986b"
+  },
+  {
+    "source": "web-gallery/v2/images/groups/owner_icon.gif",
+    "local": "holocms/web-gallery/v2/images/groups/owner_icon.gif",
+    "sha256": "4708e13952f26bf0907262ebf5e3bd68647df896c65e830067691ef42e1f6420"
+  },
+  {
+    "source": "web-gallery/v2/images/groups/group_tool_icons.png",
+    "local": "holocms/web-gallery/v2/images/groups/group_tool_icons.png",
+    "sha256": "6560b87c4ce4a29153109e2bd7a119ec6dcc34bb48919d7126dd71ae2a7b8f3f"
+  },
+  {
+    "source": "web-gallery/v2/images/groups/administrator_icon.gif",
+    "local": "holocms/web-gallery/v2/images/groups/administrator_icon.gif",
+    "sha256": "487eb271563c489c550f0ec2655d86bcebef28bc14dd4bc480806df160fccfd5"
+  },
+  {
+    "source": "web-gallery/v2/images/groups/editbubble-tl.png",
+    "local": "holocms/web-gallery/v2/images/groups/editbubble-tl.png",
+    "sha256": "8df0ca15121363b166f91866d7a1c3b39d1bd002b2dc53fe2492f8d4ac8b9183"
+  },
+  {
+    "source": "web-gallery/v2/images/groups/editbubble-br.png",
+    "local": "holocms/web-gallery/v2/images/groups/editbubble-br.png",
+    "sha256": "319a35040071850f85abbf6575014897ea22d9dd765b87a89586db7515db16c8"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/roomselection_big.png",
+    "local": "holocms/web-gallery/v2/images/welcome/roomselection_big.png",
+    "sha256": "5a400c3e285c2aea878a7960329174793f22f8c1392909a04109539297f20bc8"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/welcome_party.png",
+    "local": "holocms/web-gallery/v2/images/welcome/welcome_party.png",
+    "sha256": "3b3360e60971ae6e28048d8bc9e57221554f14253b2d0bdd5ae3abf0ef7eaf9f"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/bubble_bottom.png",
+    "local": "holocms/web-gallery/v2/images/welcome/bubble_bottom.png",
+    "sha256": "43a2a746fb8d937674ecfb31383b049bc2db5896252c0593ab13eb0820d2ebb1"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/newbie_item_bg.png",
+    "local": "holocms/web-gallery/v2/images/welcome/newbie_item_bg.png",
+    "sha256": "9a19089a1c7b18cd5de750c482da8e2a981b551aa60eca93101cb5529fbfaf77"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/therooms.png",
+    "local": "holocms/web-gallery/v2/images/welcome/therooms.png",
+    "sha256": "b2f087d385f0b7df711e1996768b24fadc0b13e219de35ff444a95aad6bfffbc"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/newbie_thumb.png",
+    "local": "holocms/web-gallery/v2/images/welcome/newbie_thumb.png",
+    "sha256": "84ee709d6761662a3a83cd4ba456d169df24184310dd96b426527d7a4434b36a"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/roompattern_box.png",
+    "local": "holocms/web-gallery/v2/images/welcome/roompattern_box.png",
+    "sha256": "93d83dde8a56a8f77e512ed5e8b5f25210aa67971d95bde107449195768dbb31"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/hand.png",
+    "local": "holocms/web-gallery/v2/images/welcome/hand.png",
+    "sha256": "a13a8b1dd130c2b1e25fc39f6206bf6dc97cd49876d47d00302a95cac46eaf95"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/shockwave.gif",
+    "local": "holocms/web-gallery/v2/images/welcome/shockwave.gif",
+    "sha256": "322cadf11d2bed6e18a2246c2a395189be609fae5684cf5818b6b536bb679999"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/therooms_small.png",
+    "local": "holocms/web-gallery/v2/images/welcome/therooms_small.png",
+    "sha256": "be7438906203cd322fdc20119dc47072d3255bd6dd2dfbbba986ee7ecd559232"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/bubble_top.png",
+    "local": "holocms/web-gallery/v2/images/welcome/bubble_top.png",
+    "sha256": "5f5101132cea36e0369f781a1f240cf80180e3527e8f78a46578c3531ca26bf8"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/roompattern_bg.png",
+    "local": "holocms/web-gallery/v2/images/welcome/roompattern_bg.png",
+    "sha256": "b2f087d385f0b7df711e1996768b24fadc0b13e219de35ff444a95aad6bfffbc"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/welcome_05.png",
+    "local": "holocms/web-gallery/v2/images/welcome/welcome_05.png",
+    "sha256": "d59623d314c217cfdad471564ef2ee8c0edaefa4276bbb39bd16e31184006164"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/roomselection_small.png",
+    "local": "holocms/web-gallery/v2/images/welcome/roomselection_small.png",
+    "sha256": "bf7e4b3901fda582c4304a23a1c3112777ab110800ef5588936943ac079f1a01"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/newbie_hc.png",
+    "local": "holocms/web-gallery/v2/images/welcome/newbie_hc.png",
+    "sha256": "959d48507795f6a552ad1cc8693988ece6f00b78cf2bb9a79eeaceb164eaeb49"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/welcome_04.png",
+    "local": "holocms/web-gallery/v2/images/welcome/welcome_04.png",
+    "sha256": "fc19392b09fa05549be346cb3dd754a4b4733384f7c9214bb24f2f566220fc7a"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/welcome_03.png",
+    "local": "holocms/web-gallery/v2/images/welcome/welcome_03.png",
+    "sha256": "8328b953c5e6ace290bc739dc721d8a43c25cdda392e9a69a9a24e1000f40290"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/welcome_02.png",
+    "local": "holocms/web-gallery/v2/images/welcome/welcome_02.png",
+    "sha256": "85004d3fdde966541df76667a03b7cbbd12b7b4d964718bbb5af3e6c41a0bd04"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/welcome_01.png",
+    "local": "holocms/web-gallery/v2/images/welcome/welcome_01.png",
+    "sha256": "85f84c6732bf4b945c405075cbf567ce1a047e6f05d0a3a6ea11f84836ce0c52"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/newbie_furni/noob_stool_1.png",
+    "local": "holocms/web-gallery/v2/images/welcome/newbie_furni/noob_stool_1.png",
+    "sha256": "47358d71cb60493d2788bcea4325ca42f8fae7995314aa818d8a02eaf33b0950"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/newbie_furni/noob_stool_3.png",
+    "local": "holocms/web-gallery/v2/images/welcome/newbie_furni/noob_stool_3.png",
+    "sha256": "9df2da3b3c74b2e363a358c2b071e4335c56bab6ecb4c1f256740c8ccbe12b6a"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/newbie_furni/noob_stool_2.png",
+    "local": "holocms/web-gallery/v2/images/welcome/newbie_furni/noob_stool_2.png",
+    "sha256": "7df46c699e1ca78be5b769145e773c60bffa7dd72402bd4918750e3cbd615e13"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/newbie_furni/noob_stool_6.png",
+    "local": "holocms/web-gallery/v2/images/welcome/newbie_furni/noob_stool_6.png",
+    "sha256": "0994047c10e93a7aaee7544742adba65e0b82253373d8bed728ef6f59cdeaa2c"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/newbie_furni/noob_stool_5.png",
+    "local": "holocms/web-gallery/v2/images/welcome/newbie_furni/noob_stool_5.png",
+    "sha256": "a77bdcb9c4004fcb070757c244fec453cfe3b52d9a3530fbfaf39ec59b7552cc"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/newbie_furni/noob_stool_4.png",
+    "local": "holocms/web-gallery/v2/images/welcome/newbie_furni/noob_stool_4.png",
+    "sha256": "508c0968240e1ced57faed6ea07ba3cc0ebb01c6c297cfd1a316530d8f4822e5"
+  },
+  {
+    "source": "web-gallery/v2/images/welcome/newbie_furni/noob_plant.png",
+    "local": "holocms/web-gallery/v2/images/welcome/newbie_furni/noob_plant.png",
+    "sha256": "e89be3903d3fb44a9048e3a261f8869a3cfbb3aabe91c9dbd05c5a4ce70fa98d"
+  },
+  {
+    "source": "web-gallery/v2/images/tags/tags.gif",
+    "local": "holocms/web-gallery/v2/images/tags/tags.gif",
+    "sha256": "80ac078bb9e8b01daaefe8ece6007a273b1bb0c74f87f1791c588fc9a5a33556"
+  },
+  {
+    "source": "web-gallery/v2/images/rares/deck.gif",
+    "local": "holocms/web-gallery/v2/images/rares/deck.gif",
+    "sha256": "4c82e86f1daecffa0e409314c138d6901024c776cd653a715b6b3f6b5bdb8a48"
+  },
+  {
+    "source": "web-gallery/v2/images/rares/moon_patch.gif",
+    "local": "holocms/web-gallery/v2/images/rares/moon_patch.gif",
+    "sha256": "89b97e81839c837cbd11d70c5a2b124b4860fcf42e0d144857e3f341291a74a6"
+  },
+  {
+    "source": "web-gallery/v2/images/rares/samovar.gif",
+    "local": "holocms/web-gallery/v2/images/rares/samovar.gif",
+    "sha256": "b4650ffb48bfdfa7c999b83e6e49cff43b32b96e87d483dabb747e9b6226ed25"
+  },
+  {
+    "source": "web-gallery/v2/images/rares/icm_green.gif",
+    "local": "holocms/web-gallery/v2/images/rares/icm_green.gif",
+    "sha256": "63a6099a38b23f92ff2732f0c9a71bcc74e886cb58b7dde53cc1a3f07f045729"
+  },
+  {
+    "source": "web-gallery/v2/images/rares/dino.gif",
+    "local": "holocms/web-gallery/v2/images/rares/dino.gif",
+    "sha256": "caf39e52931b666f501c735aa9386bc6d17f7a79baf91ce219e5d7ab182e97e7"
+  },
+  {
+    "source": "web-gallery/v2/images/rares/nelly_gold.gif",
+    "local": "holocms/web-gallery/v2/images/rares/nelly_gold.gif",
+    "sha256": "70a98dfe081effc104e1776c292f14409922fe79fea8059283cdb06e583b3f74"
+  },
+  {
+    "source": "web-gallery/v2/images/habboclub/600_newfriends.gif",
+    "local": "holocms/web-gallery/v2/images/habboclub/600_newfriends.gif",
+    "sha256": "a9a4d389e71a42bb585130a4985593eb85674c966af904affce0516c9416fc0f"
+  },
+  {
+    "source": "web-gallery/v2/images/habboclub/hc_clothes_items.gif",
+    "local": "holocms/web-gallery/v2/images/habboclub/hc_clothes_items.gif",
+    "sha256": "f88e0300a6b93d94c6f8e5966a7cb41a8b3d8ccb8ba9624c0b9ea833367b2ca3"
+  },
+  {
+    "source": "web-gallery/v2/images/habboclub/hc_banner.png",
+    "local": "holocms/web-gallery/v2/images/habboclub/hc_banner.png",
+    "sha256": "288c18ce1289d4d0688726779aa785a7bb7e7ae76f54aa8640156df46c099635"
+  },
+  {
+    "source": "web-gallery/v2/images/habboclub/extra.png",
+    "local": "holocms/web-gallery/v2/images/habboclub/extra.png",
+    "sha256": "e1491051a08655dda25690e74e3e76be3cdcdb6b08d62caea9b82f43edfd4097"
+  },
+  {
+    "source": "web-gallery/v2/images/habboclub/hc_clothes.gif",
+    "local": "holocms/web-gallery/v2/images/habboclub/hc_clothes.gif",
+    "sha256": "682322ee3ec696cda26b115c849409888a3476273525af012bace6f1b72b55ad"
+  },
+  {
+    "source": "web-gallery/v2/images/habboclub/hc_morerooms.gif",
+    "local": "holocms/web-gallery/v2/images/habboclub/hc_morerooms.gif",
+    "sha256": "9925eea827ec4da366246550eedc6d2170e5686f48ddfd11c7ab86e8b7d89649"
+  },
+  {
+    "source": "web-gallery/v2/images/habboclub/hc_mini.png",
+    "local": "holocms/web-gallery/v2/images/habboclub/hc_mini.png",
+    "sha256": "212c6cf06dd3cad19f0da0f49c3fa021077a8b941c0f163574f72420af87ff40"
+  },
+  {
+    "source": "web-gallery/v2/images/habboclub/hc_furniture_items.gif",
+    "local": "holocms/web-gallery/v2/images/habboclub/hc_furniture_items.gif",
+    "sha256": "84231ebe15897b7b2726e23c4a20f5ac7fc63b445f91007382f2ec5fa397d1c5"
+  },
+  {
+    "source": "web-gallery/v2/images/habboclub/hc_clothes_items.png",
+    "local": "holocms/web-gallery/v2/images/habboclub/hc_clothes_items.png",
+    "sha256": "d335b842f9665d97643de74135e0dc0b2796115991e9c50e591d7b9122f66d09"
+  },
+  {
+    "source": "web-gallery/v2/images/habboclub/extra.gif",
+    "local": "holocms/web-gallery/v2/images/habboclub/extra.gif",
+    "sha256": "00e17062adbfe35320d10be903a212bb89e161033bab8857afe3c09dd7b58e73"
+  },
+  {
+    "source": "web-gallery/v2/images/habboclub/chooser_tuto.gif",
+    "local": "holocms/web-gallery/v2/images/habboclub/chooser_tuto.gif",
+    "sha256": "617139a2c4a6584a8398dd863bc7d2e89f0ec6ad118b9dde6d8ca2ad9cc87413"
+  },
+  {
+    "source": "web-gallery/v2/images/habboclub/hc_furniture.gif",
+    "local": "holocms/web-gallery/v2/images/habboclub/hc_furniture.gif",
+    "sha256": "3250442ecfed5246b2fff7f2ff83a54e03567f2545e37abfcb69f15367b5e2db"
+  },
+  {
+    "source": "web-gallery/v2/images/minimail/flag.png",
+    "local": "holocms/web-gallery/v2/images/minimail/flag.png",
+    "sha256": "3af6718e178757460a28f3be8e2a0f2d2eeb8e3710352f473665ef45c2dea260"
+  },
+  {
+    "source": "web-gallery/v2/images/minimail/conversation_icon.png",
+    "local": "holocms/web-gallery/v2/images/minimail/conversation_icon.png",
+    "sha256": "2f2b56886a350f18999e979fa60d38379217515ed68c52b81aaf31d173f74ac9"
+  },
+  {
+    "source": "web-gallery/v2/images/minimail/messages_bg_white.png",
+    "local": "holocms/web-gallery/v2/images/minimail/messages_bg_white.png",
+    "sha256": "61e1e794166c90cce46ae6d08a5828e4cd5981165390907849e73d1a7fc16903"
+  },
+  {
+    "source": "web-gallery/v2/images/personal_info/enter_button.png",
+    "local": "holocms/web-gallery/v2/images/personal_info/enter_button.png",
+    "sha256": "6f723659baedb370acb147ba4d210824927f19842fd82e9d728402a435df1f4b"
+  },
+  {
+    "source": "web-gallery/v2/images/personal_info/orange_thing.png",
+    "local": "holocms/web-gallery/v2/images/personal_info/orange_thing.png",
+    "sha256": "e475bd2c6e8c842e9b19cdb70950655154c1de57eec1a17eee914f27b243d161"
+  },
+  {
+    "source": "web-gallery/v2/images/personal_info/bottom.png",
+    "local": "holocms/web-gallery/v2/images/personal_info/bottom.png",
+    "sha256": "cb287a91facae9e5723431db041b386848ce8ad7cde214800dd9e4d020993d3e"
+  },
+  {
+    "source": "web-gallery/v2/images/personal_info/small_icons.png",
+    "local": "holocms/web-gallery/v2/images/personal_info/small_icons.png",
+    "sha256": "530380c7531fcecef062ef9816d6bf1686a68729d0410a86e7178f38bc0b7d97"
+  },
+  {
+    "source": "web-gallery/v2/images/personal_info/flashy_arrow.gif",
+    "local": "holocms/web-gallery/v2/images/personal_info/flashy_arrow.gif",
+    "sha256": "120eff9c1c277e6dbcf1868ff015c9297921fd28cb86167a5feeddae25622ae8"
+  },
+  {
+    "source": "web-gallery/v2/images/personal_info/info_habbo_plate.png",
+    "local": "holocms/web-gallery/v2/images/personal_info/info_habbo_plate.png",
+    "sha256": "a9f0413301716a61740d5c276cddacf775784943d8f388f097e89a30375ae281"
+  },
+  {
+    "source": "web-gallery/v2/images/personal_info/motto_field.png",
+    "local": "holocms/web-gallery/v2/images/personal_info/motto_field.png",
+    "sha256": "d59f479bc72c253b92459afe2c781c3808de7c14e33d52f2c218bf26e6c7e387"
+  },
+  {
+    "source": "web-gallery/v2/images/personal_info/big_icons.png",
+    "local": "holocms/web-gallery/v2/images/personal_info/big_icons.png",
+    "sha256": "c385364618a9e285bd1fc745fea30c73c8ec86990ac93b82686c0e206998b7da"
+  },
+  {
+    "source": "web-gallery/v2/images/personal_info/close_msg.png",
+    "local": "holocms/web-gallery/v2/images/personal_info/close_msg.png",
+    "sha256": "6292c0bb2920bafed037d6e10c3a200bd1ab5604d0c801fa18f59f30e8c88d30"
+  },
+  {
+    "source": "web-gallery/v2/images/personal_info/hotel_views/htlview_fr.png",
+    "local": "holocms/web-gallery/v2/images/personal_info/hotel_views/htlview_fr.png",
+    "sha256": "54ba1af6020a2362ab33e531507aa4d4e14627a5560af253c43186e194c11817"
+  },
+  {
+    "source": "web-gallery/v2/images/personal_info/hotel_views/htlview_gb.png",
+    "local": "holocms/web-gallery/v2/images/personal_info/hotel_views/htlview_gb.png",
+    "sha256": "e797dc81b6dfc2a4ee3f877561bd18c667427ba727231dcee967047a3cd4791b"
+  },
+  {
+    "source": "web-gallery/v2/images/personal_info/hotel_views/htlview_nl.png",
+    "local": "holocms/web-gallery/v2/images/personal_info/hotel_views/htlview_nl.png",
+    "sha256": "1c075c21954a2f832417676f77778188dc393bb99b709f85b6d321259c8a80e5"
+  },
+  {
+    "source": "web-gallery/v2/images/personal_info/hotel_views/htlview_br.png",
+    "local": "holocms/web-gallery/v2/images/personal_info/hotel_views/htlview_br.png",
+    "sha256": "bc24ebde4fa8fbbbbeb69eef5b7ac2c0211540f8b0d83679cda77fe72b8a4e7d"
+  },
+  {
+    "source": "web-gallery/v2/images/personal_info/hotel_views/htlview_fi.png",
+    "local": "holocms/web-gallery/v2/images/personal_info/hotel_views/htlview_fi.png",
+    "sha256": "e83ec6b67afd5d4c089e77fb7491dfe8dd2e9fc2d206ad675db0d8e3ea0dc310"
+  },
+  {
+    "source": "web-gallery/v2/images/personal_info/hotel_views/htlview_it.png",
+    "local": "holocms/web-gallery/v2/images/personal_info/hotel_views/htlview_it.png",
+    "sha256": "7ffbed938f87709a91bc4a65b89a0de98a07219ce69a23567c1c4ba8f66f4e81"
+  },
+  {
+    "source": "web-gallery/v2/images/rooms/room_icon_1.gif",
+    "local": "holocms/web-gallery/v2/images/rooms/room_icon_1.gif",
+    "sha256": "b225f9c61572482dd5cdfc6bf2d4642b2c49d5b9fe65632c031b22f5763a609b"
+  },
+  {
+    "source": "web-gallery/v2/images/rooms/room_icon_2.gif",
+    "local": "holocms/web-gallery/v2/images/rooms/room_icon_2.gif",
+    "sha256": "4bf823766175ed4e8f44c8cd65f5a20637eeb899a9d567f2c842736b21fa1fbc"
+  },
+  {
+    "source": "web-gallery/v2/images/rooms/room_icon_3.gif",
+    "local": "holocms/web-gallery/v2/images/rooms/room_icon_3.gif",
+    "sha256": "e3936e63daf23fc1f1ffd213c648fab04e08d64570c77b4e8e4249d02e725c05"
+  },
+  {
+    "source": "web-gallery/v2/images/rooms/room_icon_4.gif",
+    "local": "holocms/web-gallery/v2/images/rooms/room_icon_4.gif",
+    "sha256": "5cc92a372283b4f6e8eb96c89263669b8bdb622c0aa8581bd18e533e3a98d042"
+  },
+  {
+    "source": "web-gallery/v2/images/rooms/room_icon_5.gif",
+    "local": "holocms/web-gallery/v2/images/rooms/room_icon_5.gif",
+    "sha256": "841f997e71565b6b75541dddf6701ac1849d1185b164f2dfbf97cb9139542da4"
+  },
+  {
+    "source": "web-gallery/v2/images/shared_icons/small_icons.png",
+    "local": "holocms/web-gallery/v2/images/shared_icons/small_icons.png",
+    "sha256": "b6bdeeee72b0fae3eadef903c6c1e634e75e1252faf01993bb5fccd8066d2255"
+  },
+  {
+    "source": "web-gallery/v2/images/shared_icons/big_icons.png",
+    "local": "holocms/web-gallery/v2/images/shared_icons/big_icons.png",
+    "sha256": "c385364618a9e285bd1fc745fea30c73c8ec86990ac93b82686c0e206998b7da"
+  },
+  {
+    "source": "web-gallery/v2/images/tooltips/bubble-bottom.png",
+    "local": "holocms/web-gallery/v2/images/tooltips/bubble-bottom.png",
+    "sha256": "ed99efef2d9accbdc7aca6342c20a2ab97dfc98949b72ed494294676a834a1de"
+  },
+  {
+    "source": "web-gallery/v2/images/tooltips/bubble-bottom-left.png",
+    "local": "holocms/web-gallery/v2/images/tooltips/bubble-bottom-left.png",
+    "sha256": "1dcac5cd68af9333ac1fd5bffe14b8e687b524af4237bb0d3b5d4955437bbb55"
+  },
+  {
+    "source": "web-gallery/v2/images/tooltips/red-bottom.png",
+    "local": "holocms/web-gallery/v2/images/tooltips/red-bottom.png",
+    "sha256": "5f50ce00fa613e4b1aa0f506e0e53910e593eba2a693709847086c16f906a36c"
+  },
+  {
+    "source": "web-gallery/v2/images/tooltips/large-bubble.png",
+    "local": "holocms/web-gallery/v2/images/tooltips/large-bubble.png",
+    "sha256": "a0c3f85377bef37c423e331a27e3075633cb38b50d1fd0ed0166c9eb50b99c64"
+  },
+  {
+    "source": "web-gallery/v2/images/tooltips/red-top.png",
+    "local": "holocms/web-gallery/v2/images/tooltips/red-top.png",
+    "sha256": "c28b27e6853e37578343e353c598019373436a7e5edd9caaa9cb56a2e686e876"
+  },
+  {
+    "source": "web-gallery/v2/images/tooltips/bubble-top.png",
+    "local": "holocms/web-gallery/v2/images/tooltips/bubble-top.png",
+    "sha256": "d2512ee08896c7bbafe31f30e07392e5a591cc5c7f2a2e76321ec92e7dc82679"
+  },
+  {
+    "source": "web-gallery/v2/images/tooltips/bubble-full-right.png",
+    "local": "holocms/web-gallery/v2/images/tooltips/bubble-full-right.png",
+    "sha256": "c5c4c77b04fab29987c90963787a5d7742404d581c461cf04865ce89cf5297e8"
+  },
+  {
+    "source": "web-gallery/v2/images/client/grid.png",
+    "local": "holocms/web-gallery/v2/images/client/grid.png",
+    "sha256": "94940ba241478de9e1908d99dd76814599174fa96d3322cee1919e4dde8d8e26"
+  },
+  {
+    "source": "web-gallery/v2/images/client/preload.png",
+    "local": "holocms/web-gallery/v2/images/client/preload.png",
+    "sha256": "287562e6d66b655c8c864c5663a63da96d3f26008c15a1f8ecfba2c75d61167c"
+  },
+  {
+    "source": "web-gallery/v2/images/credits/ci.png",
+    "local": "holocms/web-gallery/v2/images/credits/ci.png",
+    "sha256": "d78044966ee655543bd9501c863da981d979139c60ec1c5454eb4ea62e428270"
+  },
+  {
+    "source": "web-gallery/v2/images/credits/us.png",
+    "local": "holocms/web-gallery/v2/images/credits/us.png",
+    "sha256": "d740ba751e5b994ae87fda3b6b263d8e2f6d4a7e861530c0e1c6e16e1523d1dc"
+  },
+  {
+    "source": "web-gallery/v2/images/credits/credits_permission.png",
+    "local": "holocms/web-gallery/v2/images/credits/credits_permission.png",
+    "sha256": "f77eccb32df1fa0596639d82e7b96c788d4958417d0f6a7c19b32571194d1058"
+  },
+  {
+    "source": "web-gallery/v2/images/credits/other.png",
+    "local": "holocms/web-gallery/v2/images/credits/other.png",
+    "sha256": "f523e1885d98d068006106b98449c38177b2586ba29a7a11a04dc07ea0e41a28"
+  },
+  {
+    "source": "web-gallery/v2/images/credits/poor.png",
+    "local": "holocms/web-gallery/v2/images/credits/poor.png",
+    "sha256": "b9416d1937296ea89f28897a73101b405e456c53a8650a00db702bffc2e90927"
+  },
+  {
+    "source": "web-gallery/v2/images/credits/flag_selected.png",
+    "local": "holocms/web-gallery/v2/images/credits/flag_selected.png",
+    "sha256": "41a23fa8801f1aaad31f85699cbc410c0282bd4639180e2ea1647f1dd0399419"
+  },
+  {
+    "source": "web-gallery/v2/images/credits/uk.png",
+    "local": "holocms/web-gallery/v2/images/credits/uk.png",
+    "sha256": "d36247c5eaacaa7c99a56233c2f38426853316ad6d4bae437c6abc8c1fb8f463"
+  },
+  {
+    "source": "web-gallery/v2/images/credits/ca.png",
+    "local": "holocms/web-gallery/v2/images/credits/ca.png",
+    "sha256": "46af452f7a90d72fdf94b4d4629930589a9b30385e2b4fb1e683f8f2184be5fb"
+  },
+  {
+    "source": "web-gallery/v2/images/systemavailability/hotel-button-hotelclosed.png",
+    "local": "holocms/web-gallery/v2/images/systemavailability/hotel-button-hotelclosed.png",
+    "sha256": "126860f4d63fa7398ed0f3831615efbf555f0af0994f50697fe1dd542a392a40"
+  },
+  {
+    "source": "web-gallery/v2/images/systemavailability/hotel-button-splash.png",
+    "local": "holocms/web-gallery/v2/images/systemavailability/hotel-button-splash.png",
+    "sha256": "672be7fd450c6a6c544eda9b8b5d53f9ffb0ae197c80b808c884f8ce73c3f0cd"
+  },
+  {
+    "source": "web-gallery/v2/images/systemavailability/hotel-button-ends.png",
+    "local": "holocms/web-gallery/v2/images/systemavailability/hotel-button-ends.png",
+    "sha256": "4a73eab5581913ff3b8b32c805bea8153dda714a780079909c3458cbaab84013"
+  },
+  {
+    "source": "web-gallery/v2/images/systemavailability/hotel-button-medium-icon-closed.png",
+    "local": "holocms/web-gallery/v2/images/systemavailability/hotel-button-medium-icon-closed.png",
+    "sha256": "bfce3253cc865d85213a6c9d2e200a2315a97c887afa3d51d3607b4d00446acb"
+  },
+  {
+    "source": "web-gallery/v2/images/systemavailability/orange_thing.png",
+    "local": "holocms/web-gallery/v2/images/systemavailability/orange_thing.png",
+    "sha256": "e475bd2c6e8c842e9b19cdb70950655154c1de57eec1a17eee914f27b243d161"
+  },
+  {
+    "source": "web-gallery/v2/images/systemavailability/hotel-button-medium-icon.png",
+    "local": "holocms/web-gallery/v2/images/systemavailability/hotel-button-medium-icon.png",
+    "sha256": "6f2f7da197bf4d50f089396fbea323bd9bccac1355bf07c2766abde011bc20ad"
+  },
+  {
+    "source": "web-gallery/v2/images/systemavailability/hotel-button-hotelopen.gif",
+    "local": "holocms/web-gallery/v2/images/systemavailability/hotel-button-hotelopen.gif",
+    "sha256": "abcc041e7e5f7167767fe8f991def440d7aec5b00ece1f22fdeb6f9bca5155cc"
+  },
+  {
+    "source": "web-gallery/v2/images/systemavailability/hotel-button.png",
+    "local": "holocms/web-gallery/v2/images/systemavailability/hotel-button.png",
+    "sha256": "8ae67c1d24d0d5bec9cd2cc7870f3ea0e6786c5a055b0c9c9c2dd712f5129e97"
+  },
+  {
+    "source": "web-gallery/v2/images/systemavailability/hotel-button-hotelopen.png",
+    "local": "holocms/web-gallery/v2/images/systemavailability/hotel-button-hotelopen.png",
+    "sha256": "7e729eb261fa9cd6dd977b8d257e08792cb026a2c7a399913cad73278ece3a39"
+  },
+  {
+    "source": "web-gallery/v2/images/activehomes/habbo_skeleton.gif",
+    "local": "holocms/web-gallery/v2/images/activehomes/habbo_skeleton.gif",
+    "sha256": "41ec240780c73f2f061d064dabf68c671b23835963d73033e728941f739a4f2f"
+  },
+  {
+    "source": "web-gallery/v2/images/activehomes/boxblue.png",
+    "local": "holocms/web-gallery/v2/images/activehomes/boxblue.png",
+    "sha256": "d88c8b4e42aec4d14cb1816e49533dfc3f5c36edf53b98825fe668d5b0d77f43"
+  },
+  {
+    "source": "web-gallery/v2/images/activehomes/transparent_area.gif",
+    "local": "holocms/web-gallery/v2/images/activehomes/transparent_area.gif",
+    "sha256": "0591e15bb3df69c8004cdf5ab8949c6adbcd41f6dd61c1ce7ac356ffaf59d17f"
+  },
+  {
+    "source": "web-gallery/v2/images/activehomes/stripepattern.gif",
+    "local": "holocms/web-gallery/v2/images/activehomes/stripepattern.gif",
+    "sha256": "abe30f3ed0b68cc6ef4ad42e5eeeaa584453ef8f3cec7699fafa4530863023c9"
+  },
+  {
+    "source": "web-gallery/v2/images/box-scale/bubble_br.gif",
+    "local": "holocms/web-gallery/v2/images/box-scale/bubble_br.gif",
+    "sha256": "1cc281ef7fc2ab19b7b7044ee16aeda88c124a6aea11e67ee634326fd9a95cff"
+  },
+  {
+    "source": "web-gallery/v2/images/box-scale/bubble_tl.gif",
+    "local": "holocms/web-gallery/v2/images/box-scale/bubble_tl.gif",
+    "sha256": "ab37ea2e44b6545314031f30320d8bb07d845088a62346c4b370c98311fea531"
+  },
+  {
+    "source": "web-gallery/v2/images/box-scale/bubble_tail_small.gif",
+    "local": "holocms/web-gallery/v2/images/box-scale/bubble_tail_small.gif",
+    "sha256": "6d66d80d5c4adeb9c1c858ce3f047147d16604bb9ff2dc0dd86747080ec4b99f"
+  },
+  {
+    "source": "web-gallery/v2/images/box-scale/bubble_bl.gif",
+    "local": "holocms/web-gallery/v2/images/box-scale/bubble_bl.gif",
+    "sha256": "af4317d501fc8286375376f40df2434e07dcc3e2cf049befc21f248020696b1e"
+  },
+  {
+    "source": "web-gallery/v2/images/box-scale/bubble_tr.gif",
+    "local": "holocms/web-gallery/v2/images/box-scale/bubble_tr.gif",
+    "sha256": "17638ec0687d3711a6857ed8e93750874c17490c60c941a9ffe5b11d99dd919a"
+  }
+]
