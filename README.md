@@ -139,6 +139,8 @@ La entrada `@mgadev/habbo-ui/2003` incluye paneles, navegación, noticias, promo
 
 ## Storybook y conversiones de 0.2.0
 
+[Abrir el catálogo de componentes en Storybook](https://habbo-ui.mgadev.workers.dev/)
+
 `pnpm storybook` abre el catálogo en el puerto 6006; `pnpm build-storybook` verifica los tipos y genera la web estática. Las 53 familias de historias están en `apps/docs/src/2003`, `2006` y `2008`. Se incluyen variantes, estados vacíos e interacciones locales. La hoja histórica de 2006 queda limitada a las historias de ese año.
 
 La API completa y las composiciones nuevas se documentan en `packages/habbo-ui/README.md`. El paquete local 0.2.0 incorpora las conversiones pendientes; no se publica automáticamente en npm.
