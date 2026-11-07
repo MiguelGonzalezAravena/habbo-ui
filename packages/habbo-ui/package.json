@@ -1,7 +1,21 @@
 {
   "name": "@mgadev/habbo-ui",
+  "author": "@mgadev",
   "version": "0.6.0",
   "description": "Historical Habbo-inspired React UI components organized by year",
+  "keywords": [
+    "habbo",
+    "habbo-ui",
+    "react",
+    "components",
+    "ui",
+    "retro",
+    "pixel-art",
+    "avatar-editor",
+    "2008",
+    "2006",
+    "2003"
+  ],
   "type": "module",
   "sideEffects": [
     "./dist/2006/style.css",
