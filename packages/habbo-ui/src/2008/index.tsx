@@ -27,3 +27,5 @@ export type { TooltipProps, PaginationProps, Tag, TagCloudProps, TagsCardProps, 
 for (const [name,component] of Object.entries({Alert,Button,Card,Dialog,Field,LoginForm,Tabs})) {
  Object.assign(component,{displayName:name});
 }
+
+export { AvatarEditor, type AvatarEditorProps } from './AvatarEditor';

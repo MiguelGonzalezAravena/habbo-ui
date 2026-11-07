@@ -141,6 +141,8 @@ La entrada `@mgadev/habbo-ui/2003` incluye paneles, navegación, noticias, promo
 
 [Abrir el catálogo de componentes en Storybook](https://habbo-ui.mgadev.workers.dev/)
 
+La historia **2008 → AvatarEditor → Vestidor** y el catálogo 2008 del Playground incluyen el generador de Habbos. El editor usa los SWF y el catálogo histórico de [HoloCMS](https://github.com/MiguelGonzalezAravena/HoloCMS/tree/39143d26be9f096fadfbd5e30b634977ab0dd5f3), ejecutados con Ruffle. La vista previa externa usa Habbo Imaging. Para usar `AvatarEditor` en otra aplicación, sirve la carpeta `apps/playground/public/habbo-2008/avatar-editor` desde el mismo origen y ajusta `editorUrl` si cambias la ruta.
+
 `pnpm storybook` abre el catálogo en el puerto 6006; `pnpm build-storybook` verifica los tipos y genera la web estática. Las 53 familias de historias están en `apps/docs/src/2003`, `2006` y `2008`. Se incluyen variantes, estados vacíos e interacciones locales. La hoja histórica de 2006 queda limitada a las historias de ese año.
 
 La API completa y las composiciones nuevas se documentan en `packages/habbo-ui/README.md`. El paquete local 0.2.0 incorpora las conversiones pendientes; no se publica automáticamente en npm.

@@ -1,6 +1,8 @@
 import type { StorybookConfig } from '@storybook/react-vite';
 const config: StorybookConfig = {
  stories: ['../src/**/*.stories.@(ts|tsx)'],
+ staticDirs: [{ from: '../../playground/public/habbo-2008/avatar-editor', to: '/habbo-2008/avatar-editor' }],
+
  addons: ['@storybook/addon-essentials'],
  framework: { name: '@storybook/react-vite', options: {} },
  docs: { autodocs: 'tag' },

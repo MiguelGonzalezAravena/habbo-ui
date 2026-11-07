@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vestidor de Habbo</title>
+  <style>body { margin: 0; font: 14px Verdana, sans-serif; } ruffle-player { display: block; width: 435px; height: 400px; }</style>
+</head>
+<body>
+  <div id="editor"></div>
+  <p id="status" role="status">Cargando vestidor…</p>
+  <script type="module">
+    const status = document.querySelector('#status');
+    const params = new URLSearchParams(location.search);
+    const send = (data) => parent.postMessage({ type: 'habbo-avatar-editor', ...data }, location.origin);
+    window.HabboEditor = {
+      setGenderAndFigure(gender, figure) { send({ gender, figure }); },
+      setAllowedToProceed() {},
+      setEditorState() {},
+      showOldFigureNotice() {},
+      showHabboClubNotice() {},
+      hideHabboClubNotice() {},
+    };
+
+    try {
+      await new Promise((resolve, reject) => {
+        const script = document.createElement('script');
+        script.src = 'https://cdn.jsdelivr.net/npm/@ruffle-rs/ruffle@0.7.1/ruffle.js';
+        script.onload = resolve;
+        script.onerror = reject;
+        document.head.append(script);
+      });
+      const player = window.RufflePlayer.newest().createPlayer();
+      document.querySelector('#editor').append(player);
+      await player.ruffle().load({
+        url: new URL('HabboRegistration.swf', location.href).href,
+        base: new URL('.', location.href).href,
+        allowScriptAccess: true,
+        autoplay: 'on',
+        unmuteOverlay: 'hidden',
+        parameters: {
+          figuredata_url: new URL('figuredata.xml', location.href).href,
+          draworder_url: new URL('draworder.xml', location.href).href,
+          localization_url: new URL('figure_editor.xml', location.href).href,
+          figure: params.get('figure') ?? '',
+          gender: params.get('gender') ?? 'M',
+          showClubSelections: '1',
+          userHasClub: params.get('club') === '1' ? '1' : '0',
+        },
+      });
+      status.remove();
+    } catch {
+      status.textContent = 'No se pudo cargar el vestidor.';
+      send({ error: true });
+    }
+  </script>
+</body>
+</html>
