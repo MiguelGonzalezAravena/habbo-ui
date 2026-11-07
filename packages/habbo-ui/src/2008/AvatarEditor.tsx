@@ -1,11 +1,15 @@
 import { useEffect, useRef, useState } from 'react';
 import { Button, Card, Field } from './index';
+import { SelectField } from './compositions';
 
 export interface AvatarEditorProps {
   editorUrl?: string;
   initialFigure?: string;
   initialGender?: 'M' | 'F';
   allowClub?: boolean;
+  showExpressionControls?: boolean;
+  showOutput?: boolean;
+  onChange?: (value: { figure: string; url: string }) => void;
 }
 
 export function AvatarEditor({
@@ -13,21 +17,29 @@ export function AvatarEditor({
   initialFigure = 'hd-180-2.ch-235-62.lg-281-62.sh-290-62.hr-165-34',
   initialGender = 'M',
   allowClub = true,
+  showExpressionControls = true,
+  showOutput = true,
+  onChange,
 }: AvatarEditorProps) {
   const src = `${editorUrl}?${new URLSearchParams({
     figure: initialFigure, gender: initialGender, club: allowClub ? '1' : '0',
   })}`;
 
-  return <AvatarEditorFrame key={src} src={src} initialFigure={initialFigure} initialGender={initialGender} />;
+  return <AvatarEditorFrame key={src} src={src} initialFigure={initialFigure} initialGender={initialGender} showExpressionControls={showExpressionControls} showOutput={showOutput} onChange={onChange} />;
 }
 
-function AvatarEditorFrame({ src, initialFigure, initialGender }: {
+function AvatarEditorFrame({ src, initialFigure, initialGender, showExpressionControls, showOutput, onChange }: {
   src: string;
   initialFigure: string;
   initialGender: 'M' | 'F';
+  showExpressionControls: boolean;
+  showOutput: boolean;
+  onChange: AvatarEditorProps['onChange'];
 }) {
   const frame = useRef<HTMLIFrameElement>(null);
   const [look, setLook] = useState({ figure: initialFigure, gender: initialGender });
+  const [gesture, setGesture] = useState('std');
+  const [action, setAction] = useState('std');
   const [status, setStatus] = useState('');
   useEffect(() => {
     const receive = ({ source, origin, data }: MessageEvent) => {
@@ -47,8 +59,18 @@ function AvatarEditorFrame({ src, initialFigure, initialGender }: {
   }, []);
 
   const preview = `https://www.habbo.es/habbo-imaging/avatarimage?${new URLSearchParams({
-    ...look, size: 'm', direction: '2', head_direction: '2',
+    ...look, ...(showExpressionControls ? { gesture, action } : {}), size: 'm', direction: '2', head_direction: '2',
   })}`;
+
+  const onChangeRef = useRef(onChange);
+  useEffect(() => {
+    onChangeRef.current = onChange;
+  }, [onChange]);
+
+  const { figure } = look;
+  useEffect(() => {
+    onChangeRef.current?.({ figure, url: preview });
+  }, [figure, preview]);
 
   async function copy(value: string) {
     try {
@@ -67,10 +89,32 @@ function AvatarEditorFrame({ src, initialFigure, initialGender }: {
       </div>
       <img src={preview} alt="Vista previa de Habbo Imaging" width={64} height={110} />
     </div>
-    <Field label="Código figure" value={look.figure} readOnly />
-    <Button onClick={() => copy(look.figure)}>Copiar código</Button>
-    <Field label="URL de la imagen" value={preview} readOnly />
-    <Button onClick={() => copy(preview)}>Copiar URL</Button>
-    <p role="status">{status}</p>
+    {showExpressionControls && (
+      <div style={{ display: 'flex', flexWrap: 'wrap', gap: 16, marginBottom: 24 }}>
+        <SelectField label="Expresión" value={gesture} onChange={event => setGesture(event.target.value)}>
+          <option value="std">Neutral</option>
+          <option value="sml">Feliz</option>
+          <option value="sad">Triste</option>
+          <option value="agr">Enojado</option>
+          <option value="srp">Sorprendido</option>
+        </SelectField>
+        <SelectField label="Postura o acción" value={action} onChange={event => setAction(event.target.value)}>
+          <option value="std">De pie</option>
+          <option value="sit">Sentado</option>
+          <option value="lay">Acostado</option>
+          <option value="wlk">Caminando</option>
+          <option value="wav">Saludando (mano arriba)</option>
+        </SelectField>
+      </div>
+    )}
+    {showOutput && <>
+      <div style={{ marginBottom: 24 }}>
+        <Field label="Código figure" value={look.figure} readOnly />
+        <Button style={{ marginTop: 8 }} onClick={() => copy(look.figure)}>Copiar código</Button>
+      </div>
+      <Field label="URL de la imagen" value={preview} readOnly />
+      <Button style={{ marginTop: 8 }} onClick={() => copy(preview)}>Copiar URL</Button>
+      <p role="status">{status}</p>
+    </>}
   </Card>;
 }

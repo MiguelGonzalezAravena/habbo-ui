@@ -18,7 +18,7 @@ export function Example() {
 
 - `/2003`: Panel, OnlinePanel, HelpPanel, Navigation, NewsCard, PromoCard, Button, CheckInButton, Hero, Logo, Typography, ContactForm, WeekSelector y Page. GIF y fondo incluidos; estilos aislados.
 - `/2006`: Button, Panel (Header, Body, Footer), Window (Header, Content, Footer), Tabs; GoldCard, SnowCard, WelcomeCard, WinterCard, HappeningsCard, ECard, NewsCard, PromoLink, ScoreTable, ScoresCard y Navigation. Conserva la hoja histórica global; úsala en una página dedicada.
-- `/2008`: Button, Card, Alert, Field, Tabs, LoginForm, Dialog; HelpBubble, Tooltip, Pagination, TagCloud, TagsCard, SelectField, TextareaField, Checkbox, Radio, SettingsForm, RoomsCard, GroupsCard, HabbosCard, PromotionCard, NewsPromo, Navigation y Header. CSS aislado.
+- `/2008`: Button, Card, Alert, Field, Tabs, LoginForm, Dialog; HelpBubble, Tooltip, Pagination, TagCloud, TagsCard, SelectField, TextareaField, Checkbox, Radio, SettingsForm, RoomsCard, GroupsCard, HabbosCard, PromotionCard, NewsPromo, Navigation, Header y AvatarEditor. CSS aislado.
 
 Importa el CSS de la misma edición: `@mgadev/habbo-ui/2003/styles.css`, `/2006/styles.css` o `/2008/styles.css`. La raíz exporta `editions`, no componentes. Todos los componentes y sus props se tipan con TypeScript.
 
@@ -37,3 +37,7 @@ Proyecto no afiliado a Habbo. Los recursos históricos conservan los derechos de
 ### Card de Habbo Club (2008)
 
 `<Card variant="hc" title="Habbo Club">...</Card>` utiliza la superficie `hcred` de HoloCMS: cabecera roja, fondo `#FFE8B7` y el patrón original `hc_pattern.gif` incluido en el paquete. Storybook la muestra en `2008/Card → Habbo Club · HC`.
+
+## AvatarEditor (2008)
+
+Importa `AvatarEditor` desde `@mgadev/habbo-ui/2008` y carga el CSS de 2008. Sirve los archivos del [vestidor histórico](https://github.com/MiguelGonzalezAravena/habbo-ui/tree/81685ed/apps/playground/public/habbo-2008/avatar-editor) desde el mismo origen en `/habbo-2008/avatar-editor/`. Si usas otra ruta, pasa la URL de `editor.html` en `editorUrl`. El vestidor carga Ruffle y la vista previa usa Habbo Imaging.
