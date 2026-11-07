@@ -6,7 +6,7 @@ const meta = {
   title: '2008/AvatarEditor',
   component: AvatarEditor,
   tags: ['autodocs'],
-  args: { showExpressionControls: true, showOutput: true },
+  args: { showExpressionControls: true, showOutput: true, showPreview: true },
   argTypes: {
     initialFigure: {
       description: 'Código figure con el que se abre el vestidor. Por defecto se carga un look de ejemplo.',
@@ -24,6 +24,10 @@ const meta = {
     showExpressionControls: {
       description: 'Muestra los controles de expresión, postura y dirección.',
     },
+    showPreview: {
+      description: 'Muestra la vista previa de Habbo Imaging centrada en su contenedor. Viene activada por defecto.',
+      control: 'boolean',
+    },
     showOutput: {
       description: 'Muestra los campos con el código figure y la URL y sus botones de copia.',
     },
@@ -39,7 +43,7 @@ const meta = {
       description: {
         component: [
           'Publica la carpeta [avatar-editor](https://github.com/MiguelGonzalezAravena/habbo-ui/tree/81685ed/apps/playground/public/habbo-2008/avatar-editor) en `/habbo-2008/avatar-editor/` de tu aplicación. Si la sirves en otra ruta, pasa la ubicación de `editor.html` en `editorUrl`.',
-          'Ambas opciones de visibilidad vienen activadas. Puedes ocultar los campos y seguir recibiendo sus valores con `onChange`.',
+          'Las opciones de visibilidad vienen activadas. Usa `showPreview={false}` para ocultar la imagen externa. Puedes ocultar los campos y seguir recibiendo sus valores con `onChange`.',
           [
             '```tsx',
             "import { AvatarEditor } from '@mgadev/habbo-ui/2008';",

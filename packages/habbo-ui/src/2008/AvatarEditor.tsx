@@ -20,6 +20,7 @@ export interface AvatarEditorProps {
   allowClub?: boolean;
   showExpressionControls?: boolean;
   showOutput?: boolean;
+  showPreview?: boolean;
   onChange?: (value: { figure: string; url: string }) => void;
 }
 
@@ -30,21 +31,23 @@ export function AvatarEditor({
   allowClub = true,
   showExpressionControls = true,
   showOutput = true,
+  showPreview = true,
   onChange,
 }: AvatarEditorProps) {
   const src = `${editorUrl}?${new URLSearchParams({
     figure: initialFigure, gender: initialGender, club: allowClub ? '1' : '0',
   })}`;
 
-  return <AvatarEditorFrame key={src} src={src} initialFigure={initialFigure} initialGender={initialGender} showExpressionControls={showExpressionControls} showOutput={showOutput} onChange={onChange} />;
+  return <AvatarEditorFrame key={src} src={src} initialFigure={initialFigure} initialGender={initialGender} showExpressionControls={showExpressionControls} showOutput={showOutput} showPreview={showPreview} onChange={onChange} />;
 }
 
-function AvatarEditorFrame({ src, initialFigure, initialGender, showExpressionControls, showOutput, onChange }: {
+function AvatarEditorFrame({ src, initialFigure, initialGender, showExpressionControls, showOutput, showPreview, onChange }: {
   src: string;
   initialFigure: string;
   initialGender: 'M' | 'F';
   showExpressionControls: boolean;
   showOutput: boolean;
+  showPreview: boolean;
   onChange: AvatarEditorProps['onChange'];
 }) {
   const frame = useRef<HTMLIFrameElement>(null);
@@ -100,7 +103,13 @@ function AvatarEditorFrame({ src, initialFigure, initialGender, showExpressionCo
         <iframe ref={frame} src={src} title="Vestidor de Habbo" width={435} height={430}
           style={{ display: 'block', border: 0 }} />
       </div>
-      <img src={preview} alt="Vista previa de Habbo Imaging" style={{ maxWidth: '100%', height: 'auto' }} />
+      {showPreview && (
+        <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center',
+          flex: '1 1 160px', minHeight: 430, minWidth: 0 }}>
+          <img src={preview} alt="Vista previa de Habbo Imaging"
+            style={{ display: 'block', maxWidth: '100%', height: 'auto' }} />
+        </div>
+      )}
     </div>
     {showExpressionControls && (
       <div style={{ display: 'flex', flexWrap: 'wrap', gap: 16, marginBottom: 24 }}>
