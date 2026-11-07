@@ -1,6 +1,6 @@
 {
   "name": "@mgadev/habbo-ui",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Historical Habbo-inspired React UI components organized by year",
   "type": "module",
   "sideEffects": [

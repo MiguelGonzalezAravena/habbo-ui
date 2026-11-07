@@ -2,6 +2,17 @@ import { useEffect, useRef, useState } from 'react';
 import { Button, Card, Field } from './index';
 import { SelectField } from './compositions';
 
+const directions = [
+  'Diagonal trasera derecha',
+  'Perfil derecho',
+  'Diagonal delantera derecha',
+  'De frente',
+  'Diagonal delantera izquierda',
+  'Perfil izquierdo',
+  'Diagonal trasera izquierda',
+  'De espaldas',
+];
+
 export interface AvatarEditorProps {
   editorUrl?: string;
   initialFigure?: string;
@@ -40,6 +51,7 @@ function AvatarEditorFrame({ src, initialFigure, initialGender, showExpressionCo
   const [look, setLook] = useState({ figure: initialFigure, gender: initialGender });
   const [gesture, setGesture] = useState('std');
   const [action, setAction] = useState('std');
+  const [direction, setDirection] = useState(2);
   const [status, setStatus] = useState('');
   useEffect(() => {
     const receive = ({ source, origin, data }: MessageEvent) => {
@@ -59,7 +71,8 @@ function AvatarEditorFrame({ src, initialFigure, initialGender, showExpressionCo
   }, []);
 
   const preview = `https://www.habbo.es/habbo-imaging/avatarimage?${new URLSearchParams({
-    ...look, ...(showExpressionControls ? { gesture, action } : {}), size: 'm', direction: '2', head_direction: '2',
+    ...look, ...(showExpressionControls ? { gesture, action } : {}), size: 'm',
+    direction: String(direction), head_direction: String(direction),
   })}`;
 
   const onChangeRef = useRef(onChange);
@@ -87,7 +100,7 @@ function AvatarEditorFrame({ src, initialFigure, initialGender, showExpressionCo
         <iframe ref={frame} src={src} title="Vestidor de Habbo" width={435} height={430}
           style={{ display: 'block', border: 0 }} />
       </div>
-      <img src={preview} alt="Vista previa de Habbo Imaging" width={64} height={110} />
+      <img src={preview} alt="Vista previa de Habbo Imaging" style={{ maxWidth: '100%', height: 'auto' }} />
     </div>
     {showExpressionControls && (
       <div style={{ display: 'flex', flexWrap: 'wrap', gap: 16, marginBottom: 24 }}>
@@ -97,6 +110,8 @@ function AvatarEditorFrame({ src, initialFigure, initialGender, showExpressionCo
           <option value="sad">Triste</option>
           <option value="agr">Enojado</option>
           <option value="srp">Sorprendido</option>
+          <option value="eyb">Ojos cerrados</option>
+          <option value="spk">Hablando</option>
         </SelectField>
         <SelectField label="Postura o acción" value={action} onChange={event => setAction(event.target.value)}>
           <option value="std">De pie</option>
@@ -104,7 +119,21 @@ function AvatarEditorFrame({ src, initialFigure, initialGender, showExpressionCo
           <option value="lay">Acostado</option>
           <option value="wlk">Caminando</option>
           <option value="wav">Saludando (mano arriba)</option>
+          <option value="wav,sit">Sentado y saludando</option>
+          <option value="laugh">Riendo</option>
+          <option value="respect">Dando respeto</option>
+          <option value="crr=1">Sosteniendo un objeto</option>
+          <option value="drk=1">Bebiendo</option>
         </SelectField>
+        <div style={{ display: 'flex', alignItems: 'end', gap: 8 }}>
+          <Button aria-label="Girar a la izquierda"
+            onClick={() => setDirection(current => (current + 1) % directions.length)}>←</Button>
+          <SelectField label="Dirección" value={direction} onChange={event => setDirection(Number(event.target.value))}>
+            {directions.map((label, value) => <option key={label} value={value}>{label}</option>)}
+          </SelectField>
+          <Button aria-label="Girar a la derecha"
+            onClick={() => setDirection(current => (current + directions.length - 1) % directions.length)}>→</Button>
+        </div>
       </div>
     )}
     {showOutput && <>
