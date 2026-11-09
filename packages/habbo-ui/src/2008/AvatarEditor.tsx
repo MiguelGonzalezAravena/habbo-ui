@@ -26,7 +26,7 @@ export interface AvatarEditorProps {
 
 export function AvatarEditor({
   editorUrl = '/habbo-2008/avatar-editor/editor.html',
-  initialFigure = 'hd-180-2.ch-235-62.lg-281-62.sh-290-62.hr-165-34',
+  initialFigure,
   initialGender = 'M',
   allowClub = true,
   showExpressionControls = true,
@@ -34,11 +34,12 @@ export function AvatarEditor({
   showPreview = true,
   onChange,
 }: AvatarEditorProps) {
+  const startingFigure = initialFigure?.trim() || 'hd-180-1.ch-210-66.lg-270-82.sh-290-77.hr-100-';
   const src = `${editorUrl}?${new URLSearchParams({
-    figure: initialFigure, gender: initialGender, club: allowClub ? '1' : '0',
+    figure: startingFigure, gender: initialGender, club: allowClub ? '1' : '0',
   })}`;
 
-  return <AvatarEditorFrame key={src} src={src} initialFigure={initialFigure} initialGender={initialGender} showExpressionControls={showExpressionControls} showOutput={showOutput} showPreview={showPreview} onChange={onChange} />;
+  return <AvatarEditorFrame key={src} src={src} initialFigure={startingFigure} initialGender={initialGender} showExpressionControls={showExpressionControls} showOutput={showOutput} showPreview={showPreview} onChange={onChange} />;
 }
 
 function AvatarEditorFrame({ src, initialFigure, initialGender, showExpressionControls, showOutput, showPreview, onChange }: {
